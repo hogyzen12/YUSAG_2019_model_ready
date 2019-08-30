@@ -1,11 +1,11 @@
 Air Force,AFA,1
-Akron,AKR,1
+Akron,AKRON,1
 Alabama,ALA,1
 Appalachian St.,APP,1
 Arizona,ARIZ,1
 Arizona St.,ASU,1
 Arkansas,ARK,1
-Arkansas St.,ARST,1
+Arkansas St.,ARKST,1
 Army West Point,ARMY,1
 Auburn,AUB,1
 Ball St.,BALL,1
@@ -20,6 +20,7 @@ Central Mich.,CMU,1
 Charlotte,CHAR,1
 Cincinnati,CIN,1
 Clemson,CLEM,1
+Coastal Carolina,CCU,1
 Colorado,COLO,1
 Colorado St.,CSU,1
 Duke,DUKE,1
@@ -35,8 +36,8 @@ Georgia,UGA,1
 Georgia St.,GAST,1
 Georgia Tech,GT,1
 Hawaii,HAW,1
-Houston,HBU,1
-Idaho,IDHO,
+Houston,HOU,1
+Idaho,IDAHO,1
 Illinois,ILL,1
 Indiana,IND,1
 Iowa,IOWA,1
@@ -89,7 +90,7 @@ San Diego St.,SDSU,1
 San Jose St.,SJSU,1
 SMU,SMU,1
 South Ala.,USA,1
-South Carolina,SC,1
+South Carolina,USC,1
 South Fla.,USF,1
 Southern Miss.,USM,1
 Stanford,STAN,1
@@ -105,9 +106,11 @@ Toledo,TOL,1
 Troy,TROY,1
 Tulane,TULN,1
 Tulsa,TLSA,1
+UAB,UAB,1
 UCF,UCF,1
 UCLA,UCLA,1
-UConn,CONN,1
+UConn,UCONN,1
+UMASS,UMASS,1
 UNLV,UNLV,1
 Utah,UTAH,1
 Utah St.,USU,1
