@@ -1,1575 +1,1445 @@
 year,month,day,team,opponent,location,teamscore,oppscore,OT,D1
-2018,8,25,UMASS,Duquesne,H,63,15,NA,2
-2018,8,26,RICE,Prairie View,H,31,28,NA,2
-2018,8,26,Jacksonville St.,N.C. A&T,H,17,20,NA,2
-2018,8,30,Wagner,BSU,H,40,23,NA,2
-2018,8,31,Chattanooga,Tennessee Tech,H,34,10,NA,2
-2018,8,31,Eastern Ky.,Morehead St.,H,49,23,NA,2
-2018,8,31,Delaware,Rhode Island,H,19,21,NA,2
-2018,8,31,Maine,New Hampshire,H,35,7,NA,2
-2018,8,31,Campbell,CHO,H,49,26,NA,2
-2018,8,31,Indiana St.,QUI,H,49,0,NA,2
-2018,8,31,Murray St.,Southern Ill.,H,10,49,NA,2
-2018,8,31,BALL,Central Conn. St.,H,42,6,NA,2
-2018,8,31,GAST,Kennesaw St.,H,24,20,NA,2
-2018,8,31,North Dakota,Mississippi Val.,H,35,7,NA,2
-2018,8,31,Samford,SHO,H,66,9,NA,2
-2018,8,31,ULM,Southeastern La.,H,34,31,NA,2
-2018,8,31,UAB,Savannah St.,H,52,0,NA,2
-2018,8,31,OKST,Missouri St.,H,58,17,NA,2
-2018,8,31,UTAH,Weber St.,H,41,10,NA,2
-2018,8,31,TA&M,Northwestern St.,H,59,7,NA,2
-2018,8,31,MTST,Western Ill.,H,26,23,NA,2
-2018,8,31,SJSU,UC Davis,H,38,44,NA,2
-2018,8,31,EMU,Monmouth,H,51,17,NA,2
-2018,9,1,Idaho St.,WES,H,45,10,NA,2
-2018,9,1,NEV,Portland St.,H,72,19,NA,2
-2018,9,1,CLEM,Furman,H,48,7,NA,2
-2018,9,1,UGA,Austin Peay,H,45,0,NA,2
-2018,9,1,TCU,Southern U.,H,55,7,NA,2
-2018,9,1,TEM,Villanova,H,17,19,NA,2
-2018,9,1,NCST,James Madison,H,24,13,NA,2
-2018,9,1,GT,Alcorn,H,41,0,NA,2
-2018,9,1,Lehigh,Saint Francis (PA),H,21,19,NA,2
-2018,9,1,Colgate,Holy Cross,H,24,17,NA,2
-2018,9,1,Dayton,Robert Morris,H,49,28,NA,2
-2018,9,1,Jacksonville,STA,H,63,14,NA,2
-2018,9,1,Marist,Georgetown,H,14,39,NA,2
-2018,9,1,Duquesne,LOC,H,45,0,NA,2
-2018,9,1,AFA,Stony Brook,H,38,0,NA,2
-2018,9,1,Youngstown St.,Butler,H,21,23,NA,2
-2018,9,1,OHIO,Howard,H,38,32,NA,2
-2018,9,1,Brown,NH,H,41,31,NA,2
-2018,9,1,PITT,Albany (NY),H,33,7,NA,2
-2018,9,1,North Dakota St.,Cal Poly,H,49,3,NA,2
-2018,9,1,Northern Colo.,McNeese,H,14,17,NA,2
-2018,9,1,ARK,Eastern Ill.,H,55,20,NA,2
-2018,9,1,MIZ,UT Martin,H,51,14,NA,2
-2018,9,1,Eastern Wash.,CEN,H,58,13,NA,2
-2018,9,1,San Diego,WES,H,38,9,NA,2
-2018,9,1,Florida A&M,Fordham,H,41,7,NA,2
-2018,9,1,Norfolk St.,VIR,H,34,13,NA,2
-2018,9,1,Alabama St.,TUS,H,26,20,1,2
-2018,9,1,Hampton,SHA,H,38,10,NA,2
-2018,9,1,UVA,Richmond,H,42,13,NA,2
-2018,9,1,BUFF,Delaware St.,H,48,10,NA,2
-2018,9,1,GASO,South Carolina St.,H,37,6,NA,2
-2018,9,1,USF,Elon,H,34,14,NA,2
-2018,9,1,CHAR,Fordham,H,34,10,NA,2
-2018,9,1,Western Caro.,NBY,H,33,26,NA,2
-2018,9,1,Wofford,The Citadel,H,28,21,NA,2
-2018,9,1,Sacred Heart,Lafayette,H,35,6,NA,2
-2018,9,1,Bucknell,William & Mary,H,7,14,NA,2
-2018,9,1,Gardner-Webb,LIM,H,52,17,NA,2
-2018,9,2,MSST,SFA,H,63,6,NA,2
-2018,9,2,Lamar University,KYCH,H,70,7,NA,2
-2018,9,2,Houston Baptist,SWB,H,49,7,NA,2
-2018,9,2,Morgan St.,Towson,H,10,36,NA,2
-2018,9,2,Davidson,BRE,H,34,13,NA,2
-2018,9,2,Tennessee St.,Bethune-Cookman,H,34,3,NA,2
-2018,9,2,USM,Jackson St.,H,55,7,NA,2
-2018,9,2,MEM,Mercer,H,66,14,NA,2
-2018,9,2,TLSA,Central Ark.,H,38,27,NA,2
-2018,9,2,ULL,Grambling,H,49,17,NA,2
-2018,9,2,ARKST,Southeast Mo. St.,H,48,21,NA,2
-2018,9,2,TOL,VMI,H,66,3,NA,2
-2018,9,2,KU,Nicholls St.,H,23,26,1,2
-2018,9,2,KSU,South Dakota,H,27,24,NA,2
-2018,9,2,Stetson,POINT,H,48,7,NA,2
-2018,9,2,Ark.-Pine Bluff,MOR,H,30,34,NA,2
-2018,9,2,Alabama A&M,MIL,H,37,0,NA,2
-2018,9,2,ETSU,MAR,H,28,7,NA,2
-2018,9,2,FLA,Charleston So.,H,53,6,NA,2
-2018,9,2,UTEP,Northern Ariz.,H,10,30,NA,2
-2018,9,2,Illinois St.,STX,H,46,0,NA,2
-2018,9,2,UNM,Incarnate Word,H,62,30,NA,2
-2018,9,2,Southern Utah,NOR,H,30,34,NA,2
-2018,9,2,BAY,Abilene Christian,H,55,27,NA,2
-2018,9,2,Texas Southern,UTPB,H,26,16,NA,2
-2018,9,2,Sacramento St.,SFIL,H,55,7,NA,2
-2018,9,2,Montana,UNI,H,26,23,NA,2
-2018,9,2,FRES,IDAHO,H,79,13,NA,2
-2018,9,2,N.C. Central,Prairie View,H,24,40,NA,2
-2018,9,2,ECU,N.C. A&T,H,23,28,NA,2
-2018,8,25,Duquesne,UMASS,V,15,63,NA,2
-2018,8,26,Prairie View,RICE,V,28,31,NA,2
-2018,8,26,N.C. A&T,Jacksonville St.,V,20,17,NA,2
-2018,8,30,BSU,Wagner,V,23,40,NA,2
-2018,8,31,Tennessee Tech,Chattanooga,V,10,34,NA,2
-2018,8,31,Morehead St.,Eastern Ky.,V,23,49,NA,2
-2018,8,31,Rhode Island,Delaware,V,21,19,NA,2
-2018,8,31,New Hampshire,Maine,V,7,35,NA,2
-2018,8,31,CHO,Campbell,V,26,49,NA,2
-2018,8,31,QUI,Indiana St.,V,0,49,NA,2
-2018,8,31,Southern Ill.,Murray St.,V,49,10,NA,2
-2018,8,31,Central Conn. St.,BALL,V,6,42,NA,2
-2018,8,31,Kennesaw St.,GAST,V,20,24,NA,2
-2018,8,31,Mississippi Val.,North Dakota,V,7,35,NA,2
-2018,8,31,SHO,Samford,V,9,66,NA,2
-2018,8,31,Southeastern La.,ULM,V,31,34,NA,2
-2018,8,31,Savannah St.,UAB,V,0,52,NA,2
-2018,8,31,Missouri St.,OKST,V,17,58,NA,2
-2018,8,31,Weber St.,UTAH,V,10,41,NA,2
-2018,8,31,Northwestern St.,TA&M,V,7,59,NA,2
-2018,8,31,Western Ill.,MTST,V,23,26,NA,2
-2018,8,31,UC Davis,SJSU,V,44,38,NA,2
-2018,8,31,Monmouth,EMU,V,17,51,NA,2
-2018,9,1,WES,Idaho St.,V,10,45,NA,2
-2018,9,1,Portland St.,NEV,V,19,72,NA,2
-2018,9,1,Furman,CLEM,V,7,48,NA,2
-2018,9,1,Austin Peay,UGA,V,0,45,NA,2
-2018,9,1,Southern U.,TCU,V,7,55,NA,2
-2018,9,1,Villanova,TEM,V,19,17,NA,2
-2018,9,1,James Madison,NCST,V,13,24,NA,2
-2018,9,1,Alcorn,GT,V,0,41,NA,2
-2018,9,1,Saint Francis (PA),Lehigh,V,19,21,NA,2
-2018,9,1,Holy Cross,Colgate,V,17,24,NA,2
-2018,9,1,Robert Morris,Dayton,V,28,49,NA,2
-2018,9,1,STA,Jacksonville,V,14,63,NA,2
-2018,9,1,Georgetown,Marist,V,39,14,NA,2
-2018,9,1,LOC,Duquesne,V,0,45,NA,2
-2018,9,1,Stony Brook,AFA,V,0,38,NA,2
-2018,9,1,Butler,Youngstown St.,V,23,21,NA,2
-2018,9,1,Howard,OHIO,V,32,38,NA,2
-2018,9,1,NH,Brown,V,31,41,NA,2
-2018,9,1,Albany (NY),PITT,V,7,33,NA,2
-2018,9,1,Cal Poly,North Dakota St.,V,3,49,NA,2
-2018,9,1,McNeese,Northern Colo.,V,17,14,NA,2
-2018,9,1,Eastern Ill.,ARK,V,20,55,NA,2
-2018,9,1,UT Martin,MIZ,V,14,51,NA,2
-2018,9,1,CEN,Eastern Wash.,V,13,58,NA,2
-2018,9,1,WES,San Diego,V,9,38,NA,2
-2018,9,1,Fordham,Florida A&M,V,7,41,NA,2
-2018,9,1,VIR,Norfolk St.,V,13,34,NA,2
-2018,9,1,TUS,Alabama St.,V,20,26,1,2
-2018,9,1,SHA,Hampton,V,10,38,NA,2
-2018,9,1,Richmond,UVA,V,13,42,NA,2
-2018,9,1,Delaware St.,BUFF,V,10,48,NA,2
-2018,9,1,South Carolina St.,GASO,V,6,37,NA,2
-2018,9,1,Elon,USF,V,14,34,NA,2
-2018,9,1,Fordham,CHAR,V,10,34,NA,2
-2018,9,1,NBY,Western Caro.,V,26,33,NA,2
-2018,9,1,The Citadel,Wofford,V,21,28,NA,2
-2018,9,1,Lafayette,Sacred Heart,V,6,35,NA,2
-2018,9,1,William & Mary,Bucknell,V,14,7,NA,2
-2018,9,1,LIM,Gardner-Webb,V,17,52,NA,2
-2018,9,2,SFA,MSST,V,6,63,NA,2
-2018,9,2,KYCH,Lamar University,V,7,70,NA,2
-2018,9,2,SWB,Houston Baptist,V,7,49,NA,2
-2018,9,2,Towson,Morgan St.,V,36,10,NA,2
-2018,9,2,BRE,Davidson,V,13,34,NA,2
-2018,9,2,Bethune-Cookman,Tennessee St.,V,3,34,NA,2
-2018,9,2,Jackson St.,USM,V,7,55,NA,2
-2018,9,2,Mercer,MEM,V,14,66,NA,2
-2018,9,2,Central Ark.,TLSA,V,27,38,NA,2
-2018,9,2,Grambling,ULL,V,17,49,NA,2
-2018,9,2,Southeast Mo. St.,ARKST,V,21,48,NA,2
-2018,9,2,VMI,TOL,V,3,66,NA,2
-2018,9,2,Nicholls St.,KU,V,26,23,1,2
-2018,9,2,South Dakota,KSU,V,24,27,NA,2
-2018,9,2,POINT,Stetson,V,7,48,NA,2
-2018,9,2,MOR,Ark.-Pine Bluff,V,34,30,NA,2
-2018,9,2,MIL,Alabama A&M,V,0,37,NA,2
-2018,9,2,MAR,ETSU,V,7,28,NA,2
-2018,9,2,Charleston So.,FLA,V,6,53,NA,2
-2018,9,2,Northern Ariz.,UTEP,V,30,10,NA,2
-2018,9,2,STX,Illinois St.,V,0,46,NA,2
-2018,9,2,Incarnate Word,UNM,V,30,62,NA,2
-2018,9,2,NOR,Southern Utah,V,34,30,NA,2
-2018,9,2,Abilene Christian,BAY,V,27,55,NA,2
-2018,9,2,UTPB,Texas Southern,V,16,26,NA,2
-2018,9,2,SFIL,Sacramento St.,V,7,55,NA,2
-2018,9,2,UNI,Montana,V,23,26,NA,2
-2018,9,2,IDAHO,FRES,V,13,79,NA,2
-2018,9,2,Prairie View,N.C. Central,V,40,24,NA,2
-2018,9,2,N.C. A&T,ECU,V,28,23,NA,2
-2018,9,6,Missouri St.,LIN,H,52,24,NA,2
-2018,9,7,Tennessee Tech,Kennesaw St.,H,10,49,NA,2
-2018,9,7,Central Conn. St.,LIN,H,55,0,NA,2
-2018,9,9,AUB,Alabama St.,H,63,9,NA,2
-2018,9,9,LSU,Southeastern La.,H,31,0,NA,2
-2018,9,9,MTSU,UT Martin,H,61,37,NA,2
-2018,9,9,TXST,Texas Southern,H,36,20,NA,2
-2018,9,9,TROY,Florida A&M,H,59,7,NA,2
-2018,9,9,LOU,Indiana St.,H,31,7,NA,2
-2018,9,9,LT,Southern U.,H,54,17,NA,2
-2018,9,9,Austin Peay,Presbyterian,H,24,0,NA,2
-2018,9,9,Abilene Christian,ANG,H,41,24,NA,2
-2018,9,9,South Dakota St.,MTST,H,45,14,NA,2
-2018,9,9,Central Ark.,Murray St.,H,26,13,NA,2
-2018,9,9,Houston Baptist,McNeese,H,34,51,NA,2
-2018,9,9,Northwestern St.,Grambling,H,34,7,NA,2
-2018,9,9,Sam Houston St.,Prairie View,H,41,32,NA,2
-2018,9,9,Jacksonville St.,Mississippi Val.,H,71,0,NA,2
-2018,9,9,Northern Ariz.,Eastern Wash.,H,26,31,NA,2
-2018,9,9,Alabama A&M,NOR,H,20,25,NA,2
-2018,9,9,Alcorn,LAC,H,78,0,NA,2
-2018,9,9,Ark.-Pine Bluff,CUMB,H,55,0,NA,2
-2018,9,9,Davidson,CHO,H,49,28,NA,2
-2018,9,9,FSU,Samford,H,36,26,NA,2
-2018,9,9,ILL,Western Ill.,H,34,14,NA,2
-2018,9,9,UNT,Incarnate Word,H,58,16,NA,2
-2018,9,9,WKU,Maine,H,28,31,NA,2
-2018,9,9,Illinois St.,Eastern Ill.,H,48,10,NA,2
-2018,9,9,TULN,Nicholls St.,H,42,17,NA,2
-2018,9,9,ORST,Southern Utah,H,48,25,NA,2
-2018,9,9,South Dakota St.,Sacramento St.,H,28,14,NA,2
-2018,9,9,Cal Poly,Weber St.,H,17,24,NA,2
-2018,9,9,UC Davis,San Diego,H,54,21,NA,2
-2018,9,8,WASH,North Dakota,H,45,3,NA,2
-2018,9,8,VT,William & Mary,H,62,17,NA,2
-2018,9,8,WVU,Youngstown St.,H,52,17,NA,2
-2018,9,8,UCF,South Carolina St.,H,38,0,NA,2
-2018,9,8,MIAMI,Savannah St.,H,77,0,NA,2
-2018,9,8,ORE,Portland St.,H,62,14,NA,2
-2018,9,8,Duquesne,Valparaiso,H,23,21,NA,2
-2018,9,8,Robert Morris,VIR,H,22,19,NA,2
-2018,9,8,Saint Francis (PA),Delaware St.,H,45,14,NA,2
-2018,9,8,WAKE,Towson,H,51,20,NA,2
-2018,9,8,Lehigh,Villanova,H,9,31,NA,2
-2018,9,8,Georgetown,Campbell,H,8,13,NA,2
-2018,9,8,BC,Holy Cross,H,62,14,NA,2
-2018,9,8,Rhode Island,Albany (NY),H,45,26,NA,2
-2018,9,8,Southeast Mo. St.,Dayton,H,40,21,NA,2
-2018,9,8,Montana,Drake,H,48,16,NA,2
-2018,9,8,Monmouth,Hampton,H,56,28,NA,2
-2018,9,8,South Dakota,Northern Colo.,H,43,28,NA,2
-2018,9,8,Bucknell,Sacred Heart,H,14,30,NA,2
-2018,9,8,Delaware,Lafayette,H,37,0,NA,2
-2018,9,8,KENT,Howard,H,54,14,NA,2
-2018,9,8,AKRON,Morgan St.,H,41,7,NA,2
-2018,9,8,SYR,Wagner,H,62,10,NA,2
-2018,9,8,Bethune-Cookman,LYN,H,79,16,NA,2
-2018,9,8,MISS,Southern Ill.,H,76,41,NA,2
-2018,9,8,TENN,ETSU,H,59,3,NA,2
-2018,9,8,TTU,Lamar University,H,77,0,NA,2
-2018,9,8,IDAHO,WES,H,56,10,NA,2
-2018,9,8,The Citadel,Chattanooga,H,28,29,1,2
-2018,9,8,Wofford,VMI,H,59,14,NA,2
-2018,9,8,Mercer,Jacksonville,H,45,3,NA,2
-2018,9,8,TAY,Butler,H,17,31,NA,2
-2018,9,8,N.C. Central,STA,H,51,14,NA,2
-2018,9,8,N.C. A&T,Gardner-Webb,H,45,6,NA,2
-2018,9,8,Elon,Furman,H,45,7,NA,2
-2018,9,8,Norfolk St.,James Madison,H,0,17,NA,2
-2018,9,8,New Hampshire,Colgate,H,3,10,NA,2
-2018,9,8,Richmond,Fordham,H,52,7,NA,2
-2018,9,8,Stony Brook,Brown,H,50,21,NA,2
-2018,9,8,Morehead St.,MTS,H,48,19,NA,2
-2018,9,8,Stetson,WAL,H,63,34,NA,2
-2018,9,8,MRSH,Eastern Ky.,H,32,16,NA,2
-2018,9,6,LIN,Missouri St.,V,24,52,NA,2
-2018,9,7,Kennesaw St.,Tennessee Tech,V,49,10,NA,2
-2018,9,7,LIN,Central Conn. St.,V,0,55,NA,2
-2018,9,9,Alabama St.,AUB,V,9,63,NA,2
-2018,9,9,Southeastern La.,LSU,V,0,31,NA,2
-2018,9,9,UT Martin,MTSU,V,37,61,NA,2
-2018,9,9,Texas Southern,TXST,V,20,36,NA,2
-2018,9,9,Florida A&M,TROY,V,7,59,NA,2
-2018,9,9,Indiana St.,LOU,V,7,31,NA,2
-2018,9,9,Southern U.,LT,V,17,54,NA,2
-2018,9,9,Presbyterian,Austin Peay,V,0,24,NA,2
-2018,9,9,ANG,Abilene Christian,V,24,41,NA,2
-2018,9,9,MTST,South Dakota St.,V,14,45,NA,2
-2018,9,9,Murray St.,Central Ark.,V,13,26,NA,2
-2018,9,9,McNeese,Houston Baptist,V,51,34,NA,2
-2018,9,9,Grambling,Northwestern St.,V,7,34,NA,2
-2018,9,9,Prairie View,Sam Houston St.,V,32,41,NA,2
-2018,9,9,Mississippi Val.,Jacksonville St.,V,0,71,NA,2
-2018,9,9,Eastern Wash.,Northern Ariz.,V,31,26,NA,2
-2018,9,9,NOR,Alabama A&M,V,25,20,NA,2
-2018,9,9,LAC,Alcorn,V,0,78,NA,2
-2018,9,9,CUMB,Ark.-Pine Bluff,V,0,55,NA,2
-2018,9,9,CHO,Davidson,V,28,49,NA,2
-2018,9,9,Samford,FSU,V,26,36,NA,2
-2018,9,9,Western Ill.,ILL,V,14,34,NA,2
-2018,9,9,Incarnate Word,UNT,V,16,58,NA,2
-2018,9,9,Maine,WKU,V,31,28,NA,2
-2018,9,9,Eastern Ill.,Illinois St.,V,10,48,NA,2
-2018,9,9,Nicholls St.,TULN,V,17,42,NA,2
-2018,9,9,Southern Utah,ORST,V,25,48,NA,2
-2018,9,9,Sacramento St.,South Dakota St.,V,14,28,NA,2
-2018,9,9,Weber St.,Cal Poly,V,24,17,NA,2
-2018,9,9,San Diego,UC Davis,V,21,54,NA,2
-2018,9,8,North Dakota,WASH,V,3,45,NA,2
-2018,9,8,William & Mary,VT,V,17,62,NA,2
-2018,9,8,Youngstown St.,WVU,V,17,52,NA,2
-2018,9,8,South Carolina St.,UCF,V,0,38,NA,2
-2018,9,8,Savannah St.,MIAMI,V,0,77,NA,2
-2018,9,8,Portland St.,ORE,V,14,62,NA,2
-2018,9,8,Valparaiso,Duquesne,V,21,23,NA,2
-2018,9,8,VIR,Robert Morris,V,19,22,NA,2
-2018,9,8,Delaware St.,Saint Francis (PA),V,14,45,NA,2
-2018,9,8,Towson,WAKE,V,20,51,NA,2
-2018,9,8,Villanova,Lehigh,V,31,9,NA,2
-2018,9,8,Campbell,Georgetown,V,13,8,NA,2
-2018,9,8,Holy Cross,BC,V,14,62,NA,2
-2018,9,8,Albany (NY),Rhode Island,V,26,45,NA,2
-2018,9,8,Dayton,Southeast Mo. St.,V,21,40,NA,2
-2018,9,8,Drake,Montana,V,16,48,NA,2
-2018,9,8,Hampton,Monmouth,V,28,56,NA,2
-2018,9,8,Northern Colo.,South Dakota,V,28,43,NA,2
-2018,9,8,Sacred Heart,Bucknell,V,30,14,NA,2
-2018,9,8,Lafayette,Delaware,V,0,37,NA,2
-2018,9,8,Howard,KENT,V,14,54,NA,2
-2018,9,8,Morgan St.,AKRON,V,7,41,NA,2
-2018,9,8,Wagner,SYR,V,10,62,NA,2
-2018,9,8,LYN,Bethune-Cookman,V,16,79,NA,2
-2018,9,8,Southern Ill.,MISS,V,41,76,NA,2
-2018,9,8,ETSU,TENN,V,3,59,NA,2
-2018,9,8,Lamar University,TTU,V,0,77,NA,2
-2018,9,8,WES,IDAHO,V,10,56,NA,2
-2018,9,8,Chattanooga,The Citadel,V,29,28,1,2
-2018,9,8,VMI,Wofford,V,14,59,NA,2
-2018,9,8,Jacksonville,Mercer,V,3,45,NA,2
-2018,9,8,Butler,TAY,V,31,17,NA,2
-2018,9,8,STA,N.C. Central,V,14,51,NA,2
-2018,9,8,Gardner-Webb,N.C. A&T,V,6,45,NA,2
-2018,9,8,Furman,Elon,V,7,45,NA,2
-2018,9,8,James Madison,Norfolk St.,V,17,0,NA,2
-2018,9,8,Colgate,New Hampshire,V,10,3,NA,2
-2018,9,8,Fordham,Richmond,V,7,52,NA,2
-2018,9,8,Brown,Stony Brook,V,21,50,NA,2
-2018,9,8,MTS,Morehead St.,V,19,48,NA,2
-2018,9,8,WAL,Stetson,V,34,63,NA,2
-2018,9,8,Eastern Ky.,MRSH,V,16,32,NA,2
-2018,9,12,Campbell,CCU,H,21,58,NA,2
-2018,9,13,Saint Francis (PA),Richmond,H,27,35,NA,2
-2018,9,14,James Madison,Robert Morris,H,73,7,NA,2
-2018,9,14,Davidson,GUI,H,91,61,NA,2
-2018,9,14,USU,Tennessee Tech,H,73,12,NA,2
-2018,9,14,VMI,ETSU,H,24,27,NA,2
-2018,9,14,Gardner-Webb,Western Caro.,H,10,28,NA,2
-2018,9,15,Cal Poly,Brown,H,44,15,NA,2
-2018,9,15,STAN,UC Davis,H,30,10,NA,2
-2018,9,15,Harvard,San Diego,H,36,14,NA,2
-2018,9,15,UCONN,Rhode Island,H,56,49,NA,2
-2018,9,15,UK,Murray St.,H,48,10,NA,2
-2018,9,15,Duquesne,Dayton,H,31,26,NA,2
-2018,9,15,Holy Cross,Yale,H,31,28,1,2
-2018,9,15,Dartmouth,Georgetown,H,41,0,NA,2
-2018,9,15,Drake,S&T,H,52,12,NA,2
-2018,9,15,Youngstown St.,Valparaiso,H,42,7,NA,2
-2018,9,15,Missouri St.,Northern Ariz.,H,40,8,NA,2
-2018,9,15,Samford,Mercer,H,24,30,NA,2
-2018,9,15,MTST,Wagner,H,47,24,NA,2
-2018,9,15,Penn,Bucknell,H,34,17,NA,2
-2018,9,15,Delaware,Cornell,H,27,10,NA,2
-2018,9,15,North Dakota St.,NOR,H,38,7,NA,2
-2018,9,15,Villanova,Towson,H,35,45,NA,2
-2018,9,15,NAVY,Lehigh,H,51,21,NA,2
-2018,9,15,BGSU,Eastern Ky.,H,42,35,NA,2
-2018,9,15,WYO,Wofford,H,17,14,NA,2
-2018,9,15,Northern Colo.,Sacramento St.,H,25,28,NA,2
-2018,9,15,Western Ill.,Montana,H,31,27,NA,2
-2018,9,15,UT Martin,Chattanooga,H,24,34,NA,2
-2018,9,15,Kennesaw St.,Alabama St.,H,62,13,NA,2
-2018,9,15,Florida A&M,Jackson St.,H,16,18,NA,2
-2018,9,15,COLO,New Hampshire,H,45,14,NA,2
-2018,9,15,Central Conn. St.,Columbia,H,24,41,NA,2
-2018,9,15,Portland St.,COI,H,63,14,NA,2
-2018,9,15,Brown,Marist,H,37,27,NA,2
-2018,9,15,Lafayette,Monmouth,H,20,24,NA,2
-2018,9,15,Morehead St.,Austin Peay,H,40,78,NA,2
-2018,9,15,Butler,Princeton,H,7,50,NA,2
-2018,9,15,Fordham,Stony Brook,H,6,28,NA,2
-2018,9,15,FAU,Bethune-Cookman,H,49,28,NA,2
-2018,9,15,CAL,Idaho St.,H,45,23,NA,2
-2018,9,16,WMU,Delaware St.,H,68,0,NA,2
-2018,9,16,CIN,Alabama A&M,H,63,7,NA,2
-2018,9,16,Albany (NY),Morgan St.,H,30,27,NA,2
-2018,9,16,McNeese,Nicholls St.,H,20,10,NA,2
-2018,9,16,Sam Houston St.,North Dakota,H,23,24,NA,2
-2018,9,16,Incarnate Word,SFA,H,31,7,NA,2
-2018,9,16,Lamar University,Northwestern St.,H,48,49,NA,2
-2018,9,16,Eastern Ill.,Indiana St.,H,41,55,NA,2
-2018,9,16,Houston Baptist,Abilene Christian,H,13,38,NA,2
-2018,9,16,South Dakota St.,Ark.-Pine Bluff,H,90,6,NA,2
-2018,9,16,Southern Ill.,Southeast Mo. St.,H,44,48,NA,2
-2018,9,16,Southern U.,LAN,H,33,18,NA,2
-2018,9,16,Alcorn,Texas Southern,H,27,15,NA,2
-2018,9,16,IOWA,UNI,H,38,14,NA,2
-2018,9,16,WSU,Eastern Wash.,H,59,24,NA,2
-2018,9,16,Southeastern La.,Central Ark.,H,25,33,NA,2
-2018,9,16,Weber St.,South Dakota,H,27,10,NA,2
-2018,9,16,UNLV,Prairie View,H,46,17,NA,2
-2018,9,16,ARIZ,Southern Utah,H,62,31,NA,2
-2018,9,12,CCU,Campbell,V,58,21,NA,2
-2018,9,13,Richmond,Saint Francis (PA),V,35,27,NA,2
-2018,9,14,Robert Morris,James Madison,V,7,73,NA,2
-2018,9,14,GUI,Davidson,V,61,91,NA,2
-2018,9,14,Tennessee Tech,USU,V,12,73,NA,2
-2018,9,14,ETSU,VMI,V,27,24,NA,2
-2018,9,14,Western Caro.,Gardner-Webb,V,28,10,NA,2
-2018,9,15,Brown,Cal Poly,V,15,44,NA,2
-2018,9,15,UC Davis,STAN,V,10,30,NA,2
-2018,9,15,San Diego,Harvard,V,14,36,NA,2
-2018,9,15,Rhode Island,UCONN,V,49,56,NA,2
-2018,9,15,Murray St.,UK,V,10,48,NA,2
-2018,9,15,Dayton,Duquesne,V,26,31,NA,2
-2018,9,15,Yale,Holy Cross,V,28,31,1,2
-2018,9,15,Georgetown,Dartmouth,V,0,41,NA,2
-2018,9,15,S&T,Drake,V,12,52,NA,2
-2018,9,15,Valparaiso,Youngstown St.,V,7,42,NA,2
-2018,9,15,Northern Ariz.,Missouri St.,V,8,40,NA,2
-2018,9,15,Mercer,Samford,V,30,24,NA,2
-2018,9,15,Wagner,MTST,V,24,47,NA,2
-2018,9,15,Bucknell,Penn,V,17,34,NA,2
-2018,9,15,Cornell,Delaware,V,10,27,NA,2
-2018,9,15,NOR,North Dakota St.,V,7,38,NA,2
-2018,9,15,Towson,Villanova,V,45,35,NA,2
-2018,9,15,Lehigh,NAVY,V,21,51,NA,2
-2018,9,15,Eastern Ky.,BGSU,V,35,42,NA,2
-2018,9,15,Wofford,WYO,V,14,17,NA,2
-2018,9,15,Sacramento St.,Northern Colo.,V,28,25,NA,2
-2018,9,15,Montana,Western Ill.,V,27,31,NA,2
-2018,9,15,Chattanooga,UT Martin,V,34,24,NA,2
-2018,9,15,Alabama St.,Kennesaw St.,V,13,62,NA,2
-2018,9,15,Jackson St.,Florida A&M,V,18,16,NA,2
-2018,9,15,New Hampshire,COLO,V,14,45,NA,2
-2018,9,15,Columbia,Central Conn. St.,V,41,24,NA,2
-2018,9,15,COI,Portland St.,V,14,63,NA,2
-2018,9,15,Marist,Brown,V,27,37,NA,2
-2018,9,15,Monmouth,Lafayette,V,24,20,NA,2
-2018,9,15,Austin Peay,Morehead St.,V,78,40,NA,2
-2018,9,15,Princeton,Butler,V,50,7,NA,2
-2018,9,15,Stony Brook,Fordham,V,28,6,NA,2
-2018,9,15,Bethune-Cookman,FAU,V,28,49,NA,2
-2018,9,15,Idaho St.,CAL,V,23,45,NA,2
-2018,9,16,Delaware St.,WMU,V,0,68,NA,2
-2018,9,16,Alabama A&M,CIN,V,7,63,NA,2
-2018,9,16,Morgan St.,Albany (NY),V,27,30,NA,2
-2018,9,16,Nicholls St.,McNeese,V,10,20,NA,2
-2018,9,16,North Dakota,Sam Houston St.,V,24,23,NA,2
-2018,9,16,SFA,Incarnate Word,V,7,31,NA,2
-2018,9,16,Northwestern St.,Lamar University,V,49,48,NA,2
-2018,9,16,Indiana St.,Eastern Ill.,V,55,41,NA,2
-2018,9,16,Abilene Christian,Houston Baptist,V,38,13,NA,2
-2018,9,16,Ark.-Pine Bluff,South Dakota St.,V,6,90,NA,2
-2018,9,16,Southeast Mo. St.,Southern Ill.,V,48,44,NA,2
-2018,9,16,LAN,Southern U.,V,18,33,NA,2
-2018,9,16,Texas Southern,Alcorn,V,15,27,NA,2
-2018,9,16,UNI,IOWA,V,14,38,NA,2
-2018,9,16,Eastern Wash.,WSU,V,24,59,NA,2
-2018,9,16,Central Ark.,Southeastern La.,V,33,25,NA,2
-2018,9,16,South Dakota,Weber St.,V,10,27,NA,2
-2018,9,16,Prairie View,UNLV,V,17,46,NA,2
-2018,9,16,Southern Utah,ARIZ,V,31,62,NA,2
-2018,9,22,Brown,Harvard,H,17,31,NA,2
-2018,9,22,BYU,McNeese,H,30,3,NA,2
-2018,9,22,Colgate,Lafayette,H,45,0,NA,2
-2018,9,22,Fordham,Central Conn. St.,H,13,24,NA,2
-2018,9,22,Dayton,Davidson,H,42,21,NA,2
-2018,9,22,Brown,Robert Morris,H,49,46,NA,2
-2018,9,22,Stetson,Marist,H,19,14,NA,2
-2018,9,22,Holy Cross,Dartmouth,H,14,34,NA,2
-2018,9,22,North Dakota St.,Delaware,H,38,10,NA,2
-2018,9,22,Georgetown,Columbia,H,15,23,NA,2
-2018,9,22,Valparaiso,TRU,H,20,34,NA,2
-2018,9,22,Bethune-Cookman,Howard,H,35,41,NA,2
-2018,9,22,Montana,Sacramento St.,H,41,34,NA,2
-2018,9,22,Cornell,Yale,H,24,30,NA,2
-2018,9,22,UT Martin,Austin Peay,H,37,7,NA,2
-2018,9,22,Eastern Ill.,Tennessee St.,H,40,41,NA,2
-2018,9,22,CSU,Illinois St.,H,19,35,NA,2
-2018,9,22,CMU,Maine,H,17,5,NA,2
-2018,9,22,Penn,Lehigh,H,30,10,NA,2
-2018,9,22,APP,Gardner-Webb,H,72,7,NA,2
-2018,9,22,DUKE,N.C. Central,H,55,13,NA,2
-2018,9,22,Western Caro.,VMI,H,52,50,NA,2
-2018,9,22,James Madison,William & Mary,H,51,0,NA,2
-2018,9,22,Mercer,The Citadel,H,31,38,NA,2
-2018,9,22,Eastern Ky.,Southeast Mo. St.,H,23,14,NA,2
-2018,9,22,Eastern Wash.,Cal Poly,H,70,17,NA,2
-2018,9,22,Princeton,Monmouth,H,51,9,NA,2
-2018,9,22,UNI,Hampton,H,44,0,NA,2
-2018,9,22,North Dakota,Idaho St.,H,21,25,NA,2
-2018,9,22,Alabama A&M,Southern U.,H,27,29,NA,2
-2018,9,22,Portland St.,MTST,H,23,43,NA,2
-2018,9,22,Nicholls St.,Sam Houston St.,H,27,7,NA,2
-2018,9,22,Villanova,Bucknell,H,49,7,NA,2
-2018,9,22,Charleston So.,Elon,H,22,31,NA,2
-2018,9,22,Stony Brook,Richmond,H,36,10,NA,2
-2018,9,22,Campbell,SHA,H,42,0,NA,2
-2018,9,22,Kennesaw St.,CLK,H,70,13,NA,2
-2018,9,22,Florida A&M,Savannah St.,H,31,13,NA,2
-2018,9,22,N.C. A&T,Morgan St.,H,13,16,NA,2
-2018,9,22,South Carolina St.,Norfolk St.,H,7,17,NA,2
-2018,9,22,Wagner,Sacred Heart,H,14,41,NA,2
-2018,9,23,NOR,AZU,H,37,35,NA,2
-2018,9,23,Northern Ariz.,Southern Utah,H,31,23,NA,2
-2018,9,23,Grambling,Alabama St.,H,34,0,NA,2
-2018,9,23,Mississippi Val.,Alcorn,H,20,56,NA,2
-2018,9,23,Ark.-Pine Bluff,Prairie View,H,13,62,NA,2
-2018,9,23,Albany (NY),Saint Francis (PA),H,35,28,NA,2
-2018,9,23,Presbyterian,BLU,H,41,10,NA,2
-2018,9,23,SFA,Abilene Christian,H,24,21,NA,2
-2018,9,23,Lamar University,Southeastern La.,H,24,30,NA,2
-2018,9,23,UC Davis,IDAHO,H,44,21,NA,2
-2018,9,23,Jacksonville St.,Tennessee Tech,H,48,20,NA,2
-2018,9,23,Chattanooga,Samford,H,27,20,NA,2
-2018,9,23,ETSU,Furman,H,29,27,NA,2
-2018,9,23,HOU,Texas Southern,H,70,14,NA,2
-2018,9,23,Weber St.,Northern Colo.,H,45,28,NA,2
-2018,9,23,HAW,Duquesne,H,42,21,NA,2
-2018,9,22,Harvard,Brown,V,31,17,NA,2
-2018,9,22,McNeese,BYU,V,3,30,NA,2
-2018,9,22,Lafayette,Colgate,V,0,45,NA,2
-2018,9,22,Central Conn. St.,Fordham,V,24,13,NA,2
-2018,9,22,Davidson,Dayton,V,21,42,NA,2
-2018,9,22,Robert Morris,Brown,V,46,49,NA,2
-2018,9,22,Marist,Stetson,V,14,19,NA,2
-2018,9,22,Dartmouth,Holy Cross,V,34,14,NA,2
-2018,9,22,Delaware,North Dakota St.,V,10,38,NA,2
-2018,9,22,Columbia,Georgetown,V,23,15,NA,2
-2018,9,22,TRU,Valparaiso,V,34,20,NA,2
-2018,9,22,Howard,Bethune-Cookman,V,41,35,NA,2
-2018,9,22,Sacramento St.,Montana,V,34,41,NA,2
-2018,9,22,Yale,Cornell,V,30,24,NA,2
-2018,9,22,Austin Peay,UT Martin,V,7,37,NA,2
-2018,9,22,Tennessee St.,Eastern Ill.,V,41,40,NA,2
-2018,9,22,Illinois St.,CSU,V,35,19,NA,2
-2018,9,22,Maine,CMU,V,5,17,NA,2
-2018,9,22,Lehigh,Penn,V,10,30,NA,2
-2018,9,22,Gardner-Webb,APP,V,7,72,NA,2
-2018,9,22,N.C. Central,DUKE,V,13,55,NA,2
-2018,9,22,VMI,Western Caro.,V,50,52,NA,2
-2018,9,22,William & Mary,James Madison,V,0,51,NA,2
-2018,9,22,The Citadel,Mercer,V,38,31,NA,2
-2018,9,22,Southeast Mo. St.,Eastern Ky.,V,14,23,NA,2
-2018,9,22,Cal Poly,Eastern Wash.,V,17,70,NA,2
-2018,9,22,Monmouth,Princeton,V,9,51,NA,2
-2018,9,22,Hampton,UNI,V,0,44,NA,2
-2018,9,22,Idaho St.,North Dakota,V,25,21,NA,2
-2018,9,22,Southern U.,Alabama A&M,V,29,27,NA,2
-2018,9,22,MTST,Portland St.,V,43,23,NA,2
-2018,9,22,Sam Houston St.,Nicholls St.,V,7,27,NA,2
-2018,9,22,Bucknell,Villanova,V,7,49,NA,2
-2018,9,22,Elon,Charleston So.,V,31,22,NA,2
-2018,9,22,Richmond,Stony Brook,V,10,36,NA,2
-2018,9,22,SHA,Campbell,V,0,42,NA,2
-2018,9,22,CLK,Kennesaw St.,V,13,70,NA,2
-2018,9,22,Savannah St.,Florida A&M,V,13,31,NA,2
-2018,9,22,Morgan St.,N.C. A&T,V,16,13,NA,2
-2018,9,22,Norfolk St.,South Carolina St.,V,17,7,NA,2
-2018,9,22,Sacred Heart,Wagner,V,41,14,NA,2
-2018,9,23,AZU,NOR,V,35,37,NA,2
-2018,9,23,Southern Utah,Northern Ariz.,V,23,31,NA,2
-2018,9,23,Alabama St.,Grambling,V,0,34,NA,2
-2018,9,23,Alcorn,Mississippi Val.,V,56,20,NA,2
-2018,9,23,Prairie View,Ark.-Pine Bluff,V,62,13,NA,2
-2018,9,23,Saint Francis (PA),Albany (NY),V,28,35,NA,2
-2018,9,23,BLU,Presbyterian,V,10,41,NA,2
-2018,9,23,Abilene Christian,SFA,V,21,24,NA,2
-2018,9,23,Southeastern La.,Lamar University,V,30,24,NA,2
-2018,9,23,IDAHO,UC Davis,V,21,44,NA,2
-2018,9,23,Tennessee Tech,Jacksonville St.,V,20,48,NA,2
-2018,9,23,Samford,Chattanooga,V,20,27,NA,2
-2018,9,23,Furman,ETSU,V,27,29,NA,2
-2018,9,23,Texas Southern,HOU,V,14,70,NA,2
-2018,9,23,Northern Colo.,Weber St.,V,28,45,NA,2
-2018,9,23,Duquesne,HAW,V,21,42,NA,2
-2018,9,28,Indiana St.,UNI,H,0,33,NA,2
-2018,9,28,N.C. A&T,South Carolina St.,H,31,16,NA,2
-2018,9,28,Presbyterian,LIN,H,10,0,NA,2
-2018,9,28,Columbia,Princeton,H,10,45,NA,2
-2018,9,29,Harvard,Rhode Island,H,16,23,NA,2
-2018,9,29,Yale,Maine,H,35,14,NA,2
-2018,9,29,Monmouth,Wagner,H,54,47,NA,2
-2018,9,29,Brown,Georgetown,H,35,7,NA,2
-2018,9,29,Marist,Dayton,H,28,17,NA,2
-2018,9,29,Jacksonville,Drake,H,9,41,NA,2
-2018,9,29,Butler,Morehead St.,H,24,21,NA,2
-2018,9,29,Holy Cross,Bucknell,H,16,19,NA,2
-2018,9,29,Elon,New Hampshire,H,30,9,NA,2
-2018,9,29,Cornell,Sacred Heart,H,43,24,NA,2
-2018,9,29,Dartmouth,Penn,H,37,14,NA,2
-2018,9,29,VMI,Mercer,H,38,48,NA,2
-2018,9,29,Hampton,Charleston So.,H,14,48,NA,2
-2018,9,29,Valparaiso,Davidson,H,35,40,NA,2
-2018,9,29,Furman,Western Caro.,H,44,38,NA,2
-2018,9,29,Northern Colo.,North Dakota,H,13,38,NA,2
-2018,9,29,MTST,Eastern Wash.,H,17,34,NA,2
-2018,9,29,Missouri St.,Illinois St.,H,24,21,NA,2
-2018,9,29,Richmond,James Madison,H,10,63,NA,2
-2018,9,29,North Dakota St.,South Dakota St.,H,21,17,NA,2
-2018,9,29,Nicholls St.,Lamar University,H,50,27,NA,2
-2018,9,29,Jacksonville St.,Austin Peay,H,48,32,NA,2
-2018,9,29,Sam Houston St.,Central Ark.,H,34,31,1,2
-2018,9,29,Western Ill.,Youngstown St.,H,45,38,NA,2
-2018,9,29,VAN,Tennessee St.,H,31,27,NA,2
-2018,9,29,Towson,The Citadel,H,44,27,NA,2
-2018,9,29,Saint Francis (PA),WVW,H,59,3,NA,2
-2018,9,29,Norfolk St.,Delaware St.,H,54,28,NA,2
-2018,9,29,N.C. Central,Florida A&M,H,14,55,NA,2
-2018,9,29,Idaho St.,Northern Ariz.,H,56,42,NA,2
-2018,9,29,Jackson St.,Alabama A&M,H,16,21,NA,2
-2018,9,29,Grambling,Prairie View,H,16,22,NA,2
-2018,9,29,San Diego,Stetson,H,49,10,NA,2
-2018,9,29,IDAHO,Portland St.,H,20,7,NA,2
-2018,9,29,Campbell,NOR,H,30,7,NA,2
-2018,9,29,Gardner-Webb,Wofford,H,14,45,NA,2
-2018,9,29,Kennesaw St.,Samford,H,24,10,NA,2
-2018,9,29,William & Mary,Colgate,H,0,23,NA,2
-2018,9,29,Stony Brook,Villanova,H,29,27,NA,2
-2018,9,29,Savannah St.,Bethune-Cookman,H,20,35,NA,2
-2018,9,30,Lafayette,Central Conn. St.,H,31,24,NA,2
-2018,9,30,Southern U.,Alcorn,H,3,20,NA,2
-2018,9,30,SMU,Houston Baptist,H,63,27,NA,2
-2018,9,30,Southern Ill.,South Dakota,H,24,31,NA,2
-2018,9,30,Abilene Christian,Incarnate Word,H,34,44,NA,2
-2018,9,30,McNeese,SFA,H,17,10,NA,2
-2018,9,30,Murray St.,UT Martin,H,45,38,NA,2
-2018,9,30,Tennessee Tech,Eastern Ill.,H,38,52,NA,2
-2018,9,30,Cal Poly,Montana,H,28,48,NA,2
-2018,9,30,ETSU,Chattanooga,H,17,14,NA,2
-2018,9,30,FIU,Ark.-Pine Bluff,H,55,9,NA,2
-2018,9,30,Southeastern La.,Northwestern St.,H,24,17,NA,2
-2018,9,28,UNI,Indiana St.,V,33,0,NA,2
-2018,9,28,South Carolina St.,N.C. A&T,V,16,31,NA,2
-2018,9,28,LIN,Presbyterian,V,0,10,NA,2
-2018,9,28,Princeton,Columbia,V,45,10,NA,2
-2018,9,29,Rhode Island,Harvard,V,23,16,NA,2
-2018,9,29,Maine,Yale,V,14,35,NA,2
-2018,9,29,Wagner,Monmouth,V,47,54,NA,2
-2018,9,29,Georgetown,Brown,V,7,35,NA,2
-2018,9,29,Dayton,Marist,V,17,28,NA,2
-2018,9,29,Drake,Jacksonville,V,41,9,NA,2
-2018,9,29,Morehead St.,Butler,V,21,24,NA,2
-2018,9,29,Bucknell,Holy Cross,V,19,16,NA,2
-2018,9,29,New Hampshire,Elon,V,9,30,NA,2
-2018,9,29,Sacred Heart,Cornell,V,24,43,NA,2
-2018,9,29,Penn,Dartmouth,V,14,37,NA,2
-2018,9,29,Mercer,VMI,V,48,38,NA,2
-2018,9,29,Charleston So.,Hampton,V,48,14,NA,2
-2018,9,29,Davidson,Valparaiso,V,40,35,NA,2
-2018,9,29,Western Caro.,Furman,V,38,44,NA,2
-2018,9,29,North Dakota,Northern Colo.,V,38,13,NA,2
-2018,9,29,Eastern Wash.,MTST,V,34,17,NA,2
-2018,9,29,Illinois St.,Missouri St.,V,21,24,NA,2
-2018,9,29,James Madison,Richmond,V,63,10,NA,2
-2018,9,29,South Dakota St.,North Dakota St.,V,17,21,NA,2
-2018,9,29,Lamar University,Nicholls St.,V,27,50,NA,2
-2018,9,29,Austin Peay,Jacksonville St.,V,32,48,NA,2
-2018,9,29,Central Ark.,Sam Houston St.,V,31,34,1,2
-2018,9,29,Youngstown St.,Western Ill.,V,38,45,NA,2
-2018,9,29,Tennessee St.,VAN,V,27,31,NA,2
-2018,9,29,The Citadel,Towson,V,27,44,NA,2
-2018,9,29,WVW,Saint Francis (PA),V,3,59,NA,2
-2018,9,29,Delaware St.,Norfolk St.,V,28,54,NA,2
-2018,9,29,Florida A&M,N.C. Central,V,55,14,NA,2
-2018,9,29,Northern Ariz.,Idaho St.,V,42,56,NA,2
-2018,9,29,Alabama A&M,Jackson St.,V,21,16,NA,2
-2018,9,29,Prairie View,Grambling,V,22,16,NA,2
-2018,9,29,Stetson,San Diego,V,10,49,NA,2
-2018,9,29,Portland St.,IDAHO,V,7,20,NA,2
-2018,9,29,NOR,Campbell,V,7,30,NA,2
-2018,9,29,Wofford,Gardner-Webb,V,45,14,NA,2
-2018,9,29,Samford,Kennesaw St.,V,10,24,NA,2
-2018,9,29,Colgate,William & Mary,V,23,0,NA,2
-2018,9,29,Villanova,Stony Brook,V,27,29,NA,2
-2018,9,29,Bethune-Cookman,Savannah St.,V,35,20,NA,2
-2018,9,30,Central Conn. St.,Lafayette,V,24,31,NA,2
-2018,9,30,Alcorn,Southern U.,V,20,3,NA,2
-2018,9,30,Houston Baptist,SMU,V,27,63,NA,2
-2018,9,30,South Dakota,Southern Ill.,V,31,24,NA,2
-2018,9,30,Incarnate Word,Abilene Christian,V,44,34,NA,2
-2018,9,30,SFA,McNeese,V,10,17,NA,2
-2018,9,30,UT Martin,Murray St.,V,38,45,NA,2
-2018,9,30,Eastern Ill.,Tennessee Tech,V,52,38,NA,2
-2018,9,30,Montana,Cal Poly,V,48,28,NA,2
-2018,9,30,Chattanooga,ETSU,V,14,17,NA,2
-2018,9,30,Ark.-Pine Bluff,FIU,V,9,55,NA,2
-2018,9,30,Northwestern St.,Southeastern La.,V,17,24,NA,2
-2018,10,5,Yale,Dartmouth,H,18,41,NA,2
-2018,10,6,Bucknell,Colgate,H,3,27,NA,2
-2018,10,6,New Hampshire,Holy Cross,H,28,0,NA,2
-2018,10,6,Morehead St.,San Diego,H,34,51,NA,2
-2018,10,6,Davidson,Jacksonville,H,44,37,NA,2
-2018,10,6,Morgan St.,South Carolina St.,H,18,21,NA,2
-2018,10,6,Duquesne,Brown,H,20,21,NA,2
-2018,10,6,Robert Morris,Central Conn. St.,H,35,56,NA,2
-2018,10,6,Dayton,Valparaiso,H,53,20,NA,2
-2018,10,6,Rhode Island,Brown,H,48,0,NA,2
-2018,10,6,Columbia,Marist,H,34,24,NA,2
-2018,10,6,Princeton,Lehigh,H,66,7,NA,2
-2018,10,6,Fordham,Georgetown,H,11,23,NA,2
-2018,10,6,Samford,Western Caro.,H,66,28,NA,2
-2018,10,6,James Madison,Elon,H,24,27,NA,2
-2018,10,6,Cornell,Harvard,H,28,24,NA,2
-2018,10,6,UNI,North Dakota St.,H,31,56,NA,2
-2018,10,6,Campbell,Wagner,H,49,3,NA,2
-2018,10,6,Kennesaw St.,Presbyterian,H,56,0,NA,2
-2018,10,6,Sam Houston St.,SFA,H,54,21,NA,2
-2018,10,6,N.C. Central,Howard,H,40,35,NA,2
-2018,10,6,Northern Colo.,UC Davis,H,36,49,NA,2
-2018,10,6,Drake,Butler,H,36,6,NA,2
-2018,10,6,Hampton,LAC,H,41,8,NA,2
-2018,10,6,Alcorn,Alabama St.,H,25,28,NA,2
-2018,10,6,Chattanooga,Wofford,H,10,21,NA,2
-2018,10,6,Illinois St.,Western Ill.,H,33,16,NA,2
-2018,10,6,South Dakota,Missouri St.,H,35,28,NA,2
-2018,10,6,Richmond,Delaware,H,28,43,NA,2
-2018,10,6,Sacred Heart,Penn,H,27,31,NA,2
-2018,10,6,Eastern Wash.,Southern Utah,H,55,17,NA,2
-2018,10,6,Ark.-Pine Bluff,Jackson St.,H,27,30,NA,2
-2018,10,6,William & Mary,Albany (NY),H,25,22,NA,2
-2018,10,6,ETSU,Gardner-Webb,H,45,0,NA,2
-2018,10,6,Maine,Villanova,H,13,10,NA,2
-2018,10,6,Towson,Stony Brook,H,52,28,NA,2
-2018,10,6,Eastern Ky.,Jacksonville St.,H,7,56,NA,2
-2018,10,6,Bethune-Cookman,Mississippi Val.,H,41,27,NA,2
-2018,10,6,Montana,Portland St.,H,20,22,NA,2
-2018,10,6,Florida A&M,Norfolk St.,H,17,0,NA,2
-2018,10,6,Incarnate Word,Southeastern La.,H,52,34,NA,2
-2018,10,6,Northern Ariz.,Weber St.,H,28,24,NA,2
-2018,10,6,Idaho St.,IDAHO,H,62,28,NA,2
-2018,10,6,Youngstown St.,Southern Ill.,H,17,14,NA,2
-2018,10,6,Savannah St.,Charleston So.,H,23,3,NA,2
-2018,10,7,Central Ark.,Houston Baptist,H,66,35,NA,2
-2018,10,7,Austin Peay,Tennessee St.,H,49,34,NA,2
-2018,10,7,Northwestern St.,Nicholls St.,H,10,28,NA,2
-2018,10,7,McNeese,Abilene Christian,H,24,21,NA,2
-2018,10,7,South Dakota St.,Indiana St.,H,54,51,1,2
-2018,10,7,Eastern Ill.,Murray St.,H,41,48,NA,2
-2018,10,7,Tennessee Tech,Southeast Mo. St.,H,38,70,NA,2
-2018,10,7,Delaware St.,N.C. A&T,H,6,34,NA,2
-2018,10,7,NOR,WFLA,H,19,24,NA,2
-2018,10,7,Texas Southern,Alabama A&M,H,21,42,NA,2
-2018,10,7,Grambling,OKP,H,62,7,NA,2
-2018,10,7,Sacramento St.,Cal Poly,H,27,41,NA,2
-2018,10,5,Dartmouth,Yale,V,41,18,NA,2
-2018,10,6,Colgate,Bucknell,V,27,3,NA,2
-2018,10,6,Holy Cross,New Hampshire,V,0,28,NA,2
-2018,10,6,San Diego,Morehead St.,V,51,34,NA,2
-2018,10,6,Jacksonville,Davidson,V,37,44,NA,2
-2018,10,6,South Carolina St.,Morgan St.,V,21,18,NA,2
-2018,10,6,Brown,Duquesne,V,21,20,NA,2
-2018,10,6,Central Conn. St.,Robert Morris,V,56,35,NA,2
-2018,10,6,Valparaiso,Dayton,V,20,53,NA,2
-2018,10,6,Brown,Rhode Island,V,0,48,NA,2
-2018,10,6,Marist,Columbia,V,24,34,NA,2
-2018,10,6,Lehigh,Princeton,V,7,66,NA,2
-2018,10,6,Georgetown,Fordham,V,23,11,NA,2
-2018,10,6,Western Caro.,Samford,V,28,66,NA,2
-2018,10,6,Elon,James Madison,V,27,24,NA,2
-2018,10,6,Harvard,Cornell,V,24,28,NA,2
-2018,10,6,North Dakota St.,UNI,V,56,31,NA,2
-2018,10,6,Wagner,Campbell,V,3,49,NA,2
-2018,10,6,Presbyterian,Kennesaw St.,V,0,56,NA,2
-2018,10,6,SFA,Sam Houston St.,V,21,54,NA,2
-2018,10,6,Howard,N.C. Central,V,35,40,NA,2
-2018,10,6,UC Davis,Northern Colo.,V,49,36,NA,2
-2018,10,6,Butler,Drake,V,6,36,NA,2
-2018,10,6,LAC,Hampton,V,8,41,NA,2
-2018,10,6,Alabama St.,Alcorn,V,28,25,NA,2
-2018,10,6,Wofford,Chattanooga,V,21,10,NA,2
-2018,10,6,Western Ill.,Illinois St.,V,16,33,NA,2
-2018,10,6,Missouri St.,South Dakota,V,28,35,NA,2
-2018,10,6,Delaware,Richmond,V,43,28,NA,2
-2018,10,6,Penn,Sacred Heart,V,31,27,NA,2
-2018,10,6,Southern Utah,Eastern Wash.,V,17,55,NA,2
-2018,10,6,Jackson St.,Ark.-Pine Bluff,V,30,27,NA,2
-2018,10,6,Albany (NY),William & Mary,V,22,25,NA,2
-2018,10,6,Gardner-Webb,ETSU,V,0,45,NA,2
-2018,10,6,Villanova,Maine,V,10,13,NA,2
-2018,10,6,Stony Brook,Towson,V,28,52,NA,2
-2018,10,6,Jacksonville St.,Eastern Ky.,V,56,7,NA,2
-2018,10,6,Mississippi Val.,Bethune-Cookman,V,27,41,NA,2
-2018,10,6,Portland St.,Montana,V,22,20,NA,2
-2018,10,6,Norfolk St.,Florida A&M,V,0,17,NA,2
-2018,10,6,Southeastern La.,Incarnate Word,V,34,52,NA,2
-2018,10,6,Weber St.,Northern Ariz.,V,24,28,NA,2
-2018,10,6,IDAHO,Idaho St.,V,28,62,NA,2
-2018,10,6,Southern Ill.,Youngstown St.,V,14,17,NA,2
-2018,10,6,Charleston So.,Savannah St.,V,3,23,NA,2
-2018,10,7,Houston Baptist,Central Ark.,V,35,66,NA,2
-2018,10,7,Tennessee St.,Austin Peay,V,34,49,NA,2
-2018,10,7,Nicholls St.,Northwestern St.,V,28,10,NA,2
-2018,10,7,Abilene Christian,McNeese,V,21,24,NA,2
-2018,10,7,Indiana St.,South Dakota St.,V,51,54,1,2
-2018,10,7,Murray St.,Eastern Ill.,V,48,41,NA,2
-2018,10,7,Southeast Mo. St.,Tennessee Tech,V,70,38,NA,2
-2018,10,7,N.C. A&T,Delaware St.,V,34,6,NA,2
-2018,10,7,WFLA,NOR,V,24,19,NA,2
-2018,10,7,Alabama A&M,Texas Southern,V,42,21,NA,2
-2018,10,7,OKP,Grambling,V,7,62,NA,2
-2018,10,7,Cal Poly,Sacramento St.,V,41,27,NA,2
-2018,10,13,Harvard,Holy Cross,H,33,31,NA,2
-2018,10,13,Rhode Island,Maine,H,36,38,NA,2
-2018,10,13,Colgate,Cornell,H,31,0,NA,2
-2018,10,13,Presbyterian,Hampton,H,23,24,NA,2
-2018,10,13,Wagner,Saint Francis (PA),H,23,22,NA,2
-2018,10,13,Lehigh,Fordham,H,14,43,NA,2
-2018,10,13,Furman,Wofford,H,34,14,NA,2
-2018,10,13,Davidson,Morehead St.,H,28,35,NA,2
-2018,10,13,Howard,Delaware St.,H,55,13,NA,2
-2018,10,13,N.C. A&T,Florida A&M,H,21,22,NA,2
-2018,10,13,Brown,Central Conn. St.,H,14,48,NA,2
-2018,10,13,Jacksonville,Marist,H,17,20,NA,2
-2018,10,13,Villanova,James Madison,H,0,37,NA,2
-2018,10,13,Yale,Mercer,H,35,28,NA,2
-2018,10,13,Monmouth,Bucknell,H,36,19,NA,2
-2018,10,13,Princeton,Brown,H,48,10,NA,2
-2018,10,13,Penn,Columbia,H,13,10,NA,2
-2018,10,13,Gardner-Webb,Kennesaw St.,H,17,56,NA,2
-2018,10,13,Indiana St.,Missouri St.,H,26,29,NA,2
-2018,10,13,Southeast Mo. St.,Austin Peay,H,31,27,NA,2
-2018,10,13,The Citadel,ETSU,H,23,26,NA,2
-2018,10,13,Murray St.,Tennessee St.,H,45,21,NA,2
-2018,10,13,Drake,Stetson,H,21,23,NA,2
-2018,10,13,North Dakota,Montana,H,41,14,NA,2
-2018,10,13,Valparaiso,Butler,H,35,17,NA,2
-2018,10,13,South Carolina St.,Bethune-Cookman,H,26,28,NA,2
-2018,10,13,Jackson St.,Mississippi Val.,H,23,7,NA,2
-2018,10,13,Samford,VMI,H,73,22,NA,2
-2018,10,13,Alabama A&M,Alcorn,H,26,35,NA,2
-2018,10,13,UT Martin,Eastern Ky.,H,34,35,NA,2
-2018,10,13,Illinois St.,Southern Ill.,H,51,3,NA,2
-2018,10,13,South Dakota St.,Youngstown St.,H,36,7,NA,2
-2018,10,13,SFA,Central Ark.,H,17,27,NA,2
-2018,10,13,Abilene Christian,Nicholls St.,H,28,12,NA,2
-2018,10,13,Western Caro.,Chattanooga,H,6,26,NA,2
-2018,10,13,New Hampshire,Stony Brook,H,7,35,NA,2
-2018,10,13,Delaware,Elon,H,28,16,NA,2
-2018,10,13,Lafayette,Georgetown,H,6,13,NA,2
-2018,10,13,Towson,William & Mary,H,29,13,NA,2
-2018,10,13,Lamar University,Incarnate Word,H,27,21,NA,2
-2018,10,13,Jacksonville St.,Eastern Ill.,H,49,22,NA,2
-2018,10,13,MTST,IDAHO,H,24,23,NA,2
-2018,10,13,Southeastern La.,Houston Baptist,H,62,52,NA,2
-2018,10,13,USA,Alabama St.,H,45,7,NA,2
-2018,10,13,Portland St.,Northern Colo.,H,35,14,NA,2
-2018,10,13,San Diego,Dayton,H,36,34,NA,2
-2018,10,13,Savannah St.,Morgan St.,H,11,18,NA,2
-2018,10,13,Prairie View,Southern U.,H,0,38,NA,2
-2018,10,13,Weber St.,Eastern Wash.,H,14,6,NA,2
-2018,10,13,Charleston So.,LYN,H,58,6,NA,2
-2018,10,13,Dartmouth,Sacred Heart,H,42,0,NA,2
-2018,10,14,Western Ill.,North Dakota St.,H,7,34,NA,2
-2018,10,14,Albany (NY),Richmond,H,24,27,NA,2
-2018,10,14,South Dakota,UNI,H,28,42,NA,2
-2018,10,14,Northwestern St.,Sam Houston St.,H,28,42,NA,2
-2018,10,14,Texas Southern,Grambling,H,21,34,NA,2
-2018,10,14,UC Davis,Idaho St.,H,44,37,1,2
-2018,10,14,Duquesne,Robert Morris,H,48,24,NA,2
-2018,10,14,NOR,MIS,H,34,17,NA,2
-2018,10,14,Southern Utah,Sacramento St.,H,48,27,NA,2
-2018,10,13,Holy Cross,Harvard,V,31,33,NA,2
-2018,10,13,Maine,Rhode Island,V,38,36,NA,2
-2018,10,13,Cornell,Colgate,V,0,31,NA,2
-2018,10,13,Hampton,Presbyterian,V,24,23,NA,2
-2018,10,13,Saint Francis (PA),Wagner,V,22,23,NA,2
-2018,10,13,Fordham,Lehigh,V,43,14,NA,2
-2018,10,13,Wofford,Furman,V,14,34,NA,2
-2018,10,13,Morehead St.,Davidson,V,35,28,NA,2
-2018,10,13,Delaware St.,Howard,V,13,55,NA,2
-2018,10,13,Florida A&M,N.C. A&T,V,22,21,NA,2
-2018,10,13,Central Conn. St.,Brown,V,48,14,NA,2
-2018,10,13,Marist,Jacksonville,V,20,17,NA,2
-2018,10,13,James Madison,Villanova,V,37,0,NA,2
-2018,10,13,Mercer,Yale,V,28,35,NA,2
-2018,10,13,Bucknell,Monmouth,V,19,36,NA,2
-2018,10,13,Brown,Princeton,V,10,48,NA,2
-2018,10,13,Columbia,Penn,V,10,13,NA,2
-2018,10,13,Kennesaw St.,Gardner-Webb,V,56,17,NA,2
-2018,10,13,Missouri St.,Indiana St.,V,29,26,NA,2
-2018,10,13,Austin Peay,Southeast Mo. St.,V,27,31,NA,2
-2018,10,13,ETSU,The Citadel,V,26,23,NA,2
-2018,10,13,Tennessee St.,Murray St.,V,21,45,NA,2
-2018,10,13,Stetson,Drake,V,23,21,NA,2
-2018,10,13,Montana,North Dakota,V,14,41,NA,2
-2018,10,13,Butler,Valparaiso,V,17,35,NA,2
-2018,10,13,Bethune-Cookman,South Carolina St.,V,28,26,NA,2
-2018,10,13,Mississippi Val.,Jackson St.,V,7,23,NA,2
-2018,10,13,VMI,Samford,V,22,73,NA,2
-2018,10,13,Alcorn,Alabama A&M,V,35,26,NA,2
-2018,10,13,Eastern Ky.,UT Martin,V,35,34,NA,2
-2018,10,13,Southern Ill.,Illinois St.,V,3,51,NA,2
-2018,10,13,Youngstown St.,South Dakota St.,V,7,36,NA,2
-2018,10,13,Central Ark.,SFA,V,27,17,NA,2
-2018,10,13,Nicholls St.,Abilene Christian,V,12,28,NA,2
-2018,10,13,Chattanooga,Western Caro.,V,26,6,NA,2
-2018,10,13,Stony Brook,New Hampshire,V,35,7,NA,2
-2018,10,13,Elon,Delaware,V,16,28,NA,2
-2018,10,13,Georgetown,Lafayette,V,13,6,NA,2
-2018,10,13,William & Mary,Towson,V,13,29,NA,2
-2018,10,13,Incarnate Word,Lamar University,V,21,27,NA,2
-2018,10,13,Eastern Ill.,Jacksonville St.,V,22,49,NA,2
-2018,10,13,IDAHO,MTST,V,23,24,NA,2
-2018,10,13,Houston Baptist,Southeastern La.,V,52,62,NA,2
-2018,10,13,Alabama St.,USA,V,7,45,NA,2
-2018,10,13,Northern Colo.,Portland St.,V,14,35,NA,2
-2018,10,13,Dayton,San Diego,V,34,36,NA,2
-2018,10,13,Morgan St.,Savannah St.,V,18,11,NA,2
-2018,10,13,Southern U.,Prairie View,V,38,0,NA,2
-2018,10,13,Eastern Wash.,Weber St.,V,6,14,NA,2
-2018,10,13,LYN,Charleston So.,V,6,58,NA,2
-2018,10,13,Sacred Heart,Dartmouth,V,0,42,NA,2
-2018,10,14,North Dakota St.,Western Ill.,V,34,7,NA,2
-2018,10,14,Richmond,Albany (NY),V,27,24,NA,2
-2018,10,14,UNI,South Dakota,V,42,28,NA,2
-2018,10,14,Sam Houston St.,Northwestern St.,V,42,28,NA,2
-2018,10,14,Grambling,Texas Southern,V,34,21,NA,2
-2018,10,14,Idaho St.,UC Davis,V,37,44,1,2
-2018,10,14,Robert Morris,Duquesne,V,24,48,NA,2
-2018,10,14,MIS,NOR,V,17,34,NA,2
-2018,10,14,Sacramento St.,Southern Utah,V,27,48,NA,2
-2018,10,20,Penn,Yale,H,10,23,NA,2
-2018,10,20,Bucknell,Lafayette,H,27,29,NA,2
-2018,10,20,Harvard,Princeton,H,21,29,NA,2
-2018,10,20,Butler,San Diego,H,13,42,NA,2
-2018,10,20,Saint Francis (PA),Duquesne,H,20,27,NA,2
-2018,10,20,Robert Morris,CCI,H,49,45,NA,2
-2018,10,20,Dayton,Drake,H,17,28,NA,2
-2018,10,20,Central Conn. St.,Sacred Heart,H,25,28,NA,2
-2018,10,20,Fordham,Brown,H,41,42,NA,2
-2018,10,20,Marist,Davidson,H,48,41,1,2
-2018,10,20,Brown,Cornell,H,16,34,NA,2
-2018,10,20,Monmouth,Campbell,H,38,21,NA,2
-2018,10,20,Elon,Richmond,H,38,28,NA,2
-2018,10,20,Columbia,Dartmouth,H,12,28,NA,2
-2018,10,20,VMI,The Citadel,H,32,34,NA,2
-2018,10,20,Wofford,ETSU,H,30,17,NA,2
-2018,10,20,South Carolina St.,Delaware St.,H,30,19,NA,2
-2018,10,20,Georgetown,Lehigh,H,22,16,2,2
-2018,10,20,Northern Colo.,Northern Ariz.,H,42,14,NA,2
-2018,10,20,Norfolk St.,N.C. Central,H,6,36,NA,2
-2018,10,20,Morehead St.,Valparaiso,H,31,24,NA,2
-2018,10,20,Furman,Samford,H,25,38,NA,2
-2018,10,20,Southeast Mo. St.,Jacksonville St.,H,37,14,NA,2
-2018,10,20,Liberty,Idaho St.,H,48,41,NA,2
-2018,10,20,Southern Ill.,Indiana St.,H,21,24,NA,2
-2018,10,20,Missouri St.,Western Ill.,H,14,31,NA,2
-2018,10,20,Eastern Ill.,UT Martin,H,24,21,1,2
-2018,10,20,Eastern Ky.,Murray St.,H,6,34,NA,2
-2018,10,20,Alcorn,Grambling,H,33,26,NA,2
-2018,10,20,Mississippi Val.,Ark.-Pine Bluff,H,48,47,2,2
-2018,10,20,Jackson St.,NOR,H,7,24,NA,2
-2018,10,20,Southern U.,Texas Southern,H,21,7,NA,2
-2018,10,20,William & Mary,Maine,H,27,20,NA,2
-2018,10,20,North Dakota St.,Illinois St.,H,28,14,NA,2
-2018,10,20,Albany (NY),Towson,H,28,56,NA,2
-2018,10,20,New Hampshire,Delaware,H,14,38,NA,2
-2018,10,20,Lamar University,Sam Houston St.,H,41,23,NA,2
-2018,10,20,Mercer,Western Caro.,H,59,46,NA,2
-2018,10,20,Bethune-Cookman,N.C. A&T,H,10,35,NA,2
-2018,10,20,IDAHO,Southern Utah,H,31,12,NA,2
-2018,10,20,UNI,South Dakota St.,H,24,9,NA,2
-2018,10,20,Tennessee St.,Tennessee Tech,H,41,14,NA,2
-2018,10,20,Weber St.,MTST,H,34,24,NA,2
-2018,10,20,Youngstown St.,South Dakota,H,29,17,NA,2
-2018,10,20,Stony Brook,Rhode Island,H,52,14,NA,2
-2018,10,20,Charleston So.,Presbyterian,H,41,7,NA,2
-2018,10,20,Stetson,Jacksonville,H,38,35,NA,2
-2018,10,21,Morgan St.,Howard,H,26,35,NA,2
-2018,10,21,Central Ark.,Northwestern St.,H,38,17,NA,2
-2018,10,21,Houston Baptist,SFA,H,14,42,NA,2
-2018,10,21,Incarnate Word,McNeese,H,45,17,NA,2
-2018,10,21,Cal Poly,UC Davis,H,10,52,NA,2
-2018,10,21,Southeastern La.,Abilene Christian,H,27,48,NA,2
-2018,10,21,Sacramento St.,North Dakota,H,15,41,NA,2
-2018,10,20,Yale,Penn,V,23,10,NA,2
-2018,10,20,Lafayette,Bucknell,V,29,27,NA,2
-2018,10,20,Princeton,Harvard,V,29,21,NA,2
-2018,10,20,San Diego,Butler,V,42,13,NA,2
-2018,10,20,Duquesne,Saint Francis (PA),V,27,20,NA,2
-2018,10,20,CCI,Robert Morris,V,45,49,NA,2
-2018,10,20,Drake,Dayton,V,28,17,NA,2
-2018,10,20,Sacred Heart,Central Conn. St.,V,28,25,NA,2
-2018,10,20,Brown,Fordham,V,42,41,NA,2
-2018,10,20,Davidson,Marist,V,41,48,1,2
-2018,10,20,Cornell,Brown,V,34,16,NA,2
-2018,10,20,Campbell,Monmouth,V,21,38,NA,2
-2018,10,20,Richmond,Elon,V,28,38,NA,2
-2018,10,20,Dartmouth,Columbia,V,28,12,NA,2
-2018,10,20,The Citadel,VMI,V,34,32,NA,2
-2018,10,20,ETSU,Wofford,V,17,30,NA,2
-2018,10,20,Delaware St.,South Carolina St.,V,19,30,NA,2
-2018,10,20,Lehigh,Georgetown,V,16,22,2,2
-2018,10,20,Northern Ariz.,Northern Colo.,V,14,42,NA,2
-2018,10,20,N.C. Central,Norfolk St.,V,36,6,NA,2
-2018,10,20,Valparaiso,Morehead St.,V,24,31,NA,2
-2018,10,20,Samford,Furman,V,38,25,NA,2
-2018,10,20,Jacksonville St.,Southeast Mo. St.,V,14,37,NA,2
-2018,10,20,Idaho St.,Liberty,V,41,48,NA,2
-2018,10,20,Indiana St.,Southern Ill.,V,24,21,NA,2
-2018,10,20,Western Ill.,Missouri St.,V,31,14,NA,2
-2018,10,20,UT Martin,Eastern Ill.,V,21,24,1,2
-2018,10,20,Murray St.,Eastern Ky.,V,34,6,NA,2
-2018,10,20,Grambling,Alcorn,V,26,33,NA,2
-2018,10,20,Ark.-Pine Bluff,Mississippi Val.,V,47,48,2,2
-2018,10,20,NOR,Jackson St.,V,24,7,NA,2
-2018,10,20,Texas Southern,Southern U.,V,7,21,NA,2
-2018,10,20,Maine,William & Mary,V,20,27,NA,2
-2018,10,20,Illinois St.,North Dakota St.,V,14,28,NA,2
-2018,10,20,Towson,Albany (NY),V,56,28,NA,2
-2018,10,20,Delaware,New Hampshire,V,38,14,NA,2
-2018,10,20,Sam Houston St.,Lamar University,V,23,41,NA,2
-2018,10,20,Western Caro.,Mercer,V,46,59,NA,2
-2018,10,20,N.C. A&T,Bethune-Cookman,V,35,10,NA,2
-2018,10,20,Southern Utah,IDAHO,V,12,31,NA,2
-2018,10,20,South Dakota St.,UNI,V,9,24,NA,2
-2018,10,20,Tennessee Tech,Tennessee St.,V,14,41,NA,2
-2018,10,20,MTST,Weber St.,V,24,34,NA,2
-2018,10,20,South Dakota,Youngstown St.,V,17,29,NA,2
-2018,10,20,Rhode Island,Stony Brook,V,14,52,NA,2
-2018,10,20,Presbyterian,Charleston So.,V,7,41,NA,2
-2018,10,20,Jacksonville,Stetson,V,35,38,NA,2
-2018,10,21,Howard,Morgan St.,V,35,26,NA,2
-2018,10,21,Northwestern St.,Central Ark.,V,17,38,NA,2
-2018,10,21,SFA,Houston Baptist,V,42,14,NA,2
-2018,10,21,McNeese,Incarnate Word,V,17,45,NA,2
-2018,10,21,UC Davis,Cal Poly,V,52,10,NA,2
-2018,10,21,Abilene Christian,Southeastern La.,V,48,27,NA,2
-2018,10,21,North Dakota,Sacramento St.,V,41,15,NA,2
-2018,10,27,Rhode Island,William & Mary,H,21,10,NA,2
-2018,10,27,Colgate,Georgetown,H,38,0,NA,2
-2018,10,27,Butler,Dayton,H,28,38,NA,2
-2018,10,27,Central Conn. St.,Wagner,H,49,24,NA,2
-2018,10,27,Robert Morris,Saint Francis (PA),H,7,20,NA,2
-2018,10,27,NEB,Bethune-Cookman,H,45,9,NA,2
-2018,10,27,Morehead St.,Marist,H,21,48,NA,2
-2018,10,27,Howard,South Carolina St.,H,21,27,NA,2
-2018,10,27,Sacred Heart,Brown,H,49,26,NA,2
-2018,10,27,Davidson,Stetson,H,53,56,NA,2
-2018,10,27,Fordham,Lafayette,H,13,21,NA,2
-2018,10,27,Eastern Ky.,Eastern Ill.,H,31,23,NA,2
-2018,10,27,Brown,Penn,H,7,13,NA,2
-2018,10,27,Columbia,Yale,H,17,10,NA,2
-2018,10,27,Princeton,Cornell,H,66,0,NA,2
-2018,10,27,Maine,Albany (NY),H,28,9,NA,2
-2018,10,27,Illinois St.,South Dakota St.,H,28,38,NA,2
-2018,10,27,Holy Cross,Lehigh,H,56,0,NA,2
-2018,10,27,Wofford,Mercer,H,42,21,NA,2
-2018,10,27,Dartmouth,Harvard,H,24,17,NA,2
-2018,10,27,Villanova,New Hampshire,H,0,34,NA,2
-2018,10,27,Youngstown St.,Indiana St.,H,17,43,NA,2
-2018,10,27,Sam Houston St.,Southeastern La.,H,28,25,NA,2
-2018,10,27,Western Ill.,UNI,H,37,17,NA,2
-2018,10,27,Valparaiso,Drake,H,25,42,NA,2
-2018,10,27,The Citadel,Furman,H,17,28,NA,2
-2018,10,27,Delaware St.,N.C. Central,H,28,13,NA,2
-2018,10,27,Hampton,LYN,H,51,28,NA,2
-2018,10,27,Presbyterian,Monmouth,H,14,24,NA,2
-2018,10,27,Missouri St.,Southern Ill.,H,35,49,NA,2
-2018,10,27,South Dakota,North Dakota St.,H,14,59,NA,2
-2018,10,27,Chattanooga,VMI,H,34,27,NA,2
-2018,10,27,UT Martin,Southeast Mo. St.,H,33,56,NA,2
-2018,10,27,Prairie View,Alcorn,H,13,27,NA,2
-2018,10,27,Grambling,Ark.-Pine Bluff,H,45,38,1,2
-2018,10,27,North Dakota,Weber St.,H,30,35,NA,2
-2018,10,27,Texas Southern,Mississippi Val.,H,42,14,NA,2
-2018,10,27,Savannah St.,Norfolk St.,H,32,3,NA,2
-2018,10,27,Eastern Wash.,IDAHO,H,38,14,NA,2
-2018,10,27,Delaware,Towson,H,40,36,NA,2
-2018,10,27,James Madison,Stony Brook,H,13,10,NA,2
-2018,10,27,ETSU,Western Caro.,H,45,43,3,2
-2018,10,27,Alabama A&M,Alabama St.,H,27,10,NA,2
-2018,10,27,Florida A&M,Morgan St.,H,38,3,NA,2
-2018,10,27,San Diego,Jacksonville,H,59,35,NA,2
-2018,10,27,Montana,UC Davis,H,21,49,NA,2
-2018,10,27,Murray St.,Jacksonville St.,H,15,42,NA,2
-2018,10,27,Nicholls St.,Incarnate Word,H,48,21,NA,2
-2018,10,27,SFA,Lamar University,H,17,24,NA,2
-2018,10,27,Campbell,Gardner-Webb,H,7,35,NA,2
-2018,10,27,Austin Peay,Tennessee Tech,H,41,10,NA,2
-2018,10,27,Idaho St.,MTST,H,24,17,NA,2
-2018,10,27,Charleston So.,Kennesaw St.,H,10,38,NA,2
-2018,10,28,Northern Ariz.,Cal Poly,H,28,38,NA,2
-2018,10,28,McNeese,Central Ark.,H,23,21,NA,2
-2018,10,28,Northwestern St.,Houston Baptist,H,31,28,NA,2
-2018,10,28,Southern U.,Jackson St.,H,41,7,NA,2
-2018,10,28,Southern Utah,Northern Colo.,H,39,42,NA,2
-2018,10,28,Sacramento St.,Portland St.,H,14,41,NA,2
-2018,10,27,William & Mary,Rhode Island,V,10,21,NA,2
-2018,10,27,Georgetown,Colgate,V,0,38,NA,2
-2018,10,27,Dayton,Butler,V,38,28,NA,2
-2018,10,27,Wagner,Central Conn. St.,V,24,49,NA,2
-2018,10,27,Saint Francis (PA),Robert Morris,V,20,7,NA,2
-2018,10,27,Bethune-Cookman,NEB,V,9,45,NA,2
-2018,10,27,Marist,Morehead St.,V,48,21,NA,2
-2018,10,27,South Carolina St.,Howard,V,27,21,NA,2
-2018,10,27,Brown,Sacred Heart,V,26,49,NA,2
-2018,10,27,Stetson,Davidson,V,56,53,NA,2
-2018,10,27,Lafayette,Fordham,V,21,13,NA,2
-2018,10,27,Eastern Ill.,Eastern Ky.,V,23,31,NA,2
-2018,10,27,Penn,Brown,V,13,7,NA,2
-2018,10,27,Yale,Columbia,V,10,17,NA,2
-2018,10,27,Cornell,Princeton,V,0,66,NA,2
-2018,10,27,Albany (NY),Maine,V,9,28,NA,2
-2018,10,27,South Dakota St.,Illinois St.,V,38,28,NA,2
-2018,10,27,Lehigh,Holy Cross,V,0,56,NA,2
-2018,10,27,Mercer,Wofford,V,21,42,NA,2
-2018,10,27,Harvard,Dartmouth,V,17,24,NA,2
-2018,10,27,New Hampshire,Villanova,V,34,0,NA,2
-2018,10,27,Indiana St.,Youngstown St.,V,43,17,NA,2
-2018,10,27,Southeastern La.,Sam Houston St.,V,25,28,NA,2
-2018,10,27,UNI,Western Ill.,V,17,37,NA,2
-2018,10,27,Drake,Valparaiso,V,42,25,NA,2
-2018,10,27,Furman,The Citadel,V,28,17,NA,2
-2018,10,27,N.C. Central,Delaware St.,V,13,28,NA,2
-2018,10,27,LYN,Hampton,V,28,51,NA,2
-2018,10,27,Monmouth,Presbyterian,V,24,14,NA,2
-2018,10,27,Southern Ill.,Missouri St.,V,49,35,NA,2
-2018,10,27,North Dakota St.,South Dakota,V,59,14,NA,2
-2018,10,27,VMI,Chattanooga,V,27,34,NA,2
-2018,10,27,Southeast Mo. St.,UT Martin,V,56,33,NA,2
-2018,10,27,Alcorn,Prairie View,V,27,13,NA,2
-2018,10,27,Ark.-Pine Bluff,Grambling,V,38,45,1,2
-2018,10,27,Weber St.,North Dakota,V,35,30,NA,2
-2018,10,27,Mississippi Val.,Texas Southern,V,14,42,NA,2
-2018,10,27,Norfolk St.,Savannah St.,V,3,32,NA,2
-2018,10,27,IDAHO,Eastern Wash.,V,14,38,NA,2
-2018,10,27,Towson,Delaware,V,36,40,NA,2
-2018,10,27,Stony Brook,James Madison,V,10,13,NA,2
-2018,10,27,Western Caro.,ETSU,V,43,45,3,2
-2018,10,27,Alabama St.,Alabama A&M,V,10,27,NA,2
-2018,10,27,Morgan St.,Florida A&M,V,3,38,NA,2
-2018,10,27,Jacksonville,San Diego,V,35,59,NA,2
-2018,10,27,UC Davis,Montana,V,49,21,NA,2
-2018,10,27,Jacksonville St.,Murray St.,V,42,15,NA,2
-2018,10,27,Incarnate Word,Nicholls St.,V,21,48,NA,2
-2018,10,27,Lamar University,SFA,V,24,17,NA,2
-2018,10,27,Gardner-Webb,Campbell,V,35,7,NA,2
-2018,10,27,Tennessee Tech,Austin Peay,V,10,41,NA,2
-2018,10,27,MTST,Idaho St.,V,17,24,NA,2
-2018,10,27,Kennesaw St.,Charleston So.,V,38,10,NA,2
-2018,10,28,Cal Poly,Northern Ariz.,V,38,28,NA,2
-2018,10,28,Central Ark.,McNeese,V,21,23,NA,2
-2018,10,28,Houston Baptist,Northwestern St.,V,28,31,NA,2
-2018,10,28,Jackson St.,Southern U.,V,7,41,NA,2
-2018,10,28,Northern Colo.,Southern Utah,V,42,39,NA,2
-2018,10,28,Portland St.,Sacramento St.,V,41,14,NA,2
-2018,11,2,Cornell,Penn,H,7,20,NA,2
-2018,11,3,Harvard,Columbia,H,52,18,NA,2
-2018,11,3,Jacksonville,Butler,H,48,44,NA,2
-2018,11,3,Saint Francis (PA),Brown,H,27,14,NA,2
-2018,11,3,Wagner,Duquesne,H,30,47,NA,2
-2018,11,3,Sacred Heart,Robert Morris,H,38,7,NA,2
-2018,11,3,Marist,Valparaiso,H,35,24,NA,2
-2018,11,3,Lafayette,Holy Cross,H,14,40,NA,2
-2018,11,3,Lehigh,Bucknell,H,45,17,NA,2
-2018,11,3,Princeton,Dartmouth,H,14,9,NA,2
-2018,11,3,Yale,Brown,H,46,16,NA,2
-2018,11,3,New Hampshire,James Madison,H,35,24,NA,2
-2018,11,3,Fordham,Colgate,H,0,41,NA,2
-2018,11,3,Monmouth,Charleston So.,H,37,3,NA,2
-2018,11,3,Indiana St.,South Dakota,H,51,48,3,2
-2018,11,3,Furman,Chattanooga,H,16,10,NA,2
-2018,11,3,Howard,Florida A&M,H,31,23,NA,2
-2018,11,3,N.C. A&T,Norfolk St.,H,37,20,NA,2
-2018,11,3,Stetson,Morehead St.,H,48,24,NA,2
-2018,11,3,MAR,Hampton,H,10,51,NA,2
-2018,11,3,VMI,TUS,H,20,11,NA,2
-2018,11,3,Elon,Rhode Island,H,24,21,NA,2
-2018,11,3,Gardner-Webb,Presbyterian,H,38,20,NA,2
-2018,11,3,Kennesaw St.,Campbell,H,49,0,NA,2
-2018,11,3,Southern Ill.,Western Ill.,H,31,34,NA,2
-2018,11,3,UNI,Illinois St.,H,26,16,NA,2
-2018,11,3,Southeast Mo. St.,Tennessee St.,H,38,21,NA,2
-2018,11,3,Delaware St.,Savannah St.,H,25,6,NA,2
-2018,11,3,Drake,San Diego,H,10,27,NA,2
-2018,11,3,N.C. Central,EDW,H,52,12,NA,2
-2018,11,3,Northern Colo.,Eastern Wash.,H,13,48,NA,2
-2018,11,3,Weber St.,Sacramento St.,H,26,14,NA,2
-2018,11,3,Jacksonville St.,UT Martin,H,21,14,NA,2
-2018,11,3,NOR,SHO,H,41,14,NA,2
-2018,11,3,Tennessee Tech,Murray St.,H,27,24,NA,2
-2018,11,3,Mercer,ETSU,H,18,21,NA,2
-2018,11,3,Samford,Wofford,H,35,20,NA,2
-2018,11,3,Houston Baptist,Nicholls St.,H,20,41,NA,2
-2018,11,3,Incarnate Word,Sam Houston St.,H,43,26,NA,2
-2018,11,3,South Dakota St.,Missouri St.,H,59,7,NA,2
-2018,11,3,Abilene Christian,Northwestern St.,H,49,47,NA,2
-2018,11,3,Richmond,Villanova,H,21,45,NA,2
-2018,11,3,Southern Utah,Montana,H,14,57,NA,2
-2018,11,3,Alabama St.,Texas Southern,H,30,21,NA,2
-2018,11,3,Grambling,Mississippi Val.,H,24,19,NA,2
-2018,11,3,Jackson St.,Prairie View,H,34,28,NA,2
-2018,11,3,Ark.-Pine Bluff,Alabama A&M,H,14,45,NA,2
-2018,11,3,North Dakota St.,Youngstown St.,H,17,7,NA,2
-2018,11,3,Albany (NY),Delaware,H,16,21,NA,2
-2018,11,3,Southeastern La.,McNeese,H,23,6,NA,2
-2018,11,3,Western Caro.,The Citadel,H,24,38,NA,2
-2018,11,3,NMSU,Alcorn,H,52,42,NA,2
-2018,11,3,Towson,Maine,H,28,35,NA,2
-2018,11,3,MTST,Cal Poly,H,49,42,NA,2
-2018,11,3,Morgan St.,Bethune-Cookman,H,28,30,NA,2
-2018,11,3,UC Davis,Northern Ariz.,H,42,20,NA,2
-2018,11,3,IDAHO,North Dakota,H,31,27,NA,2
-2018,11,3,Austin Peay,Eastern Ky.,H,13,17,NA,2
-2018,11,3,Central Ark.,Lamar University,H,24,38,NA,2
-2018,11,4,Portland St.,Idaho St.,H,45,48,NA,2
-2018,11,2,Penn,Cornell,V,20,7,NA,2
-2018,11,3,Columbia,Harvard,V,18,52,NA,2
-2018,11,3,Butler,Jacksonville,V,44,48,NA,2
-2018,11,3,Brown,Saint Francis (PA),V,14,27,NA,2
-2018,11,3,Duquesne,Wagner,V,47,30,NA,2
-2018,11,3,Robert Morris,Sacred Heart,V,7,38,NA,2
-2018,11,3,Valparaiso,Marist,V,24,35,NA,2
-2018,11,3,Holy Cross,Lafayette,V,40,14,NA,2
-2018,11,3,Bucknell,Lehigh,V,17,45,NA,2
-2018,11,3,Dartmouth,Princeton,V,9,14,NA,2
-2018,11,3,Brown,Yale,V,16,46,NA,2
-2018,11,3,James Madison,New Hampshire,V,24,35,NA,2
-2018,11,3,Colgate,Fordham,V,41,0,NA,2
-2018,11,3,Charleston So.,Monmouth,V,3,37,NA,2
-2018,11,3,South Dakota,Indiana St.,V,48,51,3,2
-2018,11,3,Chattanooga,Furman,V,10,16,NA,2
-2018,11,3,Florida A&M,Howard,V,23,31,NA,2
-2018,11,3,Norfolk St.,N.C. A&T,V,20,37,NA,2
-2018,11,3,Morehead St.,Stetson,V,24,48,NA,2
-2018,11,3,Hampton,MAR,V,51,10,NA,2
-2018,11,3,TUS,VMI,V,11,20,NA,2
-2018,11,3,Rhode Island,Elon,V,21,24,NA,2
-2018,11,3,Presbyterian,Gardner-Webb,V,20,38,NA,2
-2018,11,3,Campbell,Kennesaw St.,V,0,49,NA,2
-2018,11,3,Western Ill.,Southern Ill.,V,34,31,NA,2
-2018,11,3,Illinois St.,UNI,V,16,26,NA,2
-2018,11,3,Tennessee St.,Southeast Mo. St.,V,21,38,NA,2
-2018,11,3,Savannah St.,Delaware St.,V,6,25,NA,2
-2018,11,3,San Diego,Drake,V,27,10,NA,2
-2018,11,3,EDW,N.C. Central,V,12,52,NA,2
-2018,11,3,Eastern Wash.,Northern Colo.,V,48,13,NA,2
-2018,11,3,Sacramento St.,Weber St.,V,14,26,NA,2
-2018,11,3,UT Martin,Jacksonville St.,V,14,21,NA,2
-2018,11,3,SHO,NOR,V,14,41,NA,2
-2018,11,3,Murray St.,Tennessee Tech,V,24,27,NA,2
-2018,11,3,ETSU,Mercer,V,21,18,NA,2
-2018,11,3,Wofford,Samford,V,20,35,NA,2
-2018,11,3,Nicholls St.,Houston Baptist,V,41,20,NA,2
-2018,11,3,Sam Houston St.,Incarnate Word,V,26,43,NA,2
-2018,11,3,Missouri St.,South Dakota St.,V,7,59,NA,2
-2018,11,3,Northwestern St.,Abilene Christian,V,47,49,NA,2
-2018,11,3,Villanova,Richmond,V,45,21,NA,2
-2018,11,3,Montana,Southern Utah,V,57,14,NA,2
-2018,11,3,Texas Southern,Alabama St.,V,21,30,NA,2
-2018,11,3,Mississippi Val.,Grambling,V,19,24,NA,2
-2018,11,3,Prairie View,Jackson St.,V,28,34,NA,2
-2018,11,3,Alabama A&M,Ark.-Pine Bluff,V,45,14,NA,2
-2018,11,3,Youngstown St.,North Dakota St.,V,7,17,NA,2
-2018,11,3,Delaware,Albany (NY),V,21,16,NA,2
-2018,11,3,McNeese,Southeastern La.,V,6,23,NA,2
-2018,11,3,The Citadel,Western Caro.,V,38,24,NA,2
-2018,11,3,Alcorn,NMSU,V,42,52,NA,2
-2018,11,3,Maine,Towson,V,35,28,NA,2
-2018,11,3,Cal Poly,MTST,V,42,49,NA,2
-2018,11,3,Bethune-Cookman,Morgan St.,V,30,28,NA,2
-2018,11,3,Northern Ariz.,UC Davis,V,20,42,NA,2
-2018,11,3,North Dakota,IDAHO,V,27,31,NA,2
-2018,11,3,Eastern Ky.,Austin Peay,V,17,13,NA,2
-2018,11,3,Lamar University,Central Ark.,V,38,24,NA,2
-2018,11,4,Idaho St.,Portland St.,V,48,45,NA,2
-2018,11,9,Bethune-Cookman,N.C. Central,H,28,25,2,2
-2018,11,10,Saint Francis (PA),Central Conn. St.,H,14,30,NA,2
-2018,11,10,Duquesne,Sacred Heart,H,28,24,NA,2
-2018,11,10,Butler,Stetson,H,28,23,NA,2
-2018,11,10,ARMY,Lafayette,H,31,13,NA,2
-2018,11,10,Brown,Columbia,H,20,42,NA,2
-2018,11,10,Elon,Towson,H,10,41,NA,2
-2018,11,10,Presbyterian,Campbell,H,6,34,NA,2
-2018,11,10,Monmouth,Kennesaw St.,H,14,51,NA,2
-2018,11,10,Youngstown St.,UNI,H,31,10,NA,2
-2018,11,10,Murray St.,Southeast Mo. St.,H,40,38,NA,2
-2018,11,10,Holy Cross,Fordham,H,17,13,NA,2
-2018,11,10,Lehigh,Colgate,H,6,48,NA,2
-2018,11,10,Yale,Princeton,H,43,59,NA,2
-2018,11,10,Georgetown,Bucknell,H,14,3,NA,2
-2018,11,10,New Hampshire,Albany (NY),H,24,10,NA,2
-2018,11,10,Stony Brook,Delaware,H,17,3,NA,2
-2018,11,10,Villanova,William & Mary,H,17,24,NA,2
-2018,11,10,Chattanooga,Mercer,H,9,13,NA,2
-2018,11,10,Indiana St.,Illinois St.,H,28,23,NA,2
-2018,11,10,Eastern Ky.,Robert Morris,H,40,39,1,2
-2018,11,10,Penn,Harvard,H,7,29,NA,2
-2018,11,10,Dayton,Morehead St.,H,63,20,NA,2
-2018,11,10,Morgan St.,Delaware St.,H,9,0,NA,2
-2018,11,10,Norfolk St.,Howard,H,29,17,NA,2
-2018,11,10,Savannah St.,N.C. A&T,H,12,28,NA,2
-2018,11,10,Brown,Wagner,H,36,52,NA,2
-2018,11,10,Valparaiso,Jacksonville,H,48,30,NA,2
-2018,11,10,VMI,Furman,H,13,49,NA,2
-2018,11,10,Cornell,Dartmouth,H,24,35,NA,2
-2018,11,10,James Madison,Rhode Island,H,48,31,NA,2
-2018,11,10,The Citadel,Samford,H,42,27,NA,2
-2018,11,10,South Dakota,Western Ill.,H,17,12,NA,2
-2018,11,10,Southern Ill.,South Dakota St.,H,38,57,NA,2
-2018,11,10,Eastern Ill.,Austin Peay,H,52,21,NA,2
-2018,11,10,Mississippi Val.,Hampton,H,39,54,NA,2
-2018,11,10,Drake,Marist,H,13,10,NA,2
-2018,11,10,Alabama A&M,Grambling,H,16,29,NA,2
-2018,11,10,NOR,NGR,H,31,28,NA,2
-2018,11,10,Alabama St.,Jackson St.,H,2,20,NA,2
-2018,11,10,MTST,Northern Colo.,H,35,7,NA,2
-2018,11,10,North Dakota,Portland St.,H,17,10,NA,2
-2018,11,10,UT Martin,Tennessee Tech,H,38,13,NA,2
-2018,11,10,Tennessee St.,Jacksonville St.,H,14,41,NA,2
-2018,11,10,Richmond,Maine,H,9,28,NA,2
-2018,11,10,Charleston So.,Gardner-Webb,H,16,0,NA,2
-2018,11,10,Missouri St.,North Dakota St.,H,7,48,NA,2
-2018,11,10,Western Caro.,Wofford,H,23,38,NA,2
-2018,11,10,Sam Houston St.,Abilene Christian,H,10,17,NA,2
-2018,11,10,Central Ark.,Incarnate Word,H,27,40,NA,2
-2018,11,10,Lamar University,Houston Baptist,H,38,9,NA,2
-2018,11,10,Nicholls St.,SFA,H,47,14,NA,2
-2018,11,10,Florida A&M,South Carolina St.,H,21,44,NA,2
-2018,11,10,Eastern Wash.,UC Davis,H,59,20,NA,2
-2018,11,10,San Diego,Davidson,H,56,52,NA,2
-2018,11,10,Southern U.,Ark.-Pine Bluff,H,56,24,NA,2
-2018,11,10,IDAHO,Montana,H,27,46,NA,2
-2018,11,11,Northwestern St.,McNeese,H,37,34,2,2
-2018,11,11,Southern Utah,Weber St.,H,18,31,NA,2
-2018,11,11,Cal Poly,Idaho St.,H,37,14,NA,2
-2018,11,9,N.C. Central,Bethune-Cookman,V,25,28,2,2
-2018,11,10,Central Conn. St.,Saint Francis (PA),V,30,14,NA,2
-2018,11,10,Sacred Heart,Duquesne,V,24,28,NA,2
-2018,11,10,Stetson,Butler,V,23,28,NA,2
-2018,11,10,Lafayette,ARMY,V,13,31,NA,2
-2018,11,10,Columbia,Brown,V,42,20,NA,2
-2018,11,10,Towson,Elon,V,41,10,NA,2
-2018,11,10,Campbell,Presbyterian,V,34,6,NA,2
-2018,11,10,Kennesaw St.,Monmouth,V,51,14,NA,2
-2018,11,10,UNI,Youngstown St.,V,10,31,NA,2
-2018,11,10,Southeast Mo. St.,Murray St.,V,38,40,NA,2
-2018,11,10,Fordham,Holy Cross,V,13,17,NA,2
-2018,11,10,Colgate,Lehigh,V,48,6,NA,2
-2018,11,10,Princeton,Yale,V,59,43,NA,2
-2018,11,10,Bucknell,Georgetown,V,3,14,NA,2
-2018,11,10,Albany (NY),New Hampshire,V,10,24,NA,2
-2018,11,10,Delaware,Stony Brook,V,3,17,NA,2
-2018,11,10,William & Mary,Villanova,V,24,17,NA,2
-2018,11,10,Mercer,Chattanooga,V,13,9,NA,2
-2018,11,10,Illinois St.,Indiana St.,V,23,28,NA,2
-2018,11,10,Robert Morris,Eastern Ky.,V,39,40,1,2
-2018,11,10,Harvard,Penn,V,29,7,NA,2
-2018,11,10,Morehead St.,Dayton,V,20,63,NA,2
-2018,11,10,Delaware St.,Morgan St.,V,0,9,NA,2
-2018,11,10,Howard,Norfolk St.,V,17,29,NA,2
-2018,11,10,N.C. A&T,Savannah St.,V,28,12,NA,2
-2018,11,10,Wagner,Brown,V,52,36,NA,2
-2018,11,10,Jacksonville,Valparaiso,V,30,48,NA,2
-2018,11,10,Furman,VMI,V,49,13,NA,2
-2018,11,10,Dartmouth,Cornell,V,35,24,NA,2
-2018,11,10,Rhode Island,James Madison,V,31,48,NA,2
-2018,11,10,Samford,The Citadel,V,27,42,NA,2
-2018,11,10,Western Ill.,South Dakota,V,12,17,NA,2
-2018,11,10,South Dakota St.,Southern Ill.,V,57,38,NA,2
-2018,11,10,Austin Peay,Eastern Ill.,V,21,52,NA,2
-2018,11,10,Hampton,Mississippi Val.,V,54,39,NA,2
-2018,11,10,Marist,Drake,V,10,13,NA,2
-2018,11,10,Grambling,Alabama A&M,V,29,16,NA,2
-2018,11,10,NGR,NOR,V,28,31,NA,2
-2018,11,10,Jackson St.,Alabama St.,V,20,2,NA,2
-2018,11,10,Northern Colo.,MTST,V,7,35,NA,2
-2018,11,10,Portland St.,North Dakota,V,10,17,NA,2
-2018,11,10,Tennessee Tech,UT Martin,V,13,38,NA,2
-2018,11,10,Jacksonville St.,Tennessee St.,V,41,14,NA,2
-2018,11,10,Maine,Richmond,V,28,9,NA,2
-2018,11,10,Gardner-Webb,Charleston So.,V,0,16,NA,2
-2018,11,10,North Dakota St.,Missouri St.,V,48,7,NA,2
-2018,11,10,Wofford,Western Caro.,V,38,23,NA,2
-2018,11,10,Abilene Christian,Sam Houston St.,V,17,10,NA,2
-2018,11,10,Incarnate Word,Central Ark.,V,40,27,NA,2
-2018,11,10,Houston Baptist,Lamar University,V,9,38,NA,2
-2018,11,10,SFA,Nicholls St.,V,14,47,NA,2
-2018,11,10,South Carolina St.,Florida A&M,V,44,21,NA,2
-2018,11,10,UC Davis,Eastern Wash.,V,20,59,NA,2
-2018,11,10,Davidson,San Diego,V,52,56,NA,2
-2018,11,10,Ark.-Pine Bluff,Southern U.,V,24,56,NA,2
-2018,11,10,Montana,IDAHO,V,46,27,NA,2
-2018,11,11,McNeese,Northwestern St.,V,34,37,2,2
-2018,11,11,Weber St.,Southern Utah,V,31,18,NA,2
-2018,11,11,Idaho St.,Cal Poly,V,14,37,NA,2
-2018,11,16,SFA,Northwestern St.,H,23,35,NA,2
-2018,11,16,Nicholls St.,Southeastern La.,H,44,0,NA,2
-2018,11,17,Portland St.,Eastern Wash.,H,23,74,NA,2
-2018,11,17,ALA,The Citadel,H,50,17,NA,2
-2018,11,17,FLA,IDAHO,H,63,10,NA,2
-2018,11,17,Mississippi Val.,Alabama A&M,H,14,42,NA,2
-2018,11,17,Central Conn. St.,Duquesne,H,31,38,NA,2
-2018,11,17,Robert Morris,Wagner,H,7,41,NA,2
-2018,11,17,Sacred Heart,Saint Francis (PA),H,13,7,NA,2
-2018,11,17,Marist,San Diego,H,14,31,NA,2
-2018,11,17,Harvard,Yale,H,45,27,NA,2
-2018,11,17,ARMY,Colgate,H,28,14,NA,2
-2018,11,17,Delaware,Villanova,H,21,42,NA,2
-2018,11,17,Maine,Elon,H,27,26,NA,2
-2018,11,17,Rhode Island,New Hampshire,H,24,21,NA,2
-2018,11,17,Georgetown,Holy Cross,H,31,32,NA,2
-2018,11,17,Lafayette,Lehigh,H,3,34,NA,2
-2018,11,17,Davidson,Butler,H,41,38,NA,2
-2018,11,17,Illinois St.,Youngstown St.,H,35,28,NA,2
-2018,11,17,Columbia,Cornell,H,24,21,NA,2
-2018,11,17,Princeton,Penn,H,42,14,NA,2
-2018,11,17,Stetson,Valparaiso,H,45,31,NA,2
-2018,11,17,Hampton,STAW,H,44,17,NA,2
-2018,11,17,Howard,Brown,H,55,56,NA,2
-2018,11,17,Jacksonville,Dayton,H,7,34,NA,2
-2018,11,17,Norfolk St.,Morgan St.,H,27,44,NA,2
-2018,11,17,ETSU,Samford,H,27,38,NA,2
-2018,11,17,Morehead St.,Drake,H,6,43,NA,2
-2018,11,17,South Carolina St.,Savannah St.,H,21,17,NA,2
-2018,11,17,Bucknell,Fordham,H,14,17,NA,2
-2018,11,17,Gardner-Webb,Monmouth,H,42,56,NA,2
-2018,11,17,Dartmouth,Brown,H,49,7,NA,2
-2018,11,17,Wofford,Presbyterian,H,45,21,NA,2
-2018,11,17,Western Ill.,Indiana St.,H,13,15,NA,2
-2018,11,17,Montana,MTST,H,25,29,NA,2
-2018,11,17,Southeast Mo. St.,Eastern Ill.,H,38,32,NA,2
-2018,11,17,Towson,James Madison,H,17,38,NA,2
-2018,11,17,William & Mary,Richmond,H,6,10,NA,2
-2018,11,17,Campbell,Charleston So.,H,7,12,NA,2
-2018,11,17,ODU,VMI,H,77,14,NA,2
-2018,11,17,N.C. Central,N.C. A&T,H,0,45,NA,2
-2018,11,17,Delaware St.,LYN,H,41,7,NA,2
-2018,11,17,Prairie View,Alabama St.,H,66,13,NA,2
-2018,11,17,Tennessee Tech,Eastern Ky.,H,6,37,NA,2
-2018,11,17,Mercer,Furman,H,30,35,NA,2
-2018,11,17,Tennessee St.,UT Martin,H,31,28,1,2
-2018,11,17,South Dakota St.,South Dakota,H,49,27,NA,2
-2018,11,17,Abilene Christian,Central Ark.,H,7,16,NA,2
-2018,11,17,Houston Baptist,Sam Houston St.,H,20,42,NA,2
-2018,11,17,Kennesaw St.,Jacksonville St.,H,60,52,5,2
-2018,11,17,UNC,Western Caro.,H,49,26,NA,2
-2018,11,17,Alcorn,Jackson St.,H,24,3,NA,2
-2018,11,17,UC Davis,Sacramento St.,H,56,13,NA,2
-2018,11,17,North Dakota St.,Southern Ill.,H,65,17,NA,2
-2018,11,17,Albany (NY),Stony Brook,H,25,23,NA,2
-2018,11,17,McNeese,Lamar University,H,17,21,NA,2
-2018,11,17,Northern Ariz.,North Dakota,H,31,16,NA,2
-2018,11,17,Idaho St.,Weber St.,H,13,26,NA,2
-2018,11,17,Austin Peay,Murray St.,H,48,23,NA,2
-2018,11,17,UNI,Missouri St.,H,37,0,NA,2
-2018,11,17,Florida A&M,Bethune-Cookman,H,19,33,NA,2
-2018,11,18,Cal Poly,Southern Utah,H,38,24,NA,2
-2018,11,18,SC,Chattanooga,H,49,9,NA,2
-2018,11,18,Texas Southern,Ark.-Pine Bluff,H,10,15,NA,2
-2018,11,16,Northwestern St.,SFA,V,35,23,NA,2
-2018,11,16,Southeastern La.,Nicholls St.,V,0,44,NA,2
-2018,11,17,Eastern Wash.,Portland St.,V,74,23,NA,2
-2018,11,17,The Citadel,ALA,V,17,50,NA,2
-2018,11,17,IDAHO,FLA,V,10,63,NA,2
-2018,11,17,Alabama A&M,Mississippi Val.,V,42,14,NA,2
-2018,11,17,Duquesne,Central Conn. St.,V,38,31,NA,2
-2018,11,17,Wagner,Robert Morris,V,41,7,NA,2
-2018,11,17,Saint Francis (PA),Sacred Heart,V,7,13,NA,2
-2018,11,17,San Diego,Marist,V,31,14,NA,2
-2018,11,17,Yale,Harvard,V,27,45,NA,2
-2018,11,17,Colgate,ARMY,V,14,28,NA,2
-2018,11,17,Villanova,Delaware,V,42,21,NA,2
-2018,11,17,Elon,Maine,V,26,27,NA,2
-2018,11,17,New Hampshire,Rhode Island,V,21,24,NA,2
-2018,11,17,Holy Cross,Georgetown,V,32,31,NA,2
-2018,11,17,Lehigh,Lafayette,V,34,3,NA,2
-2018,11,17,Butler,Davidson,V,38,41,NA,2
-2018,11,17,Youngstown St.,Illinois St.,V,28,35,NA,2
-2018,11,17,Cornell,Columbia,V,21,24,NA,2
-2018,11,17,Penn,Princeton,V,14,42,NA,2
-2018,11,17,Valparaiso,Stetson,V,31,45,NA,2
-2018,11,17,STAW,Hampton,V,17,44,NA,2
-2018,11,17,Brown,Howard,V,56,55,NA,2
-2018,11,17,Dayton,Jacksonville,V,34,7,NA,2
-2018,11,17,Morgan St.,Norfolk St.,V,44,27,NA,2
-2018,11,17,Samford,ETSU,V,38,27,NA,2
-2018,11,17,Drake,Morehead St.,V,43,6,NA,2
-2018,11,17,Savannah St.,South Carolina St.,V,17,21,NA,2
-2018,11,17,Fordham,Bucknell,V,17,14,NA,2
-2018,11,17,Monmouth,Gardner-Webb,V,56,42,NA,2
-2018,11,17,Brown,Dartmouth,V,7,49,NA,2
-2018,11,17,Presbyterian,Wofford,V,21,45,NA,2
-2018,11,17,Indiana St.,Western Ill.,V,15,13,NA,2
-2018,11,17,MTST,Montana,V,29,25,NA,2
-2018,11,17,Eastern Ill.,Southeast Mo. St.,V,32,38,NA,2
-2018,11,17,James Madison,Towson,V,38,17,NA,2
-2018,11,17,Richmond,William & Mary,V,10,6,NA,2
-2018,11,17,Charleston So.,Campbell,V,12,7,NA,2
-2018,11,17,VMI,ODU,V,14,77,NA,2
-2018,11,17,N.C. A&T,N.C. Central,V,45,0,NA,2
-2018,11,17,LYN,Delaware St.,V,7,41,NA,2
-2018,11,17,Alabama St.,Prairie View,V,13,66,NA,2
-2018,11,17,Eastern Ky.,Tennessee Tech,V,37,6,NA,2
-2018,11,17,Furman,Mercer,V,35,30,NA,2
-2018,11,17,UT Martin,Tennessee St.,V,28,31,1,2
-2018,11,17,South Dakota,South Dakota St.,V,27,49,NA,2
-2018,11,17,Central Ark.,Abilene Christian,V,16,7,NA,2
-2018,11,17,Sam Houston St.,Houston Baptist,V,42,20,NA,2
-2018,11,17,Jacksonville St.,Kennesaw St.,V,52,60,5,2
-2018,11,17,Western Caro.,UNC,V,26,49,NA,2
-2018,11,17,Jackson St.,Alcorn,V,3,24,NA,2
-2018,11,17,Sacramento St.,UC Davis,V,13,56,NA,2
-2018,11,17,Southern Ill.,North Dakota St.,V,17,65,NA,2
-2018,11,17,Stony Brook,Albany (NY),V,23,25,NA,2
-2018,11,17,Lamar University,McNeese,V,21,17,NA,2
-2018,11,17,North Dakota,Northern Ariz.,V,16,31,NA,2
-2018,11,17,Weber St.,Idaho St.,V,26,13,NA,2
-2018,11,17,Murray St.,Austin Peay,V,23,48,NA,2
-2018,11,17,Missouri St.,UNI,V,0,37,NA,2
-2018,11,17,Bethune-Cookman,Florida A&M,V,33,19,NA,2
-2018,11,18,Southern Utah,Cal Poly,V,24,38,NA,2
-2018,11,18,Chattanooga,SC,V,9,49,NA,2
-2018,11,18,Ark.-Pine Bluff,Texas Southern,V,15,10,NA,2
-2018,11,22,Alabama St.,Mississippi Val.,H,31,24,1,2
-2018,11,24,South Carolina St.,N.C. Central,H,17,21,NA,2
-2018,11,24,Towson,Duquesne,H,10,31,NA,2
-2018,11,24,Wofford,Elon,H,19,7,NA,2
-2018,11,24,Prairie View,Texas Southern,H,60,14,NA,2
-2018,11,24,Southeast Mo. St.,Stony Brook,H,28,14,NA,2
-2018,11,24,MTST,Incarnate Word,H,35,14,NA,2
-2018,11,24,James Madison,Delaware,H,20,6,NA,2
-2018,11,24,Nicholls St.,San Diego,H,49,30,NA,2
-2018,11,24,UNI,Lamar University,H,16,13,NA,2
-2018,11,24,Southern U.,Grambling,H,38,28,NA,2
-2018,11,25,Jacksonville St.,ETSU,H,34,27,NA,2
-2018,11,22,Mississippi Val.,Alabama St.,V,24,31,1,2
-2018,11,24,N.C. Central,South Carolina St.,V,21,17,NA,2
-2018,11,24,Duquesne,Towson,V,31,10,NA,2
-2018,11,24,Elon,Wofford,V,7,19,NA,2
-2018,11,24,Texas Southern,Prairie View,V,14,60,NA,2
-2018,11,24,Stony Brook,Southeast Mo. St.,V,14,28,NA,2
-2018,11,24,Incarnate Word,MTST,V,14,35,NA,2
-2018,11,24,Delaware,James Madison,V,6,20,NA,2
-2018,11,24,San Diego,Nicholls St.,V,30,49,NA,2
-2018,11,24,Lamar University,UNI,V,13,16,NA,2
-2018,11,24,Grambling,Southern U.,V,28,38,NA,2
-2018,11,25,ETSU,Jacksonville St.,V,27,34,NA,2
-2018,11,30,The Citadel,Charleston So.,H,43,14,NA,2
-2018,12,1,ISU,Drake,H,27,24,NA,2
-2018,12,1,Maine,Jacksonville St.,H,55,27,NA,2
-2018,12,1,Colgate,James Madison,H,23,20,NA,2
-2018,12,1,Kennesaw St.,Wofford,H,13,10,NA,2
-2018,12,1,Liberty,Norfolk St.,H,52,17,NA,2
-2018,12,1,South Dakota St.,Duquesne,H,51,6,NA,2
-2018,12,1,North Dakota St.,MTST,H,52,10,NA,2
-2018,12,1,Weber St.,Southeast Mo. St.,H,48,23,NA,2
-2018,12,1,Alcorn,Southern U.,H,37,28,NA,2
-2018,12,1,Eastern Wash.,Nicholls St.,H,42,21,NA,2
-2018,12,2,UC Davis,UNI,H,23,16,NA,2
-2018,11,30,Charleston So.,The Citadel,V,14,43,NA,2
-2018,12,1,Drake,ISU,V,24,27,NA,2
-2018,12,1,Jacksonville St.,Maine,V,27,55,NA,2
-2018,12,1,James Madison,Colgate,V,20,23,NA,2
-2018,12,1,Wofford,Kennesaw St.,V,10,13,NA,2
-2018,12,1,Norfolk St.,Liberty,V,17,52,NA,2
-2018,12,1,Duquesne,South Dakota St.,V,6,51,NA,2
-2018,12,1,MTST,North Dakota St.,V,10,52,NA,2
-2018,12,1,Southeast Mo. St.,Weber St.,V,23,48,NA,2
-2018,12,1,Southern U.,Alcorn,V,28,37,NA,2
-2018,12,1,Nicholls St.,Eastern Wash.,V,21,42,NA,2
-2018,12,2,UNI,UC Davis,V,16,23,NA,2
-2018,11,8,Weber St.,Maine,H,18,23,NA,2
-2018,12,8,North Dakota St.,Colgate,H,35,0,NA,2
-2018,12,8,Kennesaw St.,South Dakota St.,H,17,27,NA,2
-2018,12,8,Eastern Wash.,UC Davis,H,34,29,NA,2
-2018,11,8,Maine,Weber St.,V,23,18,NA,2
-2018,12,8,Colgate,North Dakota St.,V,0,35,NA,2
-2018,12,8,South Dakota St.,Kennesaw St.,V,27,17,NA,2
-2018,12,8,UC Davis,Eastern Wash.,V,29,34,NA,2
-2018,12,15,North Dakota St.,South Dakota St.,H,44,21,NA,2
-2018,12,15,Alcorn,N.C. A&T,H,22,24,NA,2
-2018,12,15,Eastern Wash.,Maine,H,50,19,NA,2
-2018,1,5,North Dakota St.,Eastern Wash.,H,38,24,NA,2
-2018,12,15,South Dakota St.,North Dakota St.,V,21,44,NA,2
-2018,12,15,N.C. A&T,Alcorn,V,24,22,NA,2
-2018,12,15,Maine,Eastern Wash.,V,19,50,NA,2
-2018,1,5,Eastern Wash.,North Dakota St.,V,24,38,NA,2
+2017,11,18,Abilene Christian,Central Ark.,V,0,34,NA,2
+2017,9,9,Abilene Christian,Colorado St.,V,10,38,NA,2
+2017,9,17,Abilene Christian,Houston Baptist,H,24,3,NA,2
+2017,9,30,Abilene Christian,Incarnate Word,V,45,20,NA,2
+2017,10,8,Abilene Christian,McNeese,H,7,13,NA,2
+2017,9,1,Abilene Christian,New Mexico,V,14,38,NA,2
+2017,10,14,Abilene Christian,Nicholls St.,V,20,29,NA,2
+2017,11,4,Abilene Christian,Northwestern St.,V,23,26,1,2
+2017,11,11,Abilene Christian,Sam Houston St.,H,35,44,NA,2
+2017,9,24,Abilene Christian,SFA,H,10,20,NA,2
+2017,10,21,Abilene Christian,Southeastern La.,H,21,56,NA,2
+2017,9,1,Air Force,VMI,H,62,0,NA,2
+2017,11,18,Alabama,Mercer,H,56,0,NA,2
+2017,10,28,Alabama A&M,Alabama St.,V,16,21,NA,2
+2017,11,4,Alabama A&M,Alcorn,V,22,47,NA,2
+2017,9,30,Alabama A&M,Ark.-Pine Bluff,H,27,14,NA,2
+2017,11,11,Alabama A&M,Jackson St.,H,7,10,NA,2
+2017,10,14,Alabama A&M,Mississippi Val.,H,49,14,NA,2
+2017,9,17,Alabama A&M,South Ala.,V,0,45,NA,2
+2017,10,7,Alabama A&M,Southern U.,V,14,35,NA,2
+2017,9,24,Alabama A&M,Texas Southern,H,30,13,NA,2
+2017,9,9,Alabama A&M,Vanderbilt,V,0,42,NA,2
+2017,10,28,Alabama St.,Alabama A&M,H,21,16,NA,2
+2017,10,6,Alabama St.,Alcorn,H,10,24,NA,2
+2017,11,11,Alabama St.,Grambling,H,7,24,NA,2
+2017,11,4,Alabama St.,Jackson St.,V,13,3,NA,2
+2017,9,17,Alabama St.,Kennesaw St.,H,14,20,NA,2
+2017,11,18,Alabama St.,Mississippi Val.,V,16,10,NA,2
+2017,9,24,Alabama St.,Prairie View,H,0,34,NA,2
+2017,10,14,Alabama St.,Texas Southern,V,23,16,NA,2
+2017,9,9,Alabama St.,Troy,V,7,34,NA,2
+2017,11,11,Albany (NY),Delaware,V,3,22,NA,2
+2017,9,30,Albany (NY),Elon,V,0,6,NA,2
+2017,10,21,Albany (NY),Maine,H,10,12,NA,2
+2017,9,17,Albany (NY),Monmouth,H,28,14,NA,2
+2017,9,9,Albany (NY),Morgan St.,V,26,0,NA,2
+2017,11,18,Albany (NY),New Hampshire,H,15,0,NA,2
+2017,9,1,Albany (NY),Old Dominion,V,17,31,NA,2
+2017,10,28,Albany (NY),Rhode Island,H,14,31,NA,2
+2017,10,7,Albany (NY),Richmond,V,38,41,2,2
+2017,11,4,Albany (NY),Stony Brook,V,21,28,1,2
+2017,9,24,Albany (NY),Villanova,H,19,10,1,2
+2017,11,4,Alcorn,Alabama A&M,H,47,22,NA,2
+2017,10,6,Alcorn,Alabama St.,V,24,10,NA,2
+2017,9,9,Alcorn,FIU,V,10,17,NA,2
+2017,10,21,Alcorn,Grambling,V,14,41,NA,2
+2017,12,2,Alcorn,Grambling,V,32,40,NA,2
+2017,11,18,Alcorn,Jackson St.,V,3,7,NA,2
+2017,9,17,Alcorn,McNeese,H,27,34,NA,2
+2017,11,11,Alcorn,Mississippi Val.,H,59,0,NA,2
+2017,10,14,Alcorn,Prairie View,H,34,21,NA,2
+2017,9,24,Alcorn,Southern U.,H,48,31,NA,2
+2017,9,30,Alcorn,Texas Southern,V,24,17,NA,2
+2017,9,9,Appalachian St.,Savannah St.,H,54,7,NA,2
+2017,9,1,Arizona,Northern Ariz.,H,62,24,NA,2
+2017,9,30,Ark.-Pine Bluff,Alabama A&M,V,14,27,NA,2
+2017,11,4,Ark.-Pine Bluff,Grambling,H,26,31,NA,2
+2017,9,24,Ark.-Pine Bluff,Jackson St.,V,34,27,1,2
+2017,10,8,Ark.-Pine Bluff,Mississippi Val.,H,31,38,NA,2
+2017,11,11,Ark.-Pine Bluff,Prairie View,V,12,35,NA,2
+2017,10,28,Ark.-Pine Bluff,Southern U.,H,40,47,NA,2
+2017,11,18,Ark.-Pine Bluff,Texas Southern,H,10,24,NA,2
+2017,9,1,Arkansas,Florida A&M,H,49,7,NA,2
+2017,9,1,Army West Point,Fordham,H,64,6,NA,2
+2017,9,16,Auburn,Mercer,H,24,10,NA,2
+2017,9,1,Austin Peay,Cincinnati,V,14,26,NA,2
+2017,11,18,Austin Peay,Eastern Ill.,H,28,13,NA,2
+2017,11,11,Austin Peay,Eastern Ky.,V,31,24,NA,2
+2017,10,7,Austin Peay,Jacksonville St.,H,14,34,NA,2
+2017,9,9,Austin Peay,Miami (OH),V,10,31,NA,2
+2017,9,17,Austin Peay,Morehead St.,H,69,13,NA,2
+2017,9,24,Austin Peay,Murray St.,V,27,7,NA,2
+2017,10,21,Austin Peay,Southeast Mo. St.,H,38,31,NA,2
+2017,10,15,Austin Peay,Tennessee St.,V,21,17,NA,2
+2017,11,4,Austin Peay,Tennessee Tech,V,35,28,NA,2
+2017,10,28,Austin Peay,UCF,V,33,73,NA,2
+2017,9,30,Austin Peay,UT Martin,H,7,0,NA,2
+2017,9,16,Ball St.,Tennessee Tech,H,28,13,NA,2
+2017,9,1,Baylor,Liberty,H,45,48,NA,2
+2017,9,16,Bethune-Cookman,Fla. Atlantic,V,0,45,NA,2
+2017,11,18,Bethune-Cookman,Florida A&M,H,29,24,NA,2
+2017,10,28,Bethune-Cookman,Hampton,H,24,21,NA,2
+2017,9,23,Bethune-Cookman,Howard,V,24,26,NA,2
+2017,9,1,Bethune-Cookman,Miami (FL),V,13,41,NA,2
+2017,11,4,Bethune-Cookman,Morgan St.,H,41,28,NA,2
+2017,10,21,Bethune-Cookman,N.C. A&T,V,20,24,NA,2
+2017,11,11,Bethune-Cookman,N.C. Central,V,13,10,NA,2
+2017,9,30,Bethune-Cookman,Savannah St.,H,24,12,NA,2
+2017,10,14,Bethune-Cookman,South Carolina St.,H,12,9,NA,2
+2017,9,10,Bethune-Cookman,Southeastern La.,V,28,23,NA,2
+2017,9,9,Bowling Green,South Dakota,H,27,35,NA,2
+2017,9,16,Brown,Bryant,H,28,23,NA,2
+2017,11,18,Brown,Columbia,V,6,24,NA,2
+2017,10,21,Brown,Cornell,V,7,34,NA,2
+2017,11,11,Brown,Dartmouth,H,10,33,NA,2
+2017,9,23,Brown,Harvard,V,28,45,NA,2
+2017,10,28,Brown,Penn,H,7,17,NA,2
+2017,10,14,Brown,Princeton,H,0,53,NA,2
+2017,9,30,Brown,Rhode Island,H,24,21,NA,2
+2017,10,7,Brown,Stetson,V,13,17,NA,2
+2017,11,4,Brown,Yale,V,7,34,NA,2
+2017,9,16,Bryant,Brown,V,23,28,NA,2
+2017,10,21,Bryant,Central Conn. St.,V,14,31,NA,2
+2017,11,18,Bryant,Duquesne,H,38,29,NA,2
+2017,9,23,Bryant,Fordham,H,45,40,NA,2
+2017,9,9,Bryant,Maine,V,12,60,NA,2
+2017,9,1,Bryant,Mercer,H,49,41,NA,2
+2017,9,30,Bryant,New Hampshire,V,17,45,NA,2
+2017,11,11,Bryant,Robert Morris,V,42,17,NA,2
+2017,11,4,Bryant,Sacred Heart,H,48,45,NA,2
+2017,10,14,Bryant,Saint Francis (PA),H,14,30,NA,2
+2017,10,28,Bryant,Wagner,V,31,16,NA,2
+2017,10,28,Bucknell,Colgate,V,3,40,NA,2
+2017,10,14,Bucknell,Cornell,V,26,18,NA,2
+2017,11,18,Bucknell,Fordham,V,9,20,NA,2
+2017,11,11,Bucknell,Georgetown,H,12,0,NA,2
+2017,9,9,Bucknell,Holy Cross,H,0,20,NA,2
+2017,10,21,Bucknell,Lafayette,V,13,7,1,2
+2017,11,4,Bucknell,Lehigh,H,21,42,NA,2
+2017,9,1,Bucknell,Marist,H,45,6,NA,2
+2017,9,30,Bucknell,Monmouth,H,13,35,NA,2
+2017,9,23,Bucknell,Sacred Heart,H,34,31,NA,2
+2017,9,16,Bucknell,William & Mary,V,9,30,NA,2
+2017,9,16,Buffalo,Colgate,H,33,10,NA,2
+2017,10,21,Butler,Campbell,H,37,23,NA,2
+2017,10,28,Butler,Dayton,V,22,27,NA,2
+2017,9,30,Butler,Drake,H,16,27,NA,2
+2017,9,1,Butler,Illinois St.,V,0,45,NA,2
+2017,10,14,Butler,Jacksonville,H,37,22,NA,2
+2017,10,7,Butler,Morehead St.,V,44,6,NA,2
+2017,9,23,Butler,San Diego,V,17,38,NA,2
+2017,11,4,Butler,Stetson,V,23,6,NA,2
+2017,11,11,Butler,Valparaiso,H,28,36,NA,2
+2017,8,26,BYU,Portland St.,H,20,6,NA,2
+2017,8,27,Cal Poly,Colgate,H,14,20,NA,2
+2017,9,30,Cal Poly,Idaho St.,V,34,38,NA,2
+2017,9,24,Cal Poly,Northern Ariz.,H,10,28,NA,2
+2017,11,18,Cal Poly,Northern Colo.,V,0,42,NA,2
+2017,11,5,Cal Poly,Portland St.,H,35,28,NA,2
+2017,11,12,Cal Poly,Sacramento St.,H,14,49,NA,2
+2017,9,1,Cal Poly,San Jose St.,V,13,34,NA,2
+2017,10,8,Cal Poly,Southern Utah,V,14,20,NA,2
+2017,10,29,Cal Poly,UC Davis,V,28,31,NA,2
+2017,9,9,Cal Poly,UNI,V,38,45,1,2
+2017,10,22,Cal Poly,Weber St.,H,3,17,NA,2
+2017,9,9,California,Weber St.,H,33,20,NA,2
+2017,10,21,Campbell,Butler,V,23,37,NA,2
+2017,11,4,Campbell,Davidson,V,42,29,NA,2
+2017,10,14,Campbell,Dayton,V,17,7,NA,2
+2017,11,11,Campbell,Drake,H,10,45,NA,2
+2017,9,9,Campbell,Georgetown,H,10,16,NA,2
+2017,10,28,Campbell,Jacksonville,H,48,54,3,2
+2017,9,30,Campbell,Morehead St.,H,38,0,NA,2
+2017,9,17,Campbell,Presbyterian,V,16,28,NA,2
+2017,9,23,Campbell,Stetson,V,49,21,NA,2
+2017,10,7,Campbell,Valparaiso,H,49,10,NA,2
+2017,11,18,Central Ark.,Abilene Christian,H,34,0,NA,2
+2017,10,8,Central Ark.,Houston Baptist,V,27,7,NA,2
+2017,11,12,Central Ark.,Incarnate Word,V,56,10,NA,2
+2017,9,1,Central Ark.,Kansas St.,V,19,55,NA,2
+2017,11,4,Central Ark.,Lamar University,V,42,14,NA,2
+2017,10,29,Central Ark.,McNeese,H,47,17,NA,2
+2017,9,10,Central Ark.,Murray St.,V,41,13,NA,2
+2017,12,2,Central Ark.,New Hampshire,H,15,21,NA,2
+2017,10,22,Central Ark.,Northwestern St.,V,45,17,NA,2
+2017,9,30,Central Ark.,Sam Houston St.,H,41,30,NA,2
+2017,10,15,Central Ark.,SFA,H,24,20,NA,2
+2017,9,17,Central Ark.,Southeastern La.,H,38,6,NA,2
+2017,10,21,Central Conn. St.,Bryant,H,31,14,NA,2
+2017,11,11,Central Conn. St.,Duquesne,V,28,27,NA,2
+2017,9,9,Central Conn. St.,Fordham,H,31,38,NA,2
+2017,11,25,Central Conn. St.,New Hampshire,V,0,14,NA,2
+2017,10,7,Central Conn. St.,Penn,H,42,21,NA,2
+2017,11,18,Central Conn. St.,Robert Morris,H,42,14,NA,2
+2017,9,30,Central Conn. St.,Sacred Heart,V,26,15,NA,2
+2017,11,4,Central Conn. St.,Saint Francis (PA),H,28,10,NA,2
+2017,9,1,Central Conn. St.,Syracuse,V,7,50,NA,2
+2017,10,14,Central Conn. St.,Wagner,V,51,45,4,2
+2017,9,16,Central Conn. St.,Youngstown St.,V,9,59,NA,2
+2017,9,1,Central Mich.,Rhode Island,H,30,27,3,2
+2017,9,16,Charleston So.,Elon,V,17,19,NA,2
+2017,11,4,Charleston So.,Gardner-Webb,V,10,9,NA,2
+2017,10,7,Charleston So.,Indiana,V,0,27,NA,2
+2017,11,11,Charleston So.,Kennesaw St.,V,0,38,NA,2
+2017,11,18,Charleston So.,Liberty,H,20,19,NA,2
+2017,9,1,Charleston So.,Mississippi St.,V,0,49,NA,2
+2017,9,30,Charleston So.,Mississippi Val.,H,58,7,NA,2
+2017,10,28,Charleston So.,Monmouth,H,20,23,NA,2
+2017,10,14,Charleston So.,Presbyterian,V,7,0,NA,2
+2017,10,21,Charleston So.,Savannah St.,H,52,27,NA,2
+2017,9,16,Charlotte,N.C. A&T,H,31,35,NA,2
+2017,11,18,Chattanooga,ETSU,H,10,3,NA,2
+2017,10,7,Chattanooga,Furman,H,17,41,NA,2
+2017,8,26,Chattanooga,Jacksonville St.,V,13,27,NA,2
+2017,9,10,Chattanooga,LSU,V,10,45,NA,2
+2017,10,14,Chattanooga,Mercer,V,10,30,NA,2
+2017,10,28,Chattanooga,Samford,V,23,21,NA,2
+2017,10,21,Chattanooga,The Citadel,H,14,20,NA,2
+2017,9,16,Chattanooga,UT Martin,H,7,21,NA,2
+2017,9,23,Chattanooga,VMI,V,63,7,NA,2
+2017,9,30,Chattanooga,Western Caro.,H,7,45,NA,2
+2017,11,4,Chattanooga,Wofford,V,21,24,2,2
+2017,9,1,Cincinnati,Austin Peay,H,26,14,NA,2
+2017,11,18,Clemson,The Citadel,H,61,3,NA,2
+2017,9,23,Coastal Carolina,Western Ill.,H,10,52,NA,2
+2017,10,28,Colgate,Bucknell,H,40,3,NA,2
+2017,9,16,Colgate,Buffalo,V,10,33,NA,2
+2017,8,27,Colgate,Cal Poly,V,20,14,NA,2
+2017,9,30,Colgate,Cornell,V,21,7,NA,2
+2017,10,14,Colgate,Fordham,H,38,12,NA,2
+2017,9,23,Colgate,Furman,H,14,45,NA,2
+2017,11,18,Colgate,Georgetown,V,35,10,NA,2
+2017,10,21,Colgate,Holy Cross,V,45,7,NA,2
+2017,11,11,Colgate,Lafayette,V,27,0,NA,2
+2017,10,7,Colgate,Lehigh,H,38,41,NA,2
+2017,9,9,Colgate,Richmond,H,17,20,NA,2
+2017,9,16,Colorado,Northern Colo.,H,41,21,NA,2
+2017,9,9,Colorado St.,Abilene Christian,H,38,10,NA,2
+2017,11,18,Columbia,Brown,H,24,6,NA,2
+2017,11,11,Columbia,Cornell,V,18,8,NA,2
+2017,10,21,Columbia,Dartmouth,V,22,17,NA,2
+2017,9,23,Columbia,Georgetown,H,35,14,NA,2
+2017,11,4,Columbia,Harvard,H,14,21,NA,2
+2017,10,7,Columbia,Marist,V,41,17,NA,2
+2017,10,14,Columbia,Penn,H,34,31,1,2
+2017,9,30,Columbia,Princeton,V,28,24,NA,2
+2017,9,16,Columbia,Wagner,H,17,14,NA,2
+2017,10,28,Columbia,Yale,V,6,23,NA,2
+2017,10,21,Cornell,Brown,H,34,7,NA,2
+2017,10,14,Cornell,Bucknell,H,18,26,NA,2
+2017,9,30,Cornell,Colgate,H,7,21,NA,2
+2017,11,11,Cornell,Columbia,H,8,18,NA,2
+2017,11,4,Cornell,Dartmouth,V,0,10,NA,2
+2017,9,16,Cornell,Delaware,V,14,41,NA,2
+2017,10,7,Cornell,Harvard,H,17,14,NA,2
+2017,11,18,Cornell,Penn,V,22,29,NA,2
+2017,10,29,Cornell,Princeton,V,29,28,NA,2
+2017,9,23,Cornell,Yale,V,24,49,NA,2
+2017,11,11,Dartmouth,Brown,V,33,10,NA,2
+2017,10,21,Dartmouth,Columbia,H,17,22,NA,2
+2017,11,4,Dartmouth,Cornell,H,10,0,NA,2
+2017,10,28,Dartmouth,Harvard,V,22,25,NA,2
+2017,9,24,Dartmouth,Holy Cross,H,27,26,1,2
+2017,9,30,Dartmouth,Penn,V,16,13,NA,2
+2017,11,18,Dartmouth,Princeton,H,54,44,NA,2
+2017,10,14,Dartmouth,Sacred Heart,V,29,26,NA,2
+2017,9,16,Dartmouth,Stetson,V,38,7,NA,2
+2017,10,7,Dartmouth,Yale,H,28,27,NA,2
+2017,11,4,Davidson,Campbell,H,29,42,NA,2
+2017,10,21,Davidson,Dayton,H,22,48,NA,2
+2017,10,28,Davidson,Drake,V,12,17,NA,2
+2017,10,7,Davidson,Jacksonville,V,21,35,NA,2
+2017,9,30,Davidson,Marist,H,9,31,NA,2
+2017,11,18,Davidson,Morehead St.,V,14,21,NA,2
+2017,11,11,Davidson,San Diego,H,7,63,NA,2
+2017,10,14,Davidson,Stetson,V,17,28,NA,2
+2017,9,9,Davidson,Western Caro.,V,17,63,NA,2
+2017,10,28,Dayton,Butler,H,27,22,NA,2
+2017,10,14,Dayton,Campbell,H,7,17,NA,2
+2017,10,21,Dayton,Davidson,V,48,22,NA,2
+2017,10,7,Dayton,Drake,V,20,10,NA,2
+2017,9,16,Dayton,Duquesne,H,23,28,NA,2
+2017,11,4,Dayton,Marist,H,36,17,NA,2
+2017,9,23,Dayton,Morehead St.,V,28,34,NA,2
+2017,9,1,Dayton,Robert Morris,V,10,13,NA,2
+2017,9,30,Dayton,San Diego,H,7,23,NA,2
+2017,9,9,Dayton,Southeast Mo. St.,H,25,23,NA,2
+2017,11,18,Dayton,Valparaiso,V,7,8,NA,2
+2017,11,11,Delaware,Albany (NY),H,22,3,NA,2
+2017,9,16,Delaware,Cornell,H,41,14,NA,2
+2017,9,1,Delaware,Delaware St.,H,22,3,NA,2
+2017,9,30,Delaware,James Madison,H,10,20,NA,2
+2017,11,4,Delaware,Maine,V,31,17,NA,2
+2017,10,21,Delaware,Richmond,H,42,35,2,2
+2017,10,7,Delaware,Stony Brook,V,24,20,NA,2
+2017,10,28,Delaware,Towson,V,17,18,NA,2
+2017,11,18,Delaware,Villanova,V,7,28,NA,2
+2017,9,9,Delaware,Virginia Tech,V,0,27,NA,2
+2017,10,14,Delaware,William & Mary,H,17,0,NA,2
+2017,9,1,Delaware St.,Delaware,V,3,22,NA,2
+2017,11,18,Delaware St.,Florida St.,V,6,77,NA,2
+2017,9,9,Delaware St.,Hampton,V,15,28,NA,2
+2017,10,14,Delaware St.,Howard,H,23,52,NA,2
+2017,11,11,Delaware St.,Morgan St.,H,33,30,NA,2
+2017,10,7,Delaware St.,N.C. A&T,V,3,44,NA,2
+2017,10,28,Delaware St.,N.C. Central,V,14,42,NA,2
+2017,9,23,Delaware St.,Norfolk St.,H,7,17,NA,2
+2017,11,4,Delaware St.,Savannah St.,V,21,35,NA,2
+2017,10,21,Delaware St.,South Carolina St.,H,17,14,NA,2
+2017,9,16,Delaware St.,West Virginia,V,16,59,NA,2
+2017,9,30,Drake,Butler,V,27,16,NA,2
+2017,11,11,Drake,Campbell,V,45,10,NA,2
+2017,10,28,Drake,Davidson,H,17,12,NA,2
+2017,10,7,Drake,Dayton,H,10,20,NA,2
+2017,11,18,Drake,Jacksonville,H,52,7,NA,2
+2017,10,21,Drake,Marist,V,19,14,NA,2
+2017,11,4,Drake,San Diego,V,15,45,NA,2
+2017,9,1,Drake,South Dakota,H,7,77,NA,2
+2017,9,17,Drake,South Dakota St.,V,10,51,NA,2
+2017,9,23,Drake,Valparaiso,H,38,13,NA,2
+2017,9,1,Duke,N.C. Central,H,60,7,NA,2
+2017,11,18,Duquesne,Bryant,V,29,38,NA,2
+2017,11,11,Duquesne,Central Conn. St.,H,27,28,NA,2
+2017,9,16,Duquesne,Dayton,V,28,23,NA,2
+2017,11,4,Duquesne,Liberty,V,24,27,NA,2
+2017,10,14,Duquesne,Robert Morris,V,51,14,NA,2
+2017,10,28,Duquesne,Sacred Heart,V,37,21,NA,2
+2017,10,21,Duquesne,Saint Francis (PA),H,24,7,NA,2
+2017,9,1,Duquesne,South Dakota St.,V,13,51,NA,2
+2017,9,9,Duquesne,Valparaiso,V,45,40,NA,2
+2017,10,7,Duquesne,Wagner,H,38,0,NA,2
+2017,9,1,East Carolina,James Madison,H,14,34,NA,2
+2017,11,18,Eastern Ill.,Austin Peay,V,13,28,NA,2
+2017,11,4,Eastern Ill.,Eastern Ky.,H,23,20,1,2
+2017,9,16,Eastern Ill.,Illinois St.,H,13,44,NA,2
+2017,9,1,Eastern Ill.,Indiana St.,V,22,20,NA,2
+2017,10,21,Eastern Ill.,Jacksonville St.,H,14,30,NA,2
+2017,10,14,Eastern Ill.,Murray St.,V,27,24,2,2
+2017,9,9,Eastern Ill.,Northern Ill.,V,10,38,NA,2
+2017,9,24,Eastern Ill.,Southeast Mo. St.,H,19,16,NA,2
+2017,9,30,Eastern Ill.,Tennessee St.,V,19,16,2,2
+2017,10,8,Eastern Ill.,Tennessee Tech,H,24,23,NA,2
+2017,10,28,Eastern Ill.,UT Martin,V,10,27,NA,2
+2017,11,11,Eastern Ky.,Austin Peay,H,24,31,NA,2
+2017,11,4,Eastern Ky.,Eastern Ill.,V,20,23,1,2
+2017,10,14,Eastern Ky.,Jacksonville St.,V,25,41,NA,2
+2017,9,9,Eastern Ky.,Kentucky,V,16,27,NA,2
+2017,10,28,Eastern Ky.,Murray St.,V,26,13,NA,2
+2017,11,18,Eastern Ky.,Saint Francis (PA),H,14,10,NA,2
+2017,9,30,Eastern Ky.,Southeast Mo. St.,V,10,29,NA,2
+2017,10,7,Eastern Ky.,Tennessee St.,H,21,45,NA,2
+2017,9,23,Eastern Ky.,Tennessee Tech,H,24,21,NA,2
+2017,10,21,Eastern Ky.,UT Martin,H,31,21,NA,2
+2017,9,1,Eastern Ky.,Western Ky.,V,17,31,NA,2
+2017,9,16,Eastern Wash.,Fordham,V,56,21,NA,2
+2017,9,24,Eastern Wash.,Montana,V,48,41,NA,2
+2017,10,14,Eastern Wash.,Montana St.,H,31,19,NA,2
+2017,11,11,Eastern Wash.,North Dakota,V,21,14,NA,2
+2017,9,9,Eastern Wash.,North Dakota St.,H,13,40,NA,2
+2017,11,18,Eastern Wash.,Portland St.,H,59,33,NA,2
+2017,9,30,Eastern Wash.,Sacramento St.,H,52,31,NA,2
+2017,10,22,Eastern Wash.,Southern Utah,V,28,46,NA,2
+2017,9,1,Eastern Wash.,Texas Tech,V,10,56,NA,2
+2017,10,8,Eastern Wash.,UC Davis,V,41,38,NA,2
+2017,11,4,Eastern Wash.,Weber St.,H,20,28,NA,2
+2017,9,30,Elon,Albany (NY),H,6,0,NA,2
+2017,9,16,Elon,Charleston So.,H,19,17,NA,2
+2017,9,9,Elon,Furman,V,34,31,NA,2
+2017,11,25,Elon,Furman,H,27,28,NA,2
+2017,11,18,Elon,James Madison,H,3,31,NA,2
+2017,11,11,Elon,New Hampshire,V,6,16,NA,2
+2017,10,21,Elon,Rhode Island,V,35,34,NA,2
+2017,9,23,Elon,Richmond,V,36,33,NA,2
+2017,9,1,Elon,Toledo,V,13,47,NA,2
+2017,11,4,Elon,Towson,H,33,30,2,2
+2017,10,28,Elon,Villanova,V,19,14,NA,2
+2017,10,7,Elon,William & Mary,H,25,17,NA,2
+2017,11,18,ETSU,Chattanooga,V,3,10,NA,2
+2017,9,30,ETSU,Furman,V,35,56,NA,2
+2017,9,9,ETSU,James Madison,V,10,52,NA,2
+2017,9,23,ETSU,Mercer,H,26,23,1,2
+2017,10,7,ETSU,Robert Morris,H,16,3,NA,2
+2017,11,11,ETSU,Samford,V,7,42,NA,2
+2017,9,16,ETSU,The Citadel,H,25,31,NA,2
+2017,11,4,ETSU,VMI,H,24,6,NA,2
+2017,10,14,ETSU,Western Caro.,V,10,49,NA,2
+2017,10,28,ETSU,Wofford,H,24,31,NA,2
+2017,9,9,FIU,Alcorn,H,17,10,NA,2
+2017,9,16,Fla. Atlantic,Bethune-Cookman,H,45,0,NA,2
+2017,9,1,Florida A&M,Arkansas,V,7,49,NA,2
+2017,11,18,Florida A&M,Bethune-Cookman,V,24,29,NA,2
+2017,10,21,Florida A&M,Hampton,V,27,31,NA,2
+2017,11,4,Florida A&M,Howard,H,26,37,NA,2
+2017,10,28,Florida A&M,Morgan St.,V,34,31,NA,2
+2017,10,14,Florida A&M,N.C. A&T,H,20,31,NA,2
+2017,9,29,Florida A&M,N.C. Central,H,14,21,NA,2
+2017,10,7,Florida A&M,Norfolk St.,V,28,35,NA,2
+2017,9,23,Florida A&M,Savannah St.,V,20,14,NA,2
+2017,9,16,Florida A&M,Tennessee St.,H,13,24,NA,2
+2017,8,26,Florida A&M,Texas Southern,H,29,7,NA,2
+2017,11,18,Florida St.,Delaware St.,H,77,6,NA,2
+2017,9,1,Fordham,Army West Point,V,6,64,NA,2
+2017,9,23,Fordham,Bryant,V,40,45,NA,2
+2017,11,18,Fordham,Bucknell,H,20,9,NA,2
+2017,9,9,Fordham,Central Conn. St.,V,38,31,NA,2
+2017,10,14,Fordham,Colgate,V,12,38,NA,2
+2017,9,16,Fordham,Eastern Wash.,H,21,56,NA,2
+2017,10,21,Fordham,Georgetown,V,17,9,NA,2
+2017,11,4,Fordham,Holy Cross,H,20,42,NA,2
+2017,10,7,Fordham,Lafayette,V,10,14,NA,2
+2017,10,28,Fordham,Lehigh,H,45,35,NA,2
+2017,9,30,Fordham,Southern U.,V,14,31,NA,2
+2017,9,30,Fordham,Yale,H,10,41,NA,2
+2017,9,1,Fresno St.,Incarnate Word,H,66,0,NA,2
+2017,10,7,Furman,Chattanooga,V,41,17,NA,2
+2017,9,23,Furman,Colgate,V,45,14,NA,2
+2017,9,9,Furman,Elon,H,31,34,NA,2
+2017,11,25,Furman,Elon,V,28,27,NA,2
+2017,9,30,Furman,ETSU,H,56,35,NA,2
+2017,10,21,Furman,Mercer,H,28,21,NA,2
+2017,9,16,Furman,North Carolina St.,V,16,49,NA,2
+2017,11,18,Furman,Samford,V,20,26,NA,2
+2017,11,11,Furman,The Citadel,H,56,20,NA,2
+2017,10,14,Furman,VMI,H,42,10,NA,2
+2017,10,28,Furman,Western Caro.,V,28,6,NA,2
+2017,9,1,Furman,Wofford,V,23,24,NA,2
+2017,12,2,Furman,Wofford,V,10,28,NA,2
+2017,9,9,Ga. Southern,New Hampshire,H,12,22,NA,2
+2017,11,4,Gardner-Webb,Charleston So.,H,9,10,NA,2
+2017,10,22,Gardner-Webb,Kennesaw St.,V,3,17,NA,2
+2017,10,28,Gardner-Webb,Liberty,H,17,33,NA,2
+2017,11,11,Gardner-Webb,Monmouth,V,14,41,NA,2
+2017,9,1,Gardner-Webb,N.C. A&T,H,3,45,NA,2
+2017,10,14,Gardner-Webb,N.C. Central,V,17,24,NA,2
+2017,11,18,Gardner-Webb,Presbyterian,V,21,31,NA,2
+2017,9,16,Gardner-Webb,Western Caro.,H,27,42,NA,2
+2017,9,23,Gardner-Webb,Wofford,V,24,27,NA,2
+2017,9,9,Gardner-Webb,Wyoming,V,0,27,NA,2
+2017,11,11,Georgetown,Bucknell,V,0,12,NA,2
+2017,9,9,Georgetown,Campbell,V,16,10,NA,2
+2017,11,18,Georgetown,Colgate,H,10,35,NA,2
+2017,9,23,Georgetown,Columbia,V,14,35,NA,2
+2017,10,21,Georgetown,Fordham,H,9,17,NA,2
+2017,9,30,Georgetown,Harvard,H,2,41,NA,2
+2017,10,28,Georgetown,Holy Cross,V,10,24,NA,2
+2017,11,4,Georgetown,Lafayette,H,0,7,NA,2
+2017,10,14,Georgetown,Lehigh,V,35,54,NA,2
+2017,9,16,Georgetown,Marist,H,12,14,NA,2
+2017,10,7,Georgetown,Princeton,V,30,50,NA,2
+2017,9,17,Georgia,Samford,H,42,14,NA,2
+2017,9,1,Georgia St.,Tennessee St.,H,10,17,NA,2
+2017,9,9,Georgia Tech,Jacksonville St.,H,37,10,NA,2
+2017,11,11,Grambling,Alabama St.,V,24,7,NA,2
+2017,10,21,Grambling,Alcorn,H,41,14,NA,2
+2017,12,2,Grambling,Alcorn,H,40,32,NA,2
+2017,11,4,Grambling,Ark.-Pine Bluff,V,31,26,NA,2
+2017,9,17,Grambling,Jackson St.,H,36,21,NA,2
+2017,9,24,Grambling,Mississippi Val.,V,38,6,NA,2
+2017,11,4,Grambling,N.C. A&T,V,14,21,NA,2
+2017,9,10,Grambling,Northwestern St.,H,23,10,NA,2
+2017,10,7,Grambling,Prairie View,V,34,21,NA,2
+2017,11,25,Grambling,Southern U.,H,30,21,NA,2
+2017,10,28,Grambling,Texas Southern,H,50,24,NA,2
+2017,9,1,Grambling,Tulane,V,14,43,NA,2
+2017,10,28,Hampton,Bethune-Cookman,V,21,24,NA,2
+2017,9,9,Hampton,Delaware St.,H,28,15,NA,2
+2017,10,21,Hampton,Florida A&M,H,31,27,NA,2
+2017,11,18,Hampton,Howard,H,20,17,NA,2
+2017,9,23,Hampton,Monmouth,H,23,30,1,2
+2017,11,4,Hampton,N.C. Central,H,6,14,NA,2
+2017,10,14,Hampton,Norfolk St.,V,16,14,NA,2
+2017,9,1,Hampton,Ohio,V,0,59,NA,2
+2017,10,7,Hampton,Savannah St.,V,17,10,NA,2
+2017,11,11,Hampton,South Carolina St.,V,15,33,NA,2
+2017,9,23,Harvard,Brown,H,45,28,NA,2
+2017,11,4,Harvard,Columbia,V,21,14,NA,2
+2017,10,7,Harvard,Cornell,V,14,17,NA,2
+2017,10,28,Harvard,Dartmouth,H,25,22,NA,2
+2017,9,30,Harvard,Georgetown,V,41,2,NA,2
+2017,10,14,Harvard,Lafayette,H,38,10,NA,2
+2017,11,11,Harvard,Penn,H,6,23,NA,2
+2017,10,21,Harvard,Princeton,H,17,52,NA,2
+2017,9,16,Harvard,Rhode Island,V,10,17,NA,2
+2017,11,18,Harvard,Yale,V,3,24,NA,2
+2017,9,1,Hawaii,Western Caro.,H,41,18,NA,2
+2017,9,9,Holy Cross,Bucknell,V,20,0,NA,2
+2017,10,21,Holy Cross,Colgate,H,7,45,NA,2
+2017,9,24,Holy Cross,Dartmouth,V,26,27,1,2
+2017,11,4,Holy Cross,Fordham,V,42,20,NA,2
+2017,10,28,Holy Cross,Georgetown,H,24,10,NA,2
+2017,9,30,Holy Cross,Lafayette,H,7,10,NA,2
+2017,11,11,Holy Cross,Lehigh,V,21,34,NA,2
+2017,10,7,Holy Cross,Monmouth,H,36,48,NA,2
+2017,9,16,Holy Cross,New Hampshire,H,51,26,NA,2
+2017,10,14,Holy Cross,Yale,V,0,32,NA,2
+2017,9,17,Houston Baptist,Abilene Christian,V,3,24,NA,2
+2017,10,8,Houston Baptist,Central Ark.,H,7,27,NA,2
+2017,11,11,Houston Baptist,Lamar University,H,16,23,NA,2
+2017,9,24,Houston Baptist,McNeese,V,12,27,NA,2
+2017,11,4,Houston Baptist,Nicholls St.,V,17,23,NA,2
+2017,10,29,Houston Baptist,Northwestern St.,H,7,10,NA,2
+2017,11,18,Houston Baptist,Sam Houston St.,V,33,53,NA,2
+2017,10,21,Houston Baptist,SFA,V,10,27,NA,2
+2017,10,15,Houston Baptist,Southeastern La.,H,10,56,NA,2
+2017,9,8,Houston Baptist,Texas Southern,V,24,17,NA,2
+2017,9,1,Houston Baptist,Texas St.,V,11,20,NA,2
+2017,9,23,Howard,Bethune-Cookman,H,26,24,NA,2
+2017,10,14,Howard,Delaware St.,V,52,23,NA,2
+2017,11,4,Howard,Florida A&M,V,37,26,NA,2
+2017,11,18,Howard,Hampton,V,17,20,NA,2
+2017,9,9,Howard,Kent St.,V,31,38,NA,2
+2017,10,21,Howard,Morgan St.,H,39,14,NA,2
+2017,10,7,Howard,N.C. Central,H,7,13,NA,2
+2017,11,11,Howard,Norfolk St.,H,28,24,NA,2
+2017,9,16,Howard,Richmond,V,21,68,NA,2
+2017,10,28,Howard,South Carolina St.,V,28,20,NA,2
+2017,9,1,Howard,UNLV,V,43,40,NA,2
+2017,9,30,Idaho St.,Cal Poly,H,38,34,NA,2
+2017,10,7,Idaho St.,Montana,H,31,39,NA,2
+2017,10,28,Idaho St.,Montana St.,V,14,28,NA,2
+2017,9,17,Idaho St.,Nevada,V,30,28,NA,2
+2017,9,23,Idaho St.,Northern Colo.,V,42,43,NA,2
+2017,10,21,Idaho St.,Portland St.,H,59,30,NA,2
+2017,10,15,Idaho St.,Sacramento St.,V,21,41,NA,2
+2017,11,4,Idaho St.,UC Davis,H,17,56,NA,2
+2017,9,8,Idaho St.,Utah St.,V,13,51,NA,2
+2017,11,18,Idaho St.,Weber St.,V,7,35,NA,2
+2017,9,1,Illinois St.,Butler,H,45,0,NA,2
+2017,9,16,Illinois St.,Eastern Ill.,V,44,13,NA,2
+2017,9,30,Illinois St.,Indiana St.,H,24,13,NA,2
+2017,9,23,Illinois St.,Missouri St.,V,34,9,NA,2
+2017,11,18,Illinois St.,North Dakota St.,H,7,20,NA,2
+2017,10,8,Illinois St.,Northern Ariz.,V,16,37,NA,2
+2017,10,21,Illinois St.,South Dakota,H,37,21,NA,2
+2017,11,11,Illinois St.,South Dakota St.,V,24,27,1,2
+2017,10,14,Illinois St.,Southern Ill.,V,7,42,NA,2
+2017,11,4,Illinois St.,Western Ill.,H,14,31,NA,2
+2017,10,28,Illinois St.,Youngstown St.,V,35,0,NA,2
+2017,9,30,Incarnate Word,Abilene Christian,H,20,45,NA,2
+2017,11,12,Incarnate Word,Central Ark.,H,10,56,NA,2
+2017,9,1,Incarnate Word,Fresno St.,V,0,66,NA,2
+2017,10,15,Incarnate Word,Lamar University,H,33,24,NA,2
+2017,10,22,Incarnate Word,McNeese,V,7,55,NA,2
+2017,10,28,Incarnate Word,Nicholls St.,H,31,38,NA,2
+2017,11,17,Incarnate Word,Prairie View,H,28,42,NA,2
+2017,9,10,Incarnate Word,Sacramento St.,V,22,56,NA,2
+2017,11,4,Incarnate Word,Sam Houston St.,V,20,57,NA,2
+2017,9,17,Incarnate Word,SFA,V,31,37,NA,2
+2017,10,7,Incarnate Word,Southeastern La.,V,30,49,NA,2
+2017,10,7,Indiana,Charleston So.,H,27,0,NA,2
+2017,9,1,Indiana St.,Eastern Ill.,H,20,22,NA,2
+2017,9,30,Indiana St.,Illinois St.,V,13,24,NA,2
+2017,9,16,Indiana St.,Liberty,V,41,42,NA,2
+2017,10,28,Indiana St.,Missouri St.,V,20,59,NA,2
+2017,10,7,Indiana St.,North Dakota St.,H,0,52,NA,2
+2017,10,14,Indiana St.,South Dakota,V,6,56,NA,2
+2017,10,21,Indiana St.,Southern Ill.,H,24,45,NA,2
+2017,9,9,Indiana St.,Tennessee,V,7,42,NA,2
+2017,11,18,Indiana St.,UNI,V,3,41,NA,2
+2017,11,11,Indiana St.,Western Ill.,H,0,45,NA,2
+2017,11,4,Indiana St.,Youngstown St.,H,24,66,NA,2
+2017,9,1,Iowa St.,UNI,H,42,24,NA,2
+2017,11,11,Jackson St.,Alabama A&M,V,10,7,NA,2
+2017,11,4,Jackson St.,Alabama St.,H,3,13,NA,2
+2017,11,18,Jackson St.,Alcorn,H,7,3,NA,2
+2017,9,24,Jackson St.,Ark.-Pine Bluff,H,27,34,1,2
+2017,9,17,Jackson St.,Grambling,V,21,36,NA,2
+2017,10,28,Jackson St.,Mississippi Val.,V,24,5,NA,2
+2017,9,30,Jackson St.,Prairie View,V,9,38,NA,2
+2017,10,22,Jackson St.,Southern U.,H,17,35,NA,2
+2017,9,1,Jackson St.,TCU,V,0,63,NA,2
+2017,9,10,Jackson St.,Tennessee St.,H,15,17,NA,2
+2017,10,14,Jacksonville,Butler,V,22,37,NA,2
+2017,10,28,Jacksonville,Campbell,V,54,48,3,2
+2017,10,7,Jacksonville,Davidson,H,35,21,NA,2
+2017,11,18,Jacksonville,Drake,V,7,52,NA,2
+2017,9,23,Jacksonville,Marist,V,44,37,NA,2
+2017,9,1,Jacksonville,Mercer,V,7,48,NA,2
+2017,10,21,Jacksonville,San Diego,H,10,63,NA,2
+2017,11,11,Jacksonville,Stetson,H,13,10,NA,2
+2017,11,4,Jacksonville,Valparaiso,H,20,17,NA,2
+2017,10,7,Jacksonville St.,Austin Peay,V,34,14,NA,2
+2017,8,26,Jacksonville St.,Chattanooga,H,27,13,NA,2
+2017,10,21,Jacksonville St.,Eastern Ill.,V,30,14,NA,2
+2017,10,14,Jacksonville St.,Eastern Ky.,H,41,25,NA,2
+2017,9,9,Jacksonville St.,Georgia Tech,V,10,37,NA,2
+2017,12,2,Jacksonville St.,Kennesaw St.,H,7,17,NA,2
+2017,9,24,Jacksonville St.,Liberty,H,31,10,NA,2
+2017,11,4,Jacksonville St.,Murray St.,H,59,23,NA,2
+2017,10,28,Jacksonville St.,Southeast Mo. St.,H,23,7,NA,2
+2017,11,17,Jacksonville St.,Tennessee St.,H,36,6,NA,2
+2017,9,30,Jacksonville St.,Tennessee Tech,V,34,7,NA,2
+2017,11,11,Jacksonville St.,UT Martin,V,14,7,NA,2
+2017,9,30,James Madison,Delaware,V,20,10,NA,2
+2017,9,1,James Madison,East Carolina,V,34,14,NA,2
+2017,11,18,James Madison,Elon,V,31,3,NA,2
+2017,9,9,James Madison,ETSU,H,52,10,NA,2
+2017,9,23,James Madison,Maine,H,28,10,NA,2
+2017,10,28,James Madison,New Hampshire,H,21,0,NA,2
+2017,9,16,James Madison,Norfolk St.,H,75,14,NA,2
+2017,11,4,James Madison,North Dakota St.,H,13,17,NA,2
+2017,11,4,James Madison,Rhode Island,V,38,3,NA,2
+2017,11,11,James Madison,Richmond,H,20,13,NA,2
+2017,11,4,James Madison,South Dakota St.,H,51,16,NA,2
+2017,12,2,James Madison,Stony Brook,H,26,7,NA,2
+2017,10,14,James Madison,Villanova,H,30,8,NA,2
+2017,12,9,James Madison,Weber St.,H,31,28,NA,2
+2017,10,21,James Madison,William & Mary,V,46,14,NA,2
+2017,9,1,Kansas,Southeast Mo. St.,H,38,16,NA,2
+2017,9,1,Kansas St.,Central Ark.,H,55,19,NA,2
+2017,9,17,Kennesaw St.,Alabama St.,V,20,14,NA,2
+2017,11,11,Kennesaw St.,Charleston So.,H,38,0,NA,2
+2017,10,22,Kennesaw St.,Gardner-Webb,H,17,3,NA,2
+2017,12,2,Kennesaw St.,Jacksonville St.,V,17,7,NA,2
+2017,10,14,Kennesaw St.,Liberty,V,42,28,NA,2
+2017,11,18,Kennesaw St.,Monmouth,H,52,21,NA,2
+2017,11,4,Kennesaw St.,Montana St.,V,16,14,NA,2
+2017,10,28,Kennesaw St.,Presbyterian,V,28,0,NA,2
+2017,12,10,Kennesaw St.,Sam Houston St.,V,27,34,NA,2
+2017,9,1,Kennesaw St.,Samford,V,23,28,NA,2
+2017,11,25,Kennesaw St.,Samford,H,28,17,NA,2
+2017,9,10,Kennesaw St.,Tennessee Tech,H,27,14,NA,2
+2017,10,8,Kennesaw St.,Texas Southern,H,48,3,NA,2
+2017,9,9,Kent St.,Howard,H,38,31,NA,2
+2017,9,9,Kentucky,Eastern Ky.,H,27,16,NA,2
+2017,10,21,Lafayette,Bucknell,H,7,13,1,2
+2017,11,11,Lafayette,Colgate,H,0,27,NA,2
+2017,10,7,Lafayette,Fordham,H,14,10,NA,2
+2017,11,4,Lafayette,Georgetown,V,7,0,NA,2
+2017,10,14,Lafayette,Harvard,V,10,38,NA,2
+2017,9,30,Lafayette,Holy Cross,V,10,7,NA,2
+2017,11,18,Lafayette,Lehigh,V,31,38,NA,2
+2017,9,1,Lafayette,Monmouth,V,12,31,NA,2
+2017,9,23,Lafayette,Princeton,H,17,38,NA,2
+2017,9,9,Lafayette,Sacred Heart,H,24,38,NA,2
+2017,9,16,Lafayette,Villanova,V,0,59,NA,2
+2017,11,4,Lamar University,Central Ark.,H,14,42,NA,2
+2017,11,11,Lamar University,Houston Baptist,V,23,16,NA,2
+2017,10,15,Lamar University,Incarnate Word,V,24,33,NA,2
+2017,11,19,Lamar University,McNeese,H,3,13,NA,2
+2017,9,30,Lamar University,Nicholls St.,H,14,41,NA,2
+2017,9,1,Lamar University,North Texas,V,14,59,NA,2
+2017,9,17,Lamar University,Northwestern St.,V,28,35,NA,2
+2017,10,21,Lamar University,Sam Houston St.,V,27,63,NA,2
+2017,10,29,Lamar University,SFA,H,7,34,NA,2
+2017,9,24,Lamar University,Southeastern La.,V,21,49,NA,2
+2017,11,4,Lehigh,Bucknell,V,42,21,NA,2
+2017,10,7,Lehigh,Colgate,V,41,38,NA,2
+2017,10,28,Lehigh,Fordham,V,35,45,NA,2
+2017,10,14,Lehigh,Georgetown,H,54,35,NA,2
+2017,11,11,Lehigh,Holy Cross,H,34,21,NA,2
+2017,11,18,Lehigh,Lafayette,H,38,31,NA,2
+2017,9,9,Lehigh,Monmouth,V,27,46,NA,2
+2017,9,23,Lehigh,Penn,H,47,65,NA,2
+2017,11,25,Lehigh,Stony Brook,V,29,59,NA,2
+2017,9,1,Lehigh,Villanova,H,35,38,NA,2
+2017,9,30,Lehigh,Wagner,V,20,37,NA,2
+2017,9,16,Lehigh,Yale,H,28,56,NA,2
+2017,9,1,Liberty,Baylor,V,48,45,NA,2
+2017,11,18,Liberty,Charleston So.,V,19,20,NA,2
+2017,11,4,Liberty,Duquesne,H,27,24,NA,2
+2017,10,28,Liberty,Gardner-Webb,V,33,17,NA,2
+2017,9,16,Liberty,Indiana St.,H,42,41,NA,2
+2017,9,24,Liberty,Jacksonville St.,V,10,31,NA,2
+2017,10,14,Liberty,Kennesaw St.,H,28,42,NA,2
+2017,10,21,Liberty,Monmouth,V,39,56,NA,2
+2017,9,9,Liberty,Morehead St.,H,58,17,NA,2
+2017,11,11,Liberty,Presbyterian,H,47,28,NA,2
+2017,9,30,Liberty,Saint Francis (PA),H,7,13,NA,2
+2017,9,1,Louisiana,Southeastern La.,H,51,48,NA,2
+2017,9,1,Louisiana Tech,Northwestern St.,H,52,24,NA,2
+2017,9,30,Louisville,Murray St.,H,55,10,NA,2
+2017,9,10,LSU,Chattanooga,H,45,10,NA,2
+2017,10,21,Maine,Albany (NY),V,12,10,NA,2
+2017,9,9,Maine,Bryant,H,60,12,NA,2
+2017,11,4,Maine,Delaware,H,17,31,NA,2
+2017,9,23,Maine,James Madison,V,10,28,NA,2
+2017,9,1,Maine,New Hampshire,V,23,24,NA,2
+2017,10,14,Maine,Rhode Island,H,51,27,NA,2
+2017,11,18,Maine,Stony Brook,H,19,20,NA,2
+2017,10,7,Maine,Villanova,V,0,31,NA,2
+2017,10,28,Maine,William & Mary,H,23,6,NA,2
+2017,9,1,Marist,Bucknell,V,6,45,NA,2
+2017,10,7,Marist,Columbia,H,17,41,NA,2
+2017,9,30,Marist,Davidson,V,31,9,NA,2
+2017,11,4,Marist,Dayton,V,17,36,NA,2
+2017,10,21,Marist,Drake,H,14,19,NA,2
+2017,9,16,Marist,Georgetown,V,14,12,NA,2
+2017,9,23,Marist,Jacksonville,H,37,44,NA,2
+2017,11,11,Marist,Morehead St.,H,38,31,NA,2
+2017,11,18,Marist,San Diego,V,7,35,NA,2
+2017,9,9,Marist,Stetson,H,38,17,NA,2
+2017,10,14,Marist,Valparaiso,V,15,49,NA,2
+2017,9,9,Maryland,Towson,H,63,17,NA,2
+2017,10,8,McNeese,Abilene Christian,V,13,7,NA,2
+2017,9,17,McNeese,Alcorn,V,34,27,NA,2
+2017,10,29,McNeese,Central Ark.,V,17,47,NA,2
+2017,9,24,McNeese,Houston Baptist,H,27,12,NA,2
+2017,10,22,McNeese,Incarnate Word,H,55,7,NA,2
+2017,11,19,McNeese,Lamar University,V,13,3,NA,2
+2017,9,1,McNeese,Nicholls St.,V,35,37,NA,2
+2017,11,12,McNeese,Northwestern St.,H,44,24,NA,2
+2017,9,30,McNeese,SFA,V,35,0,NA,2
+2017,11,4,McNeese,Southeastern La.,H,13,3,NA,2
+2017,9,24,Memphis,Southern Ill.,H,44,31,NA,2
+2017,11,18,Mercer,Alabama,V,0,56,NA,2
+2017,9,16,Mercer,Auburn,V,10,24,NA,2
+2017,9,1,Mercer,Bryant,V,41,49,NA,2
+2017,10,14,Mercer,Chattanooga,H,30,10,NA,2
+2017,9,23,Mercer,ETSU,V,23,26,1,2
+2017,10,21,Mercer,Furman,V,21,28,NA,2
+2017,9,1,Mercer,Jacksonville,H,48,7,NA,2
+2017,11,4,Mercer,Samford,H,3,20,NA,2
+2017,10,7,Mercer,The Citadel,V,24,14,NA,2
+2017,9,30,Mercer,VMI,H,49,14,NA,2
+2017,11,11,Mercer,Western Caro.,V,35,33,NA,2
+2017,9,9,Mercer,Wofford,H,27,28,NA,2
+2017,9,1,Miami (FL),Bethune-Cookman,H,41,13,NA,2
+2017,9,9,Miami (OH),Austin Peay,H,31,10,NA,2
+2017,9,1,Mississippi St.,Charleston So.,H,49,0,NA,2
+2017,10,14,Mississippi Val.,Alabama A&M,V,14,49,NA,2
+2017,11,18,Mississippi Val.,Alabama St.,H,10,16,NA,2
+2017,11,11,Mississippi Val.,Alcorn,V,0,59,NA,2
+2017,10,8,Mississippi Val.,Ark.-Pine Bluff,V,38,31,NA,2
+2017,9,30,Mississippi Val.,Charleston So.,V,7,58,NA,2
+2017,9,24,Mississippi Val.,Grambling,H,6,38,NA,2
+2017,10,28,Mississippi Val.,Jackson St.,H,5,24,NA,2
+2017,9,1,Mississippi Val.,North Dakota St.,V,7,72,NA,2
+2017,9,10,Mississippi Val.,Southern Ill.,V,3,55,NA,2
+2017,11,4,Mississippi Val.,Texas Southern,H,21,38,NA,2
+2017,9,1,Missouri,Missouri St.,H,72,43,NA,2
+2017,9,23,Missouri St.,Illinois St.,H,9,34,NA,2
+2017,10,28,Missouri St.,Indiana St.,H,59,20,NA,2
+2017,9,1,Missouri St.,Missouri,V,43,72,NA,2
+2017,9,16,Missouri St.,Murray St.,H,28,21,NA,2
+2017,9,9,Missouri St.,North Dakota,V,0,34,NA,2
+2017,9,30,Missouri St.,North Dakota St.,V,11,38,NA,2
+2017,10,21,Missouri St.,South Dakota St.,H,30,62,NA,2
+2017,11,4,Missouri St.,Southern Ill.,V,36,28,NA,2
+2017,11,11,Missouri St.,UNI,H,10,25,NA,2
+2017,10,14,Missouri St.,Western Ill.,V,30,49,NA,2
+2017,11,18,Missouri St.,Youngstown St.,V,10,38,NA,2
+2017,9,17,Monmouth,Albany (NY),V,14,28,NA,2
+2017,9,30,Monmouth,Bucknell,V,35,13,NA,2
+2017,10,28,Monmouth,Charleston So.,V,23,20,NA,2
+2017,11,11,Monmouth,Gardner-Webb,H,41,14,NA,2
+2017,9,23,Monmouth,Hampton,V,30,23,1,2
+2017,10,7,Monmouth,Holy Cross,V,48,36,NA,2
+2017,11,18,Monmouth,Kennesaw St.,V,21,52,NA,2
+2017,9,1,Monmouth,Lafayette,H,31,12,NA,2
+2017,9,9,Monmouth,Lehigh,H,46,27,NA,2
+2017,10,21,Monmouth,Liberty,H,56,39,NA,2
+2017,11,4,Monmouth,Presbyterian,H,42,21,NA,2
+2017,11,25,Monmouth,UNI,V,7,46,NA,2
+2017,9,24,Montana,Eastern Wash.,H,41,48,NA,2
+2017,10,7,Montana,Idaho St.,V,39,31,NA,2
+2017,11,18,Montana,Montana St.,V,23,31,NA,2
+2017,10,14,Montana,North Dakota,H,41,17,NA,2
+2017,11,4,Montana,Northern Ariz.,H,17,15,NA,2
+2017,11,11,Montana,Northern Colo.,H,44,14,NA,2
+2017,9,30,Montana,Portland St.,V,45,33,NA,2
+2017,9,16,Montana,Savannah St.,H,56,3,NA,2
+2017,9,1,Montana,Valparaiso,H,45,23,NA,2
+2017,9,10,Montana,Washington,V,7,63,NA,2
+2017,10,28,Montana,Weber St.,V,27,41,NA,2
+2017,10,14,Montana St.,Eastern Wash.,V,19,31,NA,2
+2017,10,28,Montana St.,Idaho St.,H,28,14,NA,2
+2017,11,4,Montana St.,Kennesaw St.,H,14,16,NA,2
+2017,11,18,Montana St.,Montana,H,31,23,NA,2
+2017,9,23,Montana St.,North Dakota,V,49,21,NA,2
+2017,11,12,Montana St.,Northern Ariz.,V,36,37,NA,2
+2017,10,21,Montana St.,Northern Colo.,V,27,24,NA,2
+2017,10,7,Montana St.,Portland St.,H,30,22,NA,2
+2017,9,10,Montana St.,South Dakota St.,H,27,31,NA,2
+2017,9,1,Montana St.,Washington St.,V,0,31,NA,2
+2017,9,30,Montana St.,Weber St.,H,17,25,NA,2
+2017,9,17,Morehead St.,Austin Peay,V,13,69,NA,2
+2017,10,7,Morehead St.,Butler,H,6,44,NA,2
+2017,9,30,Morehead St.,Campbell,V,0,38,NA,2
+2017,11,18,Morehead St.,Davidson,H,21,14,NA,2
+2017,9,23,Morehead St.,Dayton,H,34,28,NA,2
+2017,9,9,Morehead St.,Liberty,V,17,58,NA,2
+2017,11,11,Morehead St.,Marist,V,31,38,NA,2
+2017,10,14,Morehead St.,San Diego,V,27,56,NA,2
+2017,10,21,Morehead St.,Stetson,H,29,26,NA,2
+2017,10,28,Morehead St.,Valparaiso,V,32,63,NA,2
+2017,9,9,Morgan St.,Albany (NY),H,0,26,NA,2
+2017,11,4,Morgan St.,Bethune-Cookman,V,28,41,NA,2
+2017,11,11,Morgan St.,Delaware St.,V,30,33,NA,2
+2017,10,28,Morgan St.,Florida A&M,H,31,34,NA,2
+2017,10,21,Morgan St.,Howard,V,14,39,NA,2
+2017,9,24,Morgan St.,N.C. A&T,H,17,49,NA,2
+2017,11,18,Morgan St.,Norfolk St.,H,32,45,NA,2
+2017,9,16,Morgan St.,Rutgers,V,0,65,NA,2
+2017,10,14,Morgan St.,Savannah St.,H,48,28,NA,2
+2017,10,7,Morgan St.,South Carolina St.,V,14,35,NA,2
+2017,9,1,Morgan St.,Towson,V,0,10,NA,2
+2017,9,24,Murray St.,Austin Peay,H,7,27,NA,2
+2017,9,10,Murray St.,Central Ark.,H,13,41,NA,2
+2017,10,14,Murray St.,Eastern Ill.,H,24,27,2,2
+2017,10,28,Murray St.,Eastern Ky.,H,13,26,NA,2
+2017,11,4,Murray St.,Jacksonville St.,V,23,59,NA,2
+2017,9,30,Murray St.,Louisville,V,10,55,NA,2
+2017,9,16,Murray St.,Missouri St.,V,21,28,NA,2
+2017,11,18,Murray St.,Southeast Mo. St.,V,10,21,NA,2
+2017,11,11,Murray St.,Tennessee Tech,H,31,21,NA,2
+2017,10,7,Murray St.,UT Martin,V,13,10,NA,2
+2017,10,21,N.C. A&T,Bethune-Cookman,H,24,20,NA,2
+2017,9,16,N.C. A&T,Charlotte,V,35,31,NA,2
+2017,10,7,N.C. A&T,Delaware St.,H,44,3,NA,2
+2017,10,14,N.C. A&T,Florida A&M,V,31,20,NA,2
+2017,9,1,N.C. A&T,Gardner-Webb,V,45,3,NA,2
+2017,11,4,N.C. A&T,Grambling,H,21,14,NA,2
+2017,9,24,N.C. A&T,Morgan St.,V,49,17,NA,2
+2017,11,18,N.C. A&T,N.C. Central,H,24,10,NA,2
+2017,11,4,N.C. A&T,Norfolk St.,V,35,7,NA,2
+2017,11,11,N.C. A&T,Savannah St.,H,36,17,NA,2
+2017,9,30,N.C. A&T,South Carolina St.,V,21,7,NA,2
+2017,11,11,N.C. Central,Bethune-Cookman,H,10,13,NA,2
+2017,10,28,N.C. Central,Delaware St.,H,42,14,NA,2
+2017,9,1,N.C. Central,Duke,V,7,60,NA,2
+2017,9,29,N.C. Central,Florida A&M,V,21,14,NA,2
+2017,10,14,N.C. Central,Gardner-Webb,H,24,17,NA,2
+2017,11,4,N.C. Central,Hampton,V,14,6,NA,2
+2017,10,7,N.C. Central,Howard,V,13,7,NA,2
+2017,11,18,N.C. Central,N.C. A&T,V,10,24,NA,2
+2017,10,21,N.C. Central,Norfolk St.,H,21,28,NA,2
+2017,9,22,N.C. Central,South Carolina St.,H,33,28,NA,2
+2017,9,17,Nevada,Idaho St.,H,28,30,NA,2
+2017,11,18,New Hampshire,Albany (NY),V,0,15,NA,2
+2017,9,30,New Hampshire,Bryant,H,45,17,NA,2
+2017,12,2,New Hampshire,Central Ark.,V,21,15,NA,2
+2017,11,25,New Hampshire,Central Conn. St.,H,14,0,NA,2
+2017,11,11,New Hampshire,Elon,H,16,6,NA,2
+2017,9,9,New Hampshire,Ga. Southern,V,22,12,NA,2
+2017,9,16,New Hampshire,Holy Cross,V,26,51,NA,2
+2017,10,28,New Hampshire,James Madison,V,0,21,NA,2
+2017,9,1,New Hampshire,Maine,H,24,23,NA,2
+2017,9,23,New Hampshire,Rhode Island,H,28,14,NA,2
+2017,12,9,New Hampshire,South Dakota St.,V,14,56,NA,2
+2017,10,14,New Hampshire,Stony Brook,V,24,38,NA,2
+2017,10,21,New Hampshire,Towson,H,40,17,NA,2
+2017,11,4,New Hampshire,William & Mary,V,35,16,NA,2
+2017,9,1,New Mexico,Abilene Christian,H,38,14,NA,2
+2017,10,14,Nicholls St.,Abilene Christian,H,29,20,NA,2
+2017,11,4,Nicholls St.,Houston Baptist,H,23,17,NA,2
+2017,10,28,Nicholls St.,Incarnate Word,V,38,31,NA,2
+2017,9,30,Nicholls St.,Lamar University,V,41,14,NA,2
+2017,9,1,Nicholls St.,McNeese,H,37,35,NA,2
+2017,10,7,Nicholls St.,Northwestern St.,H,14,10,NA,2
+2017,9,17,Nicholls St.,Prairie View,H,44,13,NA,2
+2017,9,24,Nicholls St.,Sam Houston St.,V,17,66,NA,2
+2017,11,11,Nicholls St.,SFA,V,34,13,NA,2
+2017,11,25,Nicholls St.,South Dakota,H,31,38,NA,2
+2017,11,17,Nicholls St.,Southeastern La.,V,17,21,NA,2
+2017,9,10,Nicholls St.,Texas A&M,V,14,24,NA,2
+2017,9,23,Norfolk St.,Delaware St.,V,17,7,NA,2
+2017,10,7,Norfolk St.,Florida A&M,H,35,28,NA,2
+2017,10,14,Norfolk St.,Hampton,H,14,16,NA,2
+2017,11,11,Norfolk St.,Howard,V,24,28,NA,2
+2017,9,16,Norfolk St.,James Madison,V,14,75,NA,2
+2017,11,18,Norfolk St.,Morgan St.,V,45,32,NA,2
+2017,11,4,Norfolk St.,N.C. A&T,H,7,35,NA,2
+2017,10,21,Norfolk St.,N.C. Central,V,28,21,NA,2
+2017,10,28,Norfolk St.,Savannah St.,H,9,27,NA,2
+2017,9,9,Norfolk St.,William & Mary,H,6,20,NA,2
+2017,11,18,North Carolina,Western Caro.,H,65,10,NA,2
+2017,9,16,North Carolina St.,Furman,H,49,16,NA,2
+2017,11,11,North Dakota,Eastern Wash.,H,14,21,NA,2
+2017,9,9,North Dakota,Missouri St.,H,34,0,NA,2
+2017,10,14,North Dakota,Montana,V,17,41,NA,2
+2017,9,23,North Dakota,Montana St.,H,21,49,NA,2
+2017,10,7,North Dakota,Northern Colo.,H,48,38,NA,2
+2017,10,29,North Dakota,Portland St.,V,48,21,NA,2
+2017,10,21,North Dakota,Sacramento St.,H,27,34,NA,2
+2017,9,16,North Dakota,South Dakota,V,7,45,NA,2
+2017,11,5,North Dakota,Southern Utah,V,21,47,NA,2
+2017,9,30,North Dakota,UC Davis,V,24,48,NA,2
+2017,9,1,North Dakota,Utah,V,16,37,NA,2
+2017,9,9,North Dakota St.,Eastern Wash.,V,40,13,NA,2
+2017,11,18,North Dakota St.,Illinois St.,V,20,7,NA,2
+2017,10,7,North Dakota St.,Indiana St.,V,52,0,NA,2
+2017,11,4,North Dakota St.,James Madison,V,17,13,NA,2
+2017,9,1,North Dakota St.,Mississippi Val.,H,72,7,NA,2
+2017,9,30,North Dakota St.,Missouri St.,H,38,11,NA,2
+2017,9,23,North Dakota St.,Robert Morris,H,56,0,NA,2
+2017,11,4,North Dakota St.,Sam Houston St.,H,55,13,NA,2
+2017,12,2,North Dakota St.,San Diego,H,38,3,NA,2
+2017,11,11,North Dakota St.,South Dakota,H,49,14,NA,2
+2017,11,4,North Dakota St.,South Dakota St.,V,21,33,NA,2
+2017,10,28,North Dakota St.,UNI,H,30,14,NA,2
+2017,10,21,North Dakota St.,Western Ill.,H,24,12,NA,2
+2017,12,9,North Dakota St.,Wofford,H,42,10,NA,2
+2017,10,15,North Dakota St.,Youngstown St.,V,27,24,1,2
+2017,9,1,North Texas,Lamar University,H,59,14,NA,2
+2017,9,1,Northern Ariz.,Arizona,V,24,62,NA,2
+2017,9,24,Northern Ariz.,Cal Poly,V,28,10,NA,2
+2017,10,8,Northern Ariz.,Illinois St.,H,37,16,NA,2
+2017,11,4,Northern Ariz.,Montana,V,15,17,NA,2
+2017,11,12,Northern Ariz.,Montana St.,H,37,36,NA,2
+2017,9,30,Northern Ariz.,Northern Colo.,H,48,20,NA,2
+2017,10,14,Northern Ariz.,Portland St.,V,42,20,NA,2
+2017,10,29,Northern Ariz.,Sacramento St.,H,37,17,NA,2
+2017,11,26,Northern Ariz.,San Diego,H,10,41,NA,2
+2017,11,18,Northern Ariz.,Southern Utah,V,20,48,NA,2
+2017,10,22,Northern Ariz.,UC Davis,H,45,31,NA,2
+2017,9,10,Northern Ariz.,Western Ill.,H,20,38,NA,2
+2017,11,18,Northern Colo.,Cal Poly,H,42,0,NA,2
+2017,9,16,Northern Colo.,Colorado,V,21,41,NA,2
+2017,9,23,Northern Colo.,Idaho St.,H,43,42,NA,2
+2017,11,11,Northern Colo.,Montana,V,14,44,NA,2
+2017,10,21,Northern Colo.,Montana St.,H,24,27,NA,2
+2017,10,7,Northern Colo.,North Dakota,V,38,48,NA,2
+2017,9,30,Northern Colo.,Northern Ariz.,V,20,48,NA,2
+2017,11,5,Northern Colo.,Sacramento St.,V,21,50,NA,2
+2017,10,28,Northern Colo.,Southern Utah,H,14,27,NA,2
+2017,9,9,Northern Ill.,Eastern Ill.,H,38,10,NA,2
+2017,11,4,Northwestern St.,Abilene Christian,H,26,23,1,2
+2017,10,22,Northwestern St.,Central Ark.,H,17,45,NA,2
+2017,9,10,Northwestern St.,Grambling,V,10,23,NA,2
+2017,10,29,Northwestern St.,Houston Baptist,V,10,7,NA,2
+2017,9,17,Northwestern St.,Lamar University,H,35,28,NA,2
+2017,9,1,Northwestern St.,Louisiana Tech,V,24,52,NA,2
+2017,11,12,Northwestern St.,McNeese,V,24,44,NA,2
+2017,10,7,Northwestern St.,Nicholls St.,V,10,14,NA,2
+2017,10,14,Northwestern St.,Sam Houston St.,V,36,40,NA,2
+2017,11,18,Northwestern St.,SFA,H,38,21,NA,2
+2017,9,30,Northwestern St.,Southeastern La.,H,20,49,NA,2
+2017,9,1,Ohio,Hampton,H,59,0,NA,2
+2017,9,1,Old Dominion,Albany (NY),H,31,17,NA,2
+2017,9,9,Ole Miss,UT Martin,H,45,23,NA,2
+2017,9,1,Oregon,Southern Utah,H,77,21,NA,2
+2017,9,1,Oregon St.,Portland St.,H,35,32,NA,2
+2017,10,28,Penn,Brown,V,17,7,NA,2
+2017,10,7,Penn,Central Conn. St.,V,21,42,NA,2
+2017,10,14,Penn,Columbia,V,31,34,1,2
+2017,11,18,Penn,Cornell,H,29,22,NA,2
+2017,9,30,Penn,Dartmouth,H,13,16,NA,2
+2017,11,11,Penn,Harvard,V,23,6,NA,2
+2017,9,23,Penn,Lehigh,V,65,47,NA,2
+2017,11,4,Penn,Princeton,H,38,35,NA,2
+2017,10,21,Penn,Yale,H,19,24,NA,2
+2017,9,1,Pittsburgh,Youngstown St.,H,28,21,1,2
+2017,8,26,Portland St.,BYU,V,6,20,NA,2
+2017,11,5,Portland St.,Cal Poly,V,28,35,NA,2
+2017,11,18,Portland St.,Eastern Wash.,V,33,59,NA,2
+2017,10,21,Portland St.,Idaho St.,V,30,59,NA,2
+2017,9,30,Portland St.,Montana,H,33,45,NA,2
+2017,10,7,Portland St.,Montana St.,V,22,30,NA,2
+2017,10,29,Portland St.,North Dakota,H,21,48,NA,2
+2017,10,14,Portland St.,Northern Ariz.,H,20,42,NA,2
+2017,9,1,Portland St.,Oregon St.,V,32,35,NA,2
+2017,9,16,Portland St.,UC Davis,H,14,37,NA,2
+2017,11,11,Portland St.,Weber St.,H,17,63,NA,2
+2017,9,24,Prairie View,Alabama St.,V,34,0,NA,2
+2017,10,14,Prairie View,Alcorn,V,21,34,NA,2
+2017,11,11,Prairie View,Ark.-Pine Bluff,H,35,12,NA,2
+2017,10,7,Prairie View,Grambling,H,21,34,NA,2
+2017,11,17,Prairie View,Incarnate Word,V,42,28,NA,2
+2017,9,30,Prairie View,Jackson St.,H,38,9,NA,2
+2017,9,17,Prairie View,Nicholls St.,V,13,44,NA,2
+2017,9,8,Prairie View,Sam Houston St.,H,31,44,NA,2
+2017,11,4,Prairie View,Southern U.,V,31,37,NA,2
+2017,11,26,Prairie View,Texas Southern,V,30,16,NA,2
+2017,9,17,Presbyterian,Campbell,H,28,16,NA,2
+2017,10,14,Presbyterian,Charleston So.,H,0,7,NA,2
+2017,11,18,Presbyterian,Gardner-Webb,H,31,21,NA,2
+2017,10,28,Presbyterian,Kennesaw St.,H,0,28,NA,2
+2017,11,11,Presbyterian,Liberty,V,28,47,NA,2
+2017,11,4,Presbyterian,Monmouth,V,21,42,NA,2
+2017,10,7,Presbyterian,Saint Francis (PA),H,26,14,NA,2
+2017,9,9,Presbyterian,The Citadel,H,7,48,NA,2
+2017,8,31,Presbyterian,Wake Forest,V,7,51,NA,2
+2017,9,30,Presbyterian,Wofford,H,7,31,NA,2
+2017,10,14,Princeton,Brown,V,53,0,NA,2
+2017,9,30,Princeton,Columbia,H,24,28,NA,2
+2017,10,29,Princeton,Cornell,H,28,29,NA,2
+2017,11,18,Princeton,Dartmouth,V,44,54,NA,2
+2017,10,7,Princeton,Georgetown,H,50,30,NA,2
+2017,10,21,Princeton,Harvard,V,52,17,NA,2
+2017,9,23,Princeton,Lafayette,V,38,17,NA,2
+2017,11,4,Princeton,Penn,V,35,38,NA,2
+2017,9,16,Princeton,San Diego,H,27,17,NA,2
+2017,11,11,Princeton,Yale,H,31,35,NA,2
+2017,10,28,Rhode Island,Albany (NY),V,31,14,NA,2
+2017,9,30,Rhode Island,Brown,V,21,24,NA,2
+2017,9,1,Rhode Island,Central Mich.,V,27,30,3,2
+2017,10,21,Rhode Island,Elon,H,34,35,NA,2
+2017,9,16,Rhode Island,Harvard,H,17,10,NA,2
+2017,11,4,Rhode Island,James Madison,H,3,38,NA,2
+2017,10,14,Rhode Island,Maine,V,27,51,NA,2
+2017,9,23,Rhode Island,New Hampshire,V,14,28,NA,2
+2017,9,9,Rhode Island,Stony Brook,H,18,35,NA,2
+2017,11,18,Rhode Island,Towson,V,10,29,NA,2
+2017,11,11,Rhode Island,Villanova,H,20,6,NA,2
+2017,10,7,Richmond,Albany (NY),H,41,38,2,2
+2017,9,9,Richmond,Colgate,V,20,17,NA,2
+2017,10,21,Richmond,Delaware,V,35,42,2,2
+2017,9,23,Richmond,Elon,H,33,36,NA,2
+2017,9,16,Richmond,Howard,H,68,21,NA,2
+2017,11,11,Richmond,James Madison,V,13,20,NA,2
+2017,9,1,Richmond,Sam Houston St.,V,34,48,NA,2
+2017,10,28,Richmond,Stony Brook,H,24,27,NA,2
+2017,10,14,Richmond,Towson,V,23,3,NA,2
+2017,11,4,Richmond,Villanova,V,22,0,NA,2
+2017,11,18,Richmond,William & Mary,H,27,20,NA,2
+2017,11,11,Robert Morris,Bryant,H,17,42,NA,2
+2017,11,18,Robert Morris,Central Conn. St.,V,14,42,NA,2
+2017,9,1,Robert Morris,Dayton,H,13,10,NA,2
+2017,10,14,Robert Morris,Duquesne,H,14,51,NA,2
+2017,10,7,Robert Morris,ETSU,V,3,16,NA,2
+2017,9,23,Robert Morris,North Dakota St.,V,0,56,NA,2
+2017,10,21,Robert Morris,Sacred Heart,H,14,21,NA,2
+2017,10,28,Robert Morris,Saint Francis (PA),V,7,36,NA,2
+2017,9,16,Robert Morris,VMI,H,23,0,NA,2
+2017,11,4,Robert Morris,Wagner,V,7,27,NA,2
+2017,9,9,Robert Morris,Youngstown St.,V,0,30,NA,2
+2017,9,16,Rutgers,Morgan St.,H,65,0,NA,2
+2017,11,12,Sacramento St.,Cal Poly,V,49,14,NA,2
+2017,9,30,Sacramento St.,Eastern Wash.,V,31,52,NA,2
+2017,10,15,Sacramento St.,Idaho St.,H,41,21,NA,2
+2017,9,10,Sacramento St.,Incarnate Word,H,56,22,NA,2
+2017,10,21,Sacramento St.,North Dakota,V,34,27,NA,2
+2017,10,29,Sacramento St.,Northern Ariz.,V,17,37,NA,2
+2017,11,5,Sacramento St.,Northern Colo.,H,50,21,NA,2
+2017,9,24,Sacramento St.,Southern Utah,H,54,27,NA,2
+2017,11,18,Sacramento St.,UC Davis,H,52,47,NA,2
+2017,9,17,Sacramento St.,Weber St.,H,24,31,NA,2
+2017,11,4,Sacred Heart,Bryant,V,45,48,NA,2
+2017,9,23,Sacred Heart,Bucknell,V,31,34,NA,2
+2017,9,30,Sacred Heart,Central Conn. St.,H,15,26,NA,2
+2017,10,14,Sacred Heart,Dartmouth,H,26,29,NA,2
+2017,10,28,Sacred Heart,Duquesne,H,21,37,NA,2
+2017,9,9,Sacred Heart,Lafayette,V,38,24,NA,2
+2017,10,21,Sacred Heart,Robert Morris,V,21,14,NA,2
+2017,11,11,Sacred Heart,Saint Francis (PA),V,16,7,NA,2
+2017,9,1,Sacred Heart,Stetson,H,42,3,NA,2
+2017,9,16,Sacred Heart,Stony Brook,V,7,45,NA,2
+2017,11,18,Sacred Heart,Wagner,H,15,28,NA,2
+2017,10,14,Saint Francis (PA),Bryant,V,30,14,NA,2
+2017,11,4,Saint Francis (PA),Central Conn. St.,V,10,28,NA,2
+2017,10,21,Saint Francis (PA),Duquesne,V,7,24,NA,2
+2017,11,18,Saint Francis (PA),Eastern Ky.,V,10,14,NA,2
+2017,9,30,Saint Francis (PA),Liberty,V,13,7,NA,2
+2017,10,7,Saint Francis (PA),Presbyterian,V,14,26,NA,2
+2017,10,28,Saint Francis (PA),Robert Morris,H,36,7,NA,2
+2017,11,11,Saint Francis (PA),Sacred Heart,H,7,16,NA,2
+2017,9,17,Saint Francis (PA),Towson,H,14,16,NA,2
+2017,9,9,Saint Francis (PA),Wagner,H,31,6,NA,2
+2017,11,11,Sam Houston St.,Abilene Christian,V,44,35,NA,2
+2017,9,30,Sam Houston St.,Central Ark.,V,30,41,NA,2
+2017,11,18,Sam Houston St.,Houston Baptist,H,53,33,NA,2
+2017,11,4,Sam Houston St.,Incarnate Word,H,57,20,NA,2
+2017,12,10,Sam Houston St.,Kennesaw St.,H,34,27,NA,2
+2017,10,21,Sam Houston St.,Lamar University,H,63,27,NA,2
+2017,9,24,Sam Houston St.,Nicholls St.,H,66,17,NA,2
+2017,11,4,Sam Houston St.,North Dakota St.,V,13,55,NA,2
+2017,10,14,Sam Houston St.,Northwestern St.,H,40,36,NA,2
+2017,9,8,Sam Houston St.,Prairie View,V,44,31,NA,2
+2017,9,1,Sam Houston St.,Richmond,H,48,34,NA,2
+2017,10,7,Sam Houston St.,SFA,V,27,16,NA,2
+2017,12,2,Sam Houston St.,South Dakota,H,54,42,NA,2
+2017,10,29,Sam Houston St.,Southeastern La.,V,33,23,NA,2
+2017,10,28,Samford,Chattanooga,H,21,23,NA,2
+2017,11,11,Samford,ETSU,H,42,7,NA,2
+2017,11,18,Samford,Furman,H,26,20,NA,2
+2017,9,17,Samford,Georgia,V,14,42,NA,2
+2017,9,1,Samford,Kennesaw St.,H,28,23,NA,2
+2017,11,25,Samford,Kennesaw St.,V,17,28,NA,2
+2017,11,4,Samford,Mercer,V,20,3,NA,2
+2017,9,30,Samford,The Citadel,H,35,14,NA,2
+2017,10,7,Samford,VMI,V,26,7,NA,2
+2017,9,23,Samford,Western Caro.,V,34,38,NA,2
+2017,10,21,Samford,Wofford,V,24,21,NA,2
+2017,9,23,San Diego,Butler,H,38,17,NA,2
+2017,11,11,San Diego,Davidson,V,63,7,NA,2
+2017,9,30,San Diego,Dayton,V,23,7,NA,2
+2017,11,4,San Diego,Drake,H,45,15,NA,2
+2017,10,21,San Diego,Jacksonville,V,63,10,NA,2
+2017,11,18,San Diego,Marist,H,35,7,NA,2
+2017,10,14,San Diego,Morehead St.,H,56,27,NA,2
+2017,12,2,San Diego,North Dakota St.,V,3,38,NA,2
+2017,11,26,San Diego,Northern Ariz.,V,41,10,NA,2
+2017,9,16,San Diego,Princeton,V,17,27,NA,2
+2017,10,28,San Diego,Stetson,V,48,7,NA,2
+2017,9,10,San Diego,UC Davis,V,7,35,NA,2
+2017,9,1,San Jose St.,Cal Poly,H,34,13,NA,2
+2017,9,9,Savannah St.,Appalachian St.,V,7,54,NA,2
+2017,9,30,Savannah St.,Bethune-Cookman,V,12,24,NA,2
+2017,10,21,Savannah St.,Charleston So.,V,27,52,NA,2
+2017,11,4,Savannah St.,Delaware St.,H,35,21,NA,2
+2017,9,23,Savannah St.,Florida A&M,H,14,20,NA,2
+2017,10,7,Savannah St.,Hampton,H,10,17,NA,2
+2017,9,16,Savannah St.,Montana,V,3,56,NA,2
+2017,10,14,Savannah St.,Morgan St.,V,28,48,NA,2
+2017,11,11,Savannah St.,N.C. A&T,V,17,36,NA,2
+2017,10,28,Savannah St.,Norfolk St.,V,27,9,NA,2
+2017,11,18,Savannah St.,South Carolina St.,H,34,10,NA,2
+2017,9,24,SFA,Abilene Christian,V,20,10,NA,2
+2017,10,15,SFA,Central Ark.,V,20,24,NA,2
+2017,10,21,SFA,Houston Baptist,H,27,10,NA,2
+2017,9,17,SFA,Incarnate Word,H,37,31,NA,2
+2017,10,29,SFA,Lamar University,V,34,7,NA,2
+2017,9,30,SFA,McNeese,H,0,35,NA,2
+2017,11,11,SFA,Nicholls St.,H,13,34,NA,2
+2017,11,18,SFA,Northwestern St.,V,21,38,NA,2
+2017,10,7,SFA,Sam Houston St.,H,16,27,NA,2
+2017,9,1,SFA,SMU,V,14,58,NA,2
+2017,9,10,SFA,Southern Utah,H,14,51,NA,2
+2017,9,1,SMU,SFA,H,58,14,NA,2
+2017,9,17,South Ala.,Alabama A&M,H,45,0,NA,2
+2017,10,14,South Carolina St.,Bethune-Cookman,V,9,12,NA,2
+2017,10,21,South Carolina St.,Delaware St.,V,14,17,NA,2
+2017,11,11,South Carolina St.,Hampton,H,33,15,NA,2
+2017,10,28,South Carolina St.,Howard,H,20,28,NA,2
+2017,10,7,South Carolina St.,Morgan St.,H,35,14,NA,2
+2017,9,30,South Carolina St.,N.C. A&T,H,7,21,NA,2
+2017,9,22,South Carolina St.,N.C. Central,V,28,33,NA,2
+2017,11,18,South Carolina St.,Savannah St.,V,10,34,NA,2
+2017,9,1,South Carolina St.,Southern U.,V,8,14,NA,2
+2017,9,9,South Dakota,Bowling Green,V,35,27,NA,2
+2017,9,1,South Dakota,Drake,V,77,7,NA,2
+2017,10,21,South Dakota,Illinois St.,V,21,37,NA,2
+2017,10,14,South Dakota,Indiana St.,H,56,6,NA,2
+2017,11,25,South Dakota,Nicholls St.,V,38,31,NA,2
+2017,9,16,South Dakota,North Dakota,H,45,7,NA,2
+2017,11,11,South Dakota,North Dakota St.,V,14,49,NA,2
+2017,12,2,South Dakota,Sam Houston St.,V,42,54,NA,2
+2017,11,18,South Dakota,South Dakota St.,H,28,31,NA,2
+2017,10,28,South Dakota,Southern Ill.,H,42,0,NA,2
+2017,11,4,South Dakota,UNI,V,29,34,NA,2
+2017,9,30,South Dakota,Western Ill.,V,38,33,NA,2
+2017,10,7,South Dakota,Youngstown St.,H,31,28,NA,2
+2017,9,17,South Dakota St.,Drake,H,51,10,NA,2
+2017,9,1,South Dakota St.,Duquesne,H,51,13,NA,2
+2017,11,11,South Dakota St.,Illinois St.,H,27,24,1,2
+2017,11,4,South Dakota St.,James Madison,V,16,51,NA,2
+2017,10,21,South Dakota St.,Missouri St.,V,62,30,NA,2
+2017,9,10,South Dakota St.,Montana St.,V,31,27,NA,2
+2017,12,9,South Dakota St.,New Hampshire,H,56,14,NA,2
+2017,11,4,South Dakota St.,North Dakota St.,H,33,21,NA,2
+2017,11,18,South Dakota St.,South Dakota,V,31,28,NA,2
+2017,10,8,South Dakota St.,Southern Ill.,H,49,14,NA,2
+2017,9,1,South Dakota St.,UC Davis,H,38,17,NA,2
+2017,10,14,South Dakota St.,UNI,H,18,38,NA,2
+2017,12,2,South Dakota St.,UNI,H,37,22,NA,2
+2017,10,28,South Dakota St.,Western Ill.,V,52,24,NA,2
+2017,9,30,South Dakota St.,Youngstown St.,V,7,19,NA,2
+2017,9,1,South Fla.,Stony Brook,H,31,17,NA,2
+2017,10,21,Southeast Mo. St.,Austin Peay,V,31,38,NA,2
+2017,9,9,Southeast Mo. St.,Dayton,V,23,25,NA,2
+2017,9,24,Southeast Mo. St.,Eastern Ill.,V,16,19,NA,2
+2017,9,30,Southeast Mo. St.,Eastern Ky.,H,29,10,NA,2
+2017,10,28,Southeast Mo. St.,Jacksonville St.,V,7,23,NA,2
+2017,9,1,Southeast Mo. St.,Kansas,V,16,38,NA,2
+2017,11,18,Southeast Mo. St.,Murray St.,H,21,10,NA,2
+2017,9,17,Southeast Mo. St.,Southern Ill.,H,17,35,NA,2
+2017,11,11,Southeast Mo. St.,Tennessee St.,V,20,23,NA,2
+2017,10,14,Southeast Mo. St.,Tennessee Tech,H,31,3,NA,2
+2017,11,4,Southeast Mo. St.,UT Martin,H,14,16,NA,2
+2017,10,21,Southeastern La.,Abilene Christian,V,56,21,NA,2
+2017,9,10,Southeastern La.,Bethune-Cookman,H,23,28,NA,2
+2017,9,17,Southeastern La.,Central Ark.,V,6,38,NA,2
+2017,10,15,Southeastern La.,Houston Baptist,V,56,10,NA,2
+2017,10,7,Southeastern La.,Incarnate Word,H,49,30,NA,2
+2017,9,24,Southeastern La.,Lamar University,H,49,21,NA,2
+2017,9,1,Southeastern La.,Louisiana,V,48,51,NA,2
+2017,11,4,Southeastern La.,McNeese,V,3,13,NA,2
+2017,11,17,Southeastern La.,Nicholls St.,H,21,17,NA,2
+2017,9,30,Southeastern La.,Northwestern St.,V,49,20,NA,2
+2017,10,29,Southeastern La.,Sam Houston St.,H,23,33,NA,2
+2017,10,14,Southern Ill.,Illinois St.,H,42,7,NA,2
+2017,10,21,Southern Ill.,Indiana St.,V,45,24,NA,2
+2017,9,24,Southern Ill.,Memphis,V,31,44,NA,2
+2017,9,10,Southern Ill.,Mississippi Val.,H,55,3,NA,2
+2017,11,4,Southern Ill.,Missouri St.,H,28,36,NA,2
+2017,10,28,Southern Ill.,South Dakota,V,0,42,NA,2
+2017,10,8,Southern Ill.,South Dakota St.,V,14,49,NA,2
+2017,9,17,Southern Ill.,Southeast Mo. St.,V,35,17,NA,2
+2017,9,30,Southern Ill.,UNI,H,17,24,NA,2
+2017,11,18,Southern Ill.,Western Ill.,V,14,28,NA,2
+2017,11,11,Southern Ill.,Youngstown St.,H,20,28,NA,2
+2017,9,10,Southern Miss.,Southern U.,H,45,0,NA,2
+2017,10,7,Southern U.,Alabama A&M,H,35,14,NA,2
+2017,9,24,Southern U.,Alcorn,V,31,48,NA,2
+2017,10,28,Southern U.,Ark.-Pine Bluff,V,47,40,NA,2
+2017,9,30,Southern U.,Fordham,H,31,14,NA,2
+2017,11,25,Southern U.,Grambling,V,21,30,NA,2
+2017,10,22,Southern U.,Jackson St.,V,35,17,NA,2
+2017,11,4,Southern U.,Prairie View,H,37,31,NA,2
+2017,9,1,Southern U.,South Carolina St.,H,14,8,NA,2
+2017,9,10,Southern U.,Southern Miss.,V,0,45,NA,2
+2017,11,11,Southern U.,Texas Southern,V,33,7,NA,2
+2017,9,17,Southern U.,UTSA,V,17,51,NA,2
+2017,10,8,Southern Utah,Cal Poly,H,20,14,NA,2
+2017,10,22,Southern Utah,Eastern Wash.,H,46,28,NA,2
+2017,11,5,Southern Utah,North Dakota,H,47,21,NA,2
+2017,11,18,Southern Utah,Northern Ariz.,H,48,20,NA,2
+2017,10,28,Southern Utah,Northern Colo.,V,27,14,NA,2
+2017,9,1,Southern Utah,Oregon,V,21,77,NA,2
+2017,9,24,Southern Utah,Sacramento St.,V,27,54,NA,2
+2017,9,10,Southern Utah,SFA,V,51,14,NA,2
+2017,11,12,Southern Utah,UC Davis,V,47,27,NA,2
+2017,9,17,Southern Utah,UNI,H,24,21,NA,2
+2017,10,15,Southern Utah,Weber St.,V,32,16,NA,2
+2017,12,3,Southern Utah,Weber St.,H,13,30,NA,2
+2017,10,7,Stetson,Brown,H,17,13,NA,2
+2017,11,4,Stetson,Butler,H,6,23,NA,2
+2017,9,23,Stetson,Campbell,H,21,49,NA,2
+2017,9,16,Stetson,Dartmouth,H,7,38,NA,2
+2017,10,14,Stetson,Davidson,H,28,17,NA,2
+2017,11,11,Stetson,Jacksonville,V,10,13,NA,2
+2017,9,9,Stetson,Marist,V,17,38,NA,2
+2017,10,21,Stetson,Morehead St.,V,26,29,NA,2
+2017,9,1,Stetson,Sacred Heart,V,3,42,NA,2
+2017,10,28,Stetson,San Diego,H,7,48,NA,2
+2017,9,30,Stetson,Valparaiso,V,24,27,NA,2
+2017,11,4,Stony Brook,Albany (NY),H,28,21,1,2
+2017,10,7,Stony Brook,Delaware,H,20,24,NA,2
+2017,12,2,Stony Brook,James Madison,V,7,26,NA,2
+2017,11,25,Stony Brook,Lehigh,H,59,29,NA,2
+2017,11,18,Stony Brook,Maine,V,20,19,NA,2
+2017,10,14,Stony Brook,New Hampshire,H,38,24,NA,2
+2017,9,9,Stony Brook,Rhode Island,V,35,18,NA,2
+2017,10,28,Stony Brook,Richmond,V,27,24,NA,2
+2017,9,16,Stony Brook,Sacred Heart,H,45,7,NA,2
+2017,9,1,Stony Brook,South Fla.,V,17,31,NA,2
+2017,9,23,Stony Brook,Towson,H,25,17,NA,2
+2017,11,11,Stony Brook,Wagner,H,38,10,NA,2
+2017,9,30,Stony Brook,William & Mary,V,21,18,NA,2
+2017,9,1,Syracuse,Central Conn. St.,H,50,7,NA,2
+2017,9,1,TCU,Jackson St.,H,63,0,NA,2
+2017,9,9,Temple,Villanova,H,16,13,NA,2
+2017,9,9,Tennessee,Indiana St.,H,42,7,NA,2
+2017,10,15,Tennessee St.,Austin Peay,H,17,21,NA,2
+2017,9,30,Tennessee St.,Eastern Ill.,H,16,19,2,2
+2017,10,7,Tennessee St.,Eastern Ky.,V,45,21,NA,2
+2017,9,16,Tennessee St.,Florida A&M,V,24,13,NA,2
+2017,9,1,Tennessee St.,Georgia St.,V,17,10,NA,2
+2017,9,10,Tennessee St.,Jackson St.,V,17,15,NA,2
+2017,11,17,Tennessee St.,Jacksonville St.,V,6,36,NA,2
+2017,11,11,Tennessee St.,Southeast Mo. St.,H,23,20,NA,2
+2017,10,28,Tennessee St.,Tennessee Tech,V,26,30,NA,2
+2017,9,23,Tennessee St.,UT Martin,V,16,31,NA,2
+2017,11,4,Tennessee Tech,Austin Peay,H,28,35,NA,2
+2017,9,16,Tennessee Tech,Ball St.,V,13,28,NA,2
+2017,10,8,Tennessee Tech,Eastern Ill.,V,23,24,NA,2
+2017,9,23,Tennessee Tech,Eastern Ky.,V,21,24,NA,2
+2017,9,30,Tennessee Tech,Jacksonville St.,H,7,34,NA,2
+2017,9,10,Tennessee Tech,Kennesaw St.,V,14,27,NA,2
+2017,11,11,Tennessee Tech,Murray St.,V,21,31,NA,2
+2017,10,14,Tennessee Tech,Southeast Mo. St.,V,3,31,NA,2
+2017,10,28,Tennessee Tech,Tennessee St.,H,30,26,NA,2
+2017,11,18,Tennessee Tech,UT Martin,H,0,24,NA,2
+2017,9,1,Tennessee Tech,Western Ill.,H,14,41,NA,2
+2017,9,10,Texas A&M,Nicholls St.,H,24,14,NA,2
+2017,9,24,Texas Southern,Alabama A&M,V,13,30,NA,2
+2017,10,14,Texas Southern,Alabama St.,H,16,23,NA,2
+2017,9,30,Texas Southern,Alcorn,H,17,24,NA,2
+2017,11,18,Texas Southern,Ark.-Pine Bluff,V,24,10,NA,2
+2017,8,26,Texas Southern,Florida A&M,V,7,29,NA,2
+2017,10,28,Texas Southern,Grambling,V,24,50,NA,2
+2017,9,8,Texas Southern,Houston Baptist,H,17,24,NA,2
+2017,10,8,Texas Southern,Kennesaw St.,V,3,48,NA,2
+2017,11,4,Texas Southern,Mississippi Val.,V,38,21,NA,2
+2017,11,26,Texas Southern,Prairie View,H,16,30,NA,2
+2017,11,11,Texas Southern,Southern U.,H,7,33,NA,2
+2017,9,1,Texas St.,Houston Baptist,H,20,11,NA,2
+2017,9,1,Texas Tech,Eastern Wash.,H,56,10,NA,2
+2017,10,21,The Citadel,Chattanooga,V,20,14,NA,2
+2017,11,18,The Citadel,Clemson,V,3,61,NA,2
+2017,9,16,The Citadel,ETSU,V,31,25,NA,2
+2017,11,11,The Citadel,Furman,V,20,56,NA,2
+2017,10,7,The Citadel,Mercer,H,14,24,NA,2
+2017,9,9,The Citadel,Presbyterian,V,48,7,NA,2
+2017,9,30,The Citadel,Samford,V,14,35,NA,2
+2017,10,28,The Citadel,VMI,H,21,3,NA,2
+2017,11,4,The Citadel,Western Caro.,H,19,31,NA,2
+2017,10,14,The Citadel,Wofford,H,16,20,NA,2
+2017,9,1,Toledo,Elon,H,47,13,NA,2
+2017,10,28,Towson,Delaware,H,18,17,NA,2
+2017,11,4,Towson,Elon,V,30,33,2,2
+2017,9,9,Towson,Maryland,V,17,63,NA,2
+2017,9,1,Towson,Morgan St.,H,10,0,NA,2
+2017,10,21,Towson,New Hampshire,V,17,40,NA,2
+2017,11,18,Towson,Rhode Island,H,29,10,NA,2
+2017,10,14,Towson,Richmond,H,3,23,NA,2
+2017,9,17,Towson,Saint Francis (PA),V,16,14,NA,2
+2017,9,23,Towson,Stony Brook,V,17,25,NA,2
+2017,9,30,Towson,Villanova,H,9,24,NA,2
+2017,11,11,Towson,William & Mary,V,26,14,NA,2
+2017,9,9,Troy,Alabama St.,H,34,7,NA,2
+2017,9,1,Tulane,Grambling,H,43,14,NA,2
+2017,10,29,UC Davis,Cal Poly,H,31,28,NA,2
+2017,10,8,UC Davis,Eastern Wash.,H,38,41,NA,2
+2017,11,4,UC Davis,Idaho St.,V,56,17,NA,2
+2017,9,30,UC Davis,North Dakota,H,48,24,NA,2
+2017,10,22,UC Davis,Northern Ariz.,V,31,45,NA,2
+2017,9,16,UC Davis,Portland St.,V,37,14,NA,2
+2017,11,18,UC Davis,Sacramento St.,V,47,52,NA,2
+2017,9,10,UC Davis,San Diego,H,35,7,NA,2
+2017,9,1,UC Davis,South Dakota St.,V,17,38,NA,2
+2017,11,12,UC Davis,Southern Utah,H,27,47,NA,2
+2017,9,24,UC Davis,Weber St.,V,3,41,NA,2
+2017,10,28,UCF,Austin Peay,H,73,33,NA,2
+2017,9,9,UNI,Cal Poly,H,45,38,1,2
+2017,11,18,UNI,Indiana St.,H,41,3,NA,2
+2017,9,1,UNI,Iowa St.,V,24,42,NA,2
+2017,11,11,UNI,Missouri St.,V,25,10,NA,2
+2017,11,25,UNI,Monmouth,H,46,7,NA,2
+2017,10,28,UNI,North Dakota St.,V,14,30,NA,2
+2017,11,4,UNI,South Dakota,H,34,29,NA,2
+2017,10,14,UNI,South Dakota St.,V,38,18,NA,2
+2017,12,2,UNI,South Dakota St.,V,22,37,NA,2
+2017,9,30,UNI,Southern Ill.,V,24,17,NA,2
+2017,9,17,UNI,Southern Utah,V,21,24,NA,2
+2017,10,7,UNI,Western Ill.,H,29,38,NA,2
+2017,10,21,UNI,Youngstown St.,H,19,14,NA,2
+2017,9,1,UNLV,Howard,H,40,43,NA,2
+2017,9,30,UT Martin,Austin Peay,V,0,7,NA,2
+2017,9,16,UT Martin,Chattanooga,V,21,7,NA,2
+2017,10,28,UT Martin,Eastern Ill.,H,27,10,NA,2
+2017,10,21,UT Martin,Eastern Ky.,V,21,31,NA,2
+2017,11,11,UT Martin,Jacksonville St.,H,7,14,NA,2
+2017,10,7,UT Martin,Murray St.,H,10,13,NA,2
+2017,9,9,UT Martin,Ole Miss,V,23,45,NA,2
+2017,11,4,UT Martin,Southeast Mo. St.,V,16,14,NA,2
+2017,9,23,UT Martin,Tennessee St.,H,31,16,NA,2
+2017,11,18,UT Martin,Tennessee Tech,V,24,0,NA,2
+2017,9,1,Utah,North Dakota,H,37,16,NA,2
+2017,9,8,Utah St.,Idaho St.,H,51,13,NA,2
+2017,9,17,UTSA,Southern U.,H,51,17,NA,2
+2017,11,11,Valparaiso,Butler,V,36,28,NA,2
+2017,10,7,Valparaiso,Campbell,V,10,49,NA,2
+2017,11,18,Valparaiso,Dayton,H,8,7,NA,2
+2017,9,23,Valparaiso,Drake,V,13,38,NA,2
+2017,9,9,Valparaiso,Duquesne,H,40,45,NA,2
+2017,11,4,Valparaiso,Jacksonville,V,17,20,NA,2
+2017,10,14,Valparaiso,Marist,H,49,15,NA,2
+2017,9,1,Valparaiso,Montana,V,23,45,NA,2
+2017,10,28,Valparaiso,Morehead St.,H,63,32,NA,2
+2017,9,30,Valparaiso,Stetson,H,27,24,NA,2
+2017,9,9,Vanderbilt,Alabama A&M,H,42,0,NA,2
+2017,9,24,Villanova,Albany (NY),V,10,19,1,2
+2017,11,18,Villanova,Delaware,H,28,7,NA,2
+2017,10,28,Villanova,Elon,H,14,19,NA,2
+2017,10,14,Villanova,James Madison,V,8,30,NA,2
+2017,9,16,Villanova,Lafayette,H,59,0,NA,2
+2017,9,1,Villanova,Lehigh,V,38,35,NA,2
+2017,10,7,Villanova,Maine,H,31,0,NA,2
+2017,11,11,Villanova,Rhode Island,V,6,20,NA,2
+2017,11,4,Villanova,Richmond,H,0,22,NA,2
+2017,9,9,Villanova,Temple,V,13,16,NA,2
+2017,9,30,Villanova,Towson,V,24,9,NA,2
+2017,9,1,Virginia,William & Mary,H,28,10,NA,2
+2017,9,9,Virginia Tech,Delaware,H,27,0,NA,2
+2017,9,1,VMI,Air Force,V,0,62,NA,2
+2017,9,23,VMI,Chattanooga,H,7,63,NA,2
+2017,11,4,VMI,ETSU,V,6,24,NA,2
+2017,10,14,VMI,Furman,V,10,42,NA,2
+2017,9,30,VMI,Mercer,V,14,49,NA,2
+2017,9,16,VMI,Robert Morris,V,0,23,NA,2
+2017,10,7,VMI,Samford,H,7,26,NA,2
+2017,10,28,VMI,The Citadel,V,3,21,NA,2
+2017,10,21,VMI,Western Caro.,H,7,26,NA,2
+2017,11,11,VMI,Wofford,H,14,45,NA,2
+2017,10,28,Wagner,Bryant,H,16,31,NA,2
+2017,10,14,Wagner,Central Conn. St.,H,45,51,4,2
+2017,9,16,Wagner,Columbia,V,14,17,NA,2
+2017,10,7,Wagner,Duquesne,V,0,38,NA,2
+2017,9,30,Wagner,Lehigh,H,37,20,NA,2
+2017,11,4,Wagner,Robert Morris,H,27,7,NA,2
+2017,11,18,Wagner,Sacred Heart,V,28,15,NA,2
+2017,9,9,Wagner,Saint Francis (PA),V,6,31,NA,2
+2017,11,11,Wagner,Stony Brook,V,10,38,NA,2
+2017,9,24,Wagner,Western Mich.,V,14,49,NA,2
+2017,8,31,Wake Forest,Presbyterian,H,51,7,NA,2
+2017,9,10,Washington,Montana,H,63,7,NA,2
+2017,9,1,Washington St.,Montana St.,H,31,0,NA,2
+2017,10,22,Weber St.,Cal Poly,V,17,3,NA,2
+2017,9,9,Weber St.,California,V,20,33,NA,2
+2017,11,4,Weber St.,Eastern Wash.,V,28,20,NA,2
+2017,11,18,Weber St.,Idaho St.,H,35,7,NA,2
+2017,12,9,Weber St.,James Madison,V,28,31,NA,2
+2017,10,28,Weber St.,Montana,H,41,27,NA,2
+2017,9,30,Weber St.,Montana St.,V,25,17,NA,2
+2017,11,11,Weber St.,Portland St.,V,63,17,NA,2
+2017,9,17,Weber St.,Sacramento St.,V,31,24,NA,2
+2017,10,15,Weber St.,Southern Utah,H,16,32,NA,2
+2017,12,3,Weber St.,Southern Utah,V,30,13,NA,2
+2017,9,24,Weber St.,UC Davis,H,41,3,NA,2
+2017,11,25,Weber St.,Western Ill.,H,21,19,NA,2
+2017,9,16,West Virginia,Delaware St.,H,59,16,NA,2
+2017,9,30,Western Caro.,Chattanooga,V,45,7,NA,2
+2017,9,9,Western Caro.,Davidson,H,63,17,NA,2
+2017,10,14,Western Caro.,ETSU,H,49,10,NA,2
+2017,10,28,Western Caro.,Furman,H,6,28,NA,2
+2017,9,16,Western Caro.,Gardner-Webb,V,42,27,NA,2
+2017,9,1,Western Caro.,Hawaii,V,18,41,NA,2
+2017,11,11,Western Caro.,Mercer,H,33,35,NA,2
+2017,11,18,Western Caro.,North Carolina,V,10,65,NA,2
+2017,9,23,Western Caro.,Samford,H,38,34,NA,2
+2017,11,4,Western Caro.,The Citadel,V,31,19,NA,2
+2017,10,21,Western Caro.,VMI,V,26,7,NA,2
+2017,10,7,Western Caro.,Wofford,V,28,35,1,2
+2017,9,23,Western Ill.,Coastal Carolina,V,52,10,NA,2
+2017,11,4,Western Ill.,Illinois St.,V,31,14,NA,2
+2017,11,11,Western Ill.,Indiana St.,V,45,0,NA,2
+2017,10,14,Western Ill.,Missouri St.,H,49,30,NA,2
+2017,10,21,Western Ill.,North Dakota St.,V,12,24,NA,2
+2017,9,10,Western Ill.,Northern Ariz.,V,38,20,NA,2
+2017,9,30,Western Ill.,South Dakota,H,33,38,NA,2
+2017,10,28,Western Ill.,South Dakota St.,H,24,52,NA,2
+2017,11,18,Western Ill.,Southern Ill.,H,28,14,NA,2
+2017,9,1,Western Ill.,Tennessee Tech,V,41,14,NA,2
+2017,10,7,Western Ill.,UNI,V,38,29,NA,2
+2017,11,25,Western Ill.,Weber St.,V,19,21,NA,2
+2017,9,1,Western Ky.,Eastern Ky.,H,31,17,NA,2
+2017,9,24,Western Mich.,Wagner,H,49,14,NA,2
+2017,9,16,William & Mary,Bucknell,H,30,9,NA,2
+2017,10,14,William & Mary,Delaware,V,0,17,NA,2
+2017,10,7,William & Mary,Elon,V,17,25,NA,2
+2017,10,21,William & Mary,James Madison,H,14,46,NA,2
+2017,10,28,William & Mary,Maine,V,6,23,NA,2
+2017,11,4,William & Mary,New Hampshire,H,16,35,NA,2
+2017,9,9,William & Mary,Norfolk St.,V,20,6,NA,2
+2017,11,18,William & Mary,Richmond,V,20,27,NA,2
+2017,9,30,William & Mary,Stony Brook,H,18,21,NA,2
+2017,11,11,William & Mary,Towson,H,14,26,NA,2
+2017,9,1,William & Mary,Virginia,V,10,28,NA,2
+2017,11,4,Wofford,Chattanooga,H,24,21,2,2
+2017,10,28,Wofford,ETSU,V,31,24,NA,2
+2017,9,1,Wofford,Furman,H,24,23,NA,2
+2017,12,2,Wofford,Furman,H,28,10,NA,2
+2017,9,23,Wofford,Gardner-Webb,H,27,24,NA,2
+2017,9,9,Wofford,Mercer,V,28,27,NA,2
+2017,12,9,Wofford,North Dakota St.,V,10,42,NA,2
+2017,9,30,Wofford,Presbyterian,V,31,7,NA,2
+2017,10,21,Wofford,Samford,H,21,24,NA,2
+2017,10,14,Wofford,The Citadel,V,20,16,NA,2
+2017,11,11,Wofford,VMI,V,45,14,NA,2
+2017,10,7,Wofford,Western Caro.,H,35,28,1,2
+2017,9,9,Wyoming,Gardner-Webb,H,27,0,NA,2
+2017,11,4,Yale,Brown,H,34,7,NA,2
+2017,10,28,Yale,Columbia,H,23,6,NA,2
+2017,9,23,Yale,Cornell,H,49,24,NA,2
+2017,10,7,Yale,Dartmouth,V,27,28,NA,2
+2017,9,30,Yale,Fordham,V,41,10,NA,2
+2017,11,18,Yale,Harvard,H,24,3,NA,2
+2017,10,14,Yale,Holy Cross,H,32,0,NA,2
+2017,9,16,Yale,Lehigh,V,56,28,NA,2
+2017,10,21,Yale,Penn,V,24,19,NA,2
+2017,11,11,Yale,Princeton,V,35,31,NA,2
+2017,9,16,Youngstown St.,Central Conn. St.,H,59,9,NA,2
+2017,10,28,Youngstown St.,Illinois St.,H,0,35,NA,2
+2017,11,4,Youngstown St.,Indiana St.,V,66,24,NA,2
+2017,11,18,Youngstown St.,Missouri St.,H,38,10,NA,2
+2017,10,15,Youngstown St.,North Dakota St.,H,24,27,1,2
+2017,9,1,Youngstown St.,Pittsburgh,V,21,28,1,2
+2017,9,9,Youngstown St.,Robert Morris,H,30,0,NA,2
+2017,10,7,Youngstown St.,South Dakota,V,28,31,NA,2
+2017,9,30,Youngstown St.,South Dakota St.,H,19,7,NA,2
+2017,11,11,Youngstown St.,Southern Ill.,V,28,20,NA,2
+2017,10,21,Youngstown St.,UNI,V,14,19,NA,2

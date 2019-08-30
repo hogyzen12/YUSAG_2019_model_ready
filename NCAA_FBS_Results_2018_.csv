@@ -1,0 +1,1617 @@
+year,month,day,team,opponent,location,teamscore,oppscore,OT,D1
+2018,8,31,Abilene Christian,Baylor,V,27,55,NA,2
+2018,11,3,Air Force,Army West Point,V,14,17,NA,2
+2018,10,28,Air Force,Boise St.,H,38,48,NA,2
+2018,11,22,Air Force,Colorado St.,H,27,19,NA,2
+2018,9,8,Air Force,Fla. Atlantic,V,27,33,NA,2
+2018,10,6,Air Force,Navy,H,35,7,NA,2
+2018,9,29,Air Force,Nevada,H,25,28,NA,2
+2018,11,10,Air Force,New Mexico,H,42,24,NA,2
+2018,10,13,Air Force,South Dakota St.,V,17,21,NA,2
+2018,8,31,Air Force,Stony Brook,H,38,0,NA,2
+2018,10,20,Air Force,UNLV,V,41,35,NA,2
+2018,9,23,Air Force,Utah St.,V,32,42,NA,2
+2018,11,17,Air Force,Wyoming,V,27,35,NA,2
+2018,11,17,Akron,Bowling Green,H,6,21,NA,2
+2018,10,13,Akron,Buffalo,V,6,24,NA,2
+2018,10,27,Akron,Central Mich.,H,17,10,NA,2
+2018,11,10,Akron,Eastern Mich.,V,7,27,NA,2
+2018,9,22,Akron,Iowa St.,V,13,26,NA,2
+2018,10,20,Akron,Kent St.,V,24,23,1,2
+2018,10,6,Akron,Miami (OH),H,17,41,NA,2
+2018,9,8,Akron,Morgan St.,H,41,7,NA,2
+2018,11,1,Akron,Northern Ill.,H,26,36,NA,2
+2018,9,16,Akron,Northwestern,V,39,34,NA,2
+2018,11,23,Akron,Ohio,V,28,49,NA,2
+2018,10,6,Alabama,Arkansas,V,65,31,NA,2
+2018,9,8,Alabama,Arkansas St.,H,57,7,NA,2
+2018,11,24,Alabama,Auburn,H,52,21,NA,2
+2018,12,1,Alabama,Georgia,V,35,28,NA,2
+2018,9,29,Alabama,Louisiana,H,56,14,NA,2
+2018,8,31,Alabama,Louisville,H,51,14,NA,2
+2018,11,4,Alabama,LSU,V,29,0,NA,2
+2018,11,10,Alabama,Mississippi St.,H,24,0,NA,2
+2018,10,14,Alabama,Missouri,H,39,10,NA,2
+2018,9,16,Alabama,Ole Miss,V,62,7,NA,2
+2018,10,20,Alabama,Tennessee,V,58,21,NA,2
+2018,9,22,Alabama,Texas A&M,H,45,23,NA,2
+2018,11,17,Alabama,The Citadel,H,50,17,NA,2
+2018,9,16,Alabama A&M,Cincinnati,V,7,63,NA,2
+2018,9,9,Alabama St.,Auburn,V,9,63,NA,2
+2018,10,13,Alabama St.,South Ala.,V,7,45,NA,2
+2018,8,31,Albany (NY),Pittsburgh,V,7,33,NA,2
+2018,8,31,Alcorn,Georgia Tech,V,0,41,NA,2
+2018,11,3,Alcorn,New Mexico St.,V,42,52,NA,2
+2018,10,10,Appalachian St.,Arkansas St.,V,35,9,NA,2
+2018,9,8,Appalachian St.,Charlotte,V,45,9,NA,2
+2018,11,3,Appalachian St.,Coastal Carolina,V,23,7,NA,2
+2018,10,26,Appalachian St.,Ga. Southern,V,14,34,NA,2
+2018,9,22,Appalachian St.,Gardner-Webb,H,72,7,NA,2
+2018,11,17,Appalachian St.,Georgia St.,H,45,17,NA,2
+2018,12,1,Appalachian St.,Louisiana,H,30,19,NA,2
+2018,10,20,Appalachian St.,Louisiana,H,27,17,NA,2
+2018,8,31,Appalachian St.,Penn St.,V,38,45,1,2
+2018,9,29,Appalachian St.,South Ala.,H,52,7,NA,2
+2018,11,10,Appalachian St.,Texas St.,V,38,7,NA,2
+2018,11,24,Appalachian St.,Troy,H,21,10,NA,2
+2018,11,24,Arizona,Arizona St.,H,40,41,NA,2
+2018,8,31,Arizona,BYU,H,23,28,NA,2
+2018,10,7,Arizona,California,H,24,17,NA,2
+2018,11,3,Arizona,Colorado,H,42,34,NA,2
+2018,9,8,Arizona,Houston,V,18,45,NA,2
+2018,10,28,Arizona,Oregon,H,44,15,NA,2
+2018,9,22,Arizona,Oregon St.,V,35,14,NA,2
+2018,9,30,Arizona,South Carolina,H,20,24,NA,2
+2018,9,16,Arizona,Southern Utah,H,62,31,NA,2
+2018,10,21,Arizona,UCLA,V,30,31,NA,2
+2018,10,13,Arizona,Utah,V,10,42,NA,2
+2018,11,18,Arizona,Washington St.,V,28,69,NA,2
+2018,11,24,Arizona St.,Arizona,V,41,40,NA,2
+2018,10,6,Arizona St.,Colorado,V,21,28,NA,2
+2018,9,9,Arizona St.,Michigan St.,H,16,13,NA,2
+2018,11,18,Arizona St.,Oregon,V,29,31,NA,2
+2018,9,30,Arizona St.,Oregon St.,H,52,24,NA,2
+2018,10,27,Arizona St.,South Carolina,V,38,35,NA,2
+2018,9,16,Arizona St.,South Dakota St.,V,21,28,NA,2
+2018,10,19,Arizona St.,Stanford,H,13,20,NA,2
+2018,11,10,Arizona St.,UCLA,H,31,28,NA,2
+2018,11,3,Arizona St.,Utah,H,38,20,NA,2
+2018,8,31,Arizona St.,UTSA,H,49,7,NA,2
+2018,9,23,Arizona St.,Washington,V,20,27,NA,2
+2018,9,30,Ark.-Pine Bluff,FIU,V,9,55,NA,2
+2018,10,6,Arkansas,Alabama,H,31,65,NA,2
+2018,9,23,Arkansas,Auburn,V,3,34,NA,2
+2018,9,9,Arkansas,Colorado St.,V,27,34,NA,2
+2018,8,31,Arkansas,Eastern Ill.,H,55,20,NA,2
+2018,11,11,Arkansas,LSU,H,17,24,NA,2
+2018,11,17,Arkansas,Mississippi St.,V,6,52,NA,2
+2018,11,23,Arkansas,Missouri,V,0,38,NA,2
+2018,9,15,Arkansas,North Texas,H,17,44,NA,2
+2018,10,14,Arkansas,Ole Miss,H,33,37,NA,2
+2018,9,29,Arkansas,Texas A&M,V,17,24,NA,2
+2018,10,20,Arkansas,Tulsa,H,23,0,NA,2
+2018,10,27,Arkansas,Vanderbilt,H,31,45,NA,2
+2018,9,8,Arkansas St.,Alabama,V,7,57,NA,2
+2018,10,10,Arkansas St.,Appalachian St.,H,9,35,NA,2
+2018,11,10,Arkansas St.,Coastal Carolina,V,44,16,NA,2
+2018,9,29,Arkansas St.,Ga. Southern,V,21,28,NA,2
+2018,10,19,Arkansas St.,Georgia St.,H,51,35,NA,2
+2018,11,17,Arkansas St.,La.-Monroe,H,31,17,NA,2
+2018,10,28,Arkansas St.,Louisiana,V,43,47,NA,2
+2018,11,3,Arkansas St.,South Ala.,H,38,14,NA,2
+2018,8,31,Arkansas St.,Southeast Mo. St.,H,48,21,NA,2
+2018,11,24,Arkansas St.,Texas St.,V,33,7,NA,2
+2018,9,16,Arkansas St.,Tulsa,V,29,20,NA,2
+2018,9,23,Arkansas St.,UNLV,H,27,20,NA,2
+2018,11,3,Army West Point,Air Force,H,17,14,NA,2
+2018,9,29,Army West Point,Buffalo,V,42,13,NA,2
+2018,11,17,Army West Point,Colgate,H,28,14,NA,2
+2018,8,31,Army West Point,Duke,V,14,34,NA,2
+2018,10,27,Army West Point,Eastern Mich.,V,37,22,NA,2
+2018,9,15,Army West Point,Hawaii,H,28,21,NA,2
+2018,11,10,Army West Point,Lafayette,H,31,13,NA,2
+2018,9,8,Army West Point,Liberty,H,38,14,NA,2
+2018,10,20,Army West Point,Miami (OH),H,31,30,2,2
+2018,12,8,Army West Point,Navy,H,17,10,NA,2
+2018,9,23,Army West Point,Oklahoma,V,21,28,1,2
+2018,10,13,Army West Point,San Jose St.,V,52,3,NA,2
+2018,11,24,Auburn,Alabama,V,21,52,NA,2
+2018,9,9,Auburn,Alabama St.,H,63,9,NA,2
+2018,9,23,Auburn,Arkansas,H,34,3,NA,2
+2018,11,11,Auburn,Georgia,V,10,27,NA,2
+2018,11,17,Auburn,Liberty,H,53,0,NA,2
+2018,9,15,Auburn,LSU,H,21,22,NA,2
+2018,10,7,Auburn,Mississippi St.,V,9,23,NA,2
+2018,10,20,Auburn,Ole Miss,V,31,16,NA,2
+2018,9,29,Auburn,Southern Miss.,H,24,13,NA,2
+2018,10,13,Auburn,Tennessee,H,24,30,NA,2
+2018,11,3,Auburn,Texas A&M,H,28,24,NA,2
+2018,8,31,Auburn,Washington,H,21,16,NA,2
+2018,8,31,Austin Peay,Georgia,V,0,45,NA,2
+2018,8,31,Ball St.,Central Conn. St.,H,42,6,NA,2
+2018,10,13,Ball St.,Central Mich.,V,24,23,NA,2
+2018,10,20,Ball St.,Eastern Mich.,H,20,42,NA,2
+2018,9,15,Ball St.,Indiana,V,10,38,NA,2
+2018,9,29,Ball St.,Kent St.,H,52,24,NA,2
+2018,11,21,Ball St.,Miami (OH),V,21,42,NA,2
+2018,10,6,Ball St.,Northern Ill.,H,16,24,NA,2
+2018,9,8,Ball St.,Notre Dame,V,16,24,NA,2
+2018,10,26,Ball St.,Ohio,V,14,52,NA,2
+2018,10,31,Ball St.,Toledo,V,13,45,NA,2
+2018,9,22,Ball St.,Western Ky.,H,20,28,NA,2
+2018,11,13,Ball St.,Western Mich.,H,42,41,1,2
+2018,8,31,Baylor,Abilene Christian,H,55,27,NA,2
+2018,9,15,Baylor,Duke,H,27,40,NA,2
+2018,11,10,Baylor,Iowa St.,V,14,28,NA,2
+2018,9,22,Baylor,Kansas,H,26,7,NA,2
+2018,10,6,Baylor,Kansas St.,H,37,34,NA,2
+2018,9,29,Baylor,Oklahoma,V,33,66,NA,2
+2018,11,3,Baylor,Oklahoma St.,H,35,31,NA,2
+2018,11,17,Baylor,TCU,H,9,16,NA,2
+2018,10,13,Baylor,Texas,V,17,23,NA,2
+2018,11,24,Baylor,Texas Tech,V,35,24,NA,2
+2018,9,9,Baylor,UTSA,V,37,20,NA,2
+2018,10,26,Baylor,West Virginia,V,14,58,NA,2
+2018,9,15,Bethune-Cookman,Fla. Atlantic,V,28,49,NA,2
+2018,10,27,Bethune-Cookman,Nebraska,V,9,45,NA,2
+2018,10,28,Boise St.,Air Force,V,48,38,NA,2
+2018,11,4,Boise St.,BYU,H,21,16,NA,2
+2018,10,20,Boise St.,Colorado St.,H,56,28,NA,2
+2018,12,2,Boise St.,Fresno St.,H,16,19,1,2
+2018,11,10,Boise St.,Fresno St.,H,24,17,NA,2
+2018,10,14,Boise St.,Nevada,V,31,27,NA,2
+2018,11,17,Boise St.,New Mexico,V,45,14,NA,2
+2018,9,15,Boise St.,Oklahoma St.,V,21,44,NA,2
+2018,10,6,Boise St.,South Dakota St.,H,13,19,NA,2
+2018,8,31,Boise St.,Troy,V,56,20,NA,2
+2018,9,9,Boise St.,UConn,H,62,7,NA,2
+2018,11,25,Boise St.,Utah St.,H,33,24,NA,2
+2018,9,30,Boise St.,Wyoming,V,34,14,NA,2
+2018,11,11,Boston College,Clemson,H,7,27,NA,2
+2018,11,17,Boston College,Florida St.,V,21,22,NA,2
+2018,9,8,Boston College,Holy Cross,H,62,14,NA,2
+2018,10,13,Boston College,Louisville,H,38,20,NA,2
+2018,10,27,Boston College,Miami (FL),H,27,14,NA,2
+2018,10,6,Boston College,North Carolina St.,V,23,28,NA,2
+2018,9,22,Boston College,Purdue,V,13,30,NA,2
+2018,11,24,Boston College,Syracuse,H,21,42,NA,2
+2018,9,29,Boston College,Temple,H,45,35,NA,2
+2018,11,3,Boston College,Virginia Tech,V,31,21,NA,2
+2018,9,13,Boston College,Wake Forest,V,41,34,NA,2
+2018,11,17,Bowling Green,Akron,V,21,6,NA,2
+2018,11,23,Bowling Green,Buffalo,H,14,44,NA,2
+2018,11,10,Bowling Green,Central Mich.,V,24,13,NA,2
+2018,9,15,Bowling Green,Eastern Ky.,H,42,35,NA,2
+2018,9,29,Bowling Green,Georgia Tech,V,17,63,NA,2
+2018,10,31,Bowling Green,Kent St.,H,28,35,NA,2
+2018,9,8,Bowling Green,Maryland,H,14,45,NA,2
+2018,9,22,Bowling Green,Miami (OH),H,23,38,NA,2
+2018,10,20,Bowling Green,Ohio,V,14,49,NA,2
+2018,8,31,Bowling Green,Oregon,V,24,58,NA,2
+2018,10,6,Bowling Green,Toledo,V,36,52,NA,2
+2018,10,13,Bowling Green,Western Mich.,H,35,42,NA,2
+2018,10,13,Buffalo,Akron,H,24,6,NA,2
+2018,9,29,Buffalo,Army West Point,H,13,42,NA,2
+2018,11,23,Buffalo,Bowling Green,V,44,14,NA,2
+2018,10,6,Buffalo,Central Mich.,V,34,24,NA,2
+2018,8,31,Buffalo,Delaware St.,H,48,10,NA,2
+2018,9,15,Buffalo,Eastern Mich.,H,35,28,NA,2
+2018,11,7,Buffalo,Kent St.,H,48,14,NA,2
+2018,10,31,Buffalo,Miami (OH),H,51,42,NA,2
+2018,12,1,Buffalo,Northern Ill.,H,29,30,NA,2
+2018,11,15,Buffalo,Ohio,V,17,52,NA,2
+2018,9,22,Buffalo,Rutgers,V,42,13,NA,2
+2018,9,8,Buffalo,Temple,V,36,29,NA,2
+2018,10,20,Buffalo,Toledo,V,31,17,NA,2
+2018,8,31,BYU,Arizona,V,28,23,NA,2
+2018,11,4,BYU,Boise St.,V,16,21,NA,2
+2018,9,9,BYU,California,H,18,21,NA,2
+2018,10,14,BYU,Hawaii,H,49,23,NA,2
+2018,9,22,BYU,McNeese,H,30,3,NA,2
+2018,11,18,BYU,New Mexico St.,H,45,10,NA,2
+2018,10,27,BYU,Northern Ill.,H,6,7,NA,2
+2018,11,25,BYU,Utah,V,27,35,NA,2
+2018,10,6,BYU,Utah St.,H,20,45,NA,2
+2018,9,30,BYU,Washington,V,7,35,NA,2
+2018,9,15,BYU,Wisconsin,V,24,21,NA,2
+2018,10,7,California,Arizona,V,17,24,NA,2
+2018,9,9,California,BYU,V,21,18,NA,2
+2018,11,25,California,Colorado,H,33,21,NA,2
+2018,9,15,California,Idaho St.,H,45,23,NA,2
+2018,8,31,California,North Carolina,H,24,17,NA,2
+2018,9,30,California,Oregon,H,24,42,NA,2
+2018,10,20,California,Oregon St.,V,49,7,NA,2
+2018,11,11,California,South Carolina,V,15,14,NA,2
+2018,12,1,California,Stanford,H,13,23,NA,2
+2018,10,14,California,UCLA,H,7,37,NA,2
+2018,10,27,California,Washington,H,12,10,NA,2
+2018,11,4,California,Washington St.,V,13,19,NA,2
+2018,9,12,Campbell,Coastal Carolina,H,21,58,NA,2
+2018,8,31,Central Ark.,Tulsa,V,27,38,NA,2
+2018,8,31,Central Conn. St.,Ball St.,V,6,42,NA,2
+2018,10,27,Central Mich.,Akron,V,10,17,NA,2
+2018,10,13,Central Mich.,Ball St.,H,23,24,NA,2
+2018,11,10,Central Mich.,Bowling Green,H,13,24,NA,2
+2018,10,6,Central Mich.,Buffalo,H,24,34,NA,2
+2018,11,3,Central Mich.,Eastern Mich.,V,7,17,NA,2
+2018,9,8,Central Mich.,Kansas,H,7,31,NA,2
+2018,8,31,Central Mich.,Kentucky,V,20,35,NA,2
+2018,9,22,Central Mich.,Maine,H,17,5,NA,2
+2018,9,29,Central Mich.,Michigan St.,V,20,31,NA,2
+2018,9,15,Central Mich.,Northern Ill.,V,16,24,NA,2
+2018,11,23,Central Mich.,Toledo,V,13,51,NA,2
+2018,10,20,Central Mich.,Western Mich.,H,10,35,NA,2
+2018,8,31,Charleston So.,Florida,V,6,53,NA,2
+2018,9,8,Charlotte,Appalachian St.,H,9,45,NA,2
+2018,11,17,Charlotte,FIU,H,35,42,NA,2
+2018,11,24,Charlotte,Fla. Atlantic,V,27,24,NA,2
+2018,8,31,Charlotte,Fordham,H,34,10,NA,2
+2018,11,10,Charlotte,Marshall,V,13,30,NA,2
+2018,10,20,Charlotte,Middle Tenn.,V,13,21,NA,2
+2018,9,13,Charlotte,Old Dominion,H,28,25,NA,2
+2018,10,27,Charlotte,Southern Miss.,H,20,17,NA,2
+2018,11,3,Charlotte,Tennessee,V,3,14,NA,2
+2018,10,13,Charlotte,Western Ky.,H,40,14,NA,2
+2018,9,16,Cincinnati,Alabama A&M,H,63,7,NA,2
+2018,11,23,Cincinnati,East Carolina,H,56,6,NA,2
+2018,9,9,Cincinnati,Miami (OH),V,21,0,NA,2
+2018,11,3,Cincinnati,Navy,H,42,0,NA,2
+2018,9,22,Cincinnati,Ohio,H,34,30,NA,2
+2018,10,27,Cincinnati,SMU,V,26,20,1,2
+2018,11,11,Cincinnati,South Fla.,H,35,23,NA,2
+2018,10,20,Cincinnati,Temple,V,17,24,1,2
+2018,10,6,Cincinnati,Tulane,H,37,21,NA,2
+2018,11,18,Cincinnati,UCF,V,13,38,NA,2
+2018,8,31,Cincinnati,UCLA,V,26,17,NA,2
+2018,9,29,Cincinnati,UConn,V,49,7,NA,2
+2018,11,11,Clemson,Boston College,V,27,7,NA,2
+2018,11,18,Clemson,Duke,H,35,6,NA,2
+2018,10,27,Clemson,Florida St.,V,59,10,NA,2
+2018,8,31,Clemson,Furman,H,48,7,NA,2
+2018,9,15,Clemson,Ga. Southern,H,38,7,NA,2
+2018,9,22,Clemson,Georgia Tech,V,49,21,NA,2
+2018,11,3,Clemson,Louisville,H,77,16,NA,2
+2018,10,20,Clemson,North Carolina St.,H,41,7,NA,2
+2018,12,2,Clemson,Pittsburgh,V,42,10,NA,2
+2018,9,29,Clemson,Syracuse,H,27,23,NA,2
+2018,9,9,Clemson,Texas A&M,V,28,26,NA,2
+2018,10,6,Clemson,Wake Forest,V,63,3,NA,2
+2018,11,3,Coastal Carolina,Appalachian St.,H,7,23,NA,2
+2018,11,10,Coastal Carolina,Arkansas St.,H,16,44,NA,2
+2018,9,12,Coastal Carolina,Campbell,V,58,21,NA,2
+2018,11,17,Coastal Carolina,Ga. Southern,H,17,41,NA,2
+2018,10,27,Coastal Carolina,Georgia St.,V,37,34,NA,2
+2018,10,13,Coastal Carolina,La.-Monroe,H,20,45,NA,2
+2018,9,23,Coastal Carolina,Louisiana,V,30,28,NA,2
+2018,11,23,Coastal Carolina,South Ala.,V,28,31,NA,2
+2018,9,29,Coastal Carolina,Troy,V,21,45,NA,2
+2018,11,17,Colgate,Army West Point,V,14,28,NA,2
+2018,11,3,Colorado,Arizona,V,34,42,NA,2
+2018,10,6,Colorado,Arizona St.,H,28,21,NA,2
+2018,11,25,Colorado,California,V,21,33,NA,2
+2018,8,31,Colorado,Colorado St.,V,45,13,NA,2
+2018,9,8,Colorado,Nebraska,V,33,28,NA,2
+2018,9,15,Colorado,New Hampshire,H,45,14,NA,2
+2018,10,27,Colorado,Oregon St.,H,34,41,1,2
+2018,10,14,Colorado,South Carolina,V,20,31,NA,2
+2018,9,29,Colorado,UCLA,H,38,16,NA,2
+2018,11,17,Colorado,Utah,H,7,30,NA,2
+2018,10,20,Colorado,Washington,V,13,27,NA,2
+2018,11,10,Colorado,Washington St.,H,7,31,NA,2
+2018,11,22,Colorado St.,Air Force,V,19,27,NA,2
+2018,9,9,Colorado St.,Arkansas,H,34,27,NA,2
+2018,10,20,Colorado St.,Boise St.,V,28,56,NA,2
+2018,8,31,Colorado St.,Colorado,H,13,45,NA,2
+2018,9,15,Colorado St.,Florida,V,10,48,NA,2
+2018,8,26,Colorado St.,Hawaii,H,34,43,NA,2
+2018,9,22,Colorado St.,Illinois St.,H,19,35,NA,2
+2018,11,11,Colorado St.,Nevada,V,10,49,NA,2
+2018,10,13,Colorado St.,New Mexico,H,20,18,NA,2
+2018,10,7,Colorado St.,San Jose St.,V,42,30,NA,2
+2018,11,17,Colorado St.,Utah St.,H,24,29,NA,2
+2018,10,27,Colorado St.,Wyoming,H,21,34,NA,2
+2018,8,31,Delaware St.,Buffalo,V,10,48,NA,2
+2018,9,16,Delaware St.,Western Mich.,V,0,68,NA,2
+2018,12,1,Drake,Iowa St.,V,24,27,NA,2
+2018,8,31,Duke,Army West Point,H,34,14,NA,2
+2018,9,15,Duke,Baylor,V,40,27,NA,2
+2018,11,18,Duke,Clemson,V,6,35,NA,2
+2018,10,13,Duke,Georgia Tech,V,28,14,NA,2
+2018,11,3,Duke,Miami (FL),V,20,12,NA,2
+2018,9,22,Duke,N.C. Central,H,55,13,NA,2
+2018,11,10,Duke,North Carolina,H,42,35,NA,2
+2018,9,8,Duke,Northwestern,V,21,7,NA,2
+2018,10,27,Duke,Pittsburgh,V,45,54,NA,2
+2018,10,20,Duke,Virginia,H,14,28,NA,2
+2018,9,30,Duke,Virginia Tech,H,14,31,NA,2
+2018,11,24,Duke,Wake Forest,H,7,59,NA,2
+2018,9,23,Duquesne,Hawaii,V,21,42,NA,2
+2018,11,23,East Carolina,Cincinnati,V,6,56,NA,2
+2018,10,14,East Carolina,Houston,H,20,42,NA,2
+2018,11,3,East Carolina,Memphis,H,41,59,NA,2
+2018,8,31,East Carolina,N.C. A&T,H,23,28,NA,2
+2018,9,8,East Carolina,North Carolina,H,41,19,NA,2
+2018,12,1,East Carolina,North Carolina St.,V,3,58,NA,2
+2018,9,29,East Carolina,Old Dominion,H,37,35,NA,2
+2018,9,23,East Carolina,South Fla.,V,13,20,NA,2
+2018,10,6,East Carolina,Temple,V,6,49,NA,2
+2018,11,10,East Carolina,Tulane,V,18,24,NA,2
+2018,10,21,East Carolina,UCF,H,10,37,NA,2
+2018,11,18,East Carolina,UConn,H,55,21,NA,2
+2018,8,31,Eastern Ill.,Arkansas,V,20,55,NA,2
+2018,9,15,Eastern Ky.,Bowling Green,V,35,42,NA,2
+2018,9,8,Eastern Ky.,Marshall,V,16,32,NA,2
+2018,11,10,Eastern Mich.,Akron,H,27,7,NA,2
+2018,10,27,Eastern Mich.,Army West Point,H,22,37,NA,2
+2018,10,20,Eastern Mich.,Ball St.,V,42,20,NA,2
+2018,9,15,Eastern Mich.,Buffalo,V,28,35,NA,2
+2018,11,3,Eastern Mich.,Central Mich.,H,17,7,NA,2
+2018,11,23,Eastern Mich.,Kent St.,V,28,20,NA,2
+2018,8,31,Eastern Mich.,Monmouth,H,51,17,NA,2
+2018,9,29,Eastern Mich.,Northern Ill.,H,23,26,3,2
+2018,9,8,Eastern Mich.,Purdue,V,20,19,NA,2
+2018,9,23,Eastern Mich.,South Dakota St.,V,20,23,1,2
+2018,10,13,Eastern Mich.,Toledo,H,28,26,NA,2
+2018,10,6,Eastern Mich.,Western Mich.,V,24,27,NA,2
+2018,9,16,Eastern Wash.,Washington St.,V,24,59,NA,2
+2018,8,31,Elon,South Fla.,V,14,34,NA,2
+2018,9,8,ETSU,Tennessee,V,3,59,NA,2
+2018,9,30,FIU,Ark.-Pine Bluff,H,55,9,NA,2
+2018,11,17,FIU,Charlotte,V,42,35,NA,2
+2018,11,3,FIU,Fla. Atlantic,H,14,49,NA,2
+2018,8,31,FIU,Indiana,H,28,38,NA,2
+2018,11,24,FIU,Marshall,H,25,28,NA,2
+2018,9,22,FIU,Miami (FL),V,17,31,NA,2
+2018,10,14,FIU,Middle Tenn.,H,24,21,NA,2
+2018,9,9,FIU,Old Dominion,V,28,20,NA,2
+2018,10,21,FIU,Rice,H,36,17,NA,2
+2018,11,11,FIU,UTSA,V,45,7,NA,2
+2018,10,28,FIU,Western Ky.,V,38,17,NA,2
+2018,9,8,Fla. Atlantic,Air Force,H,33,27,NA,2
+2018,9,15,Fla. Atlantic,Bethune-Cookman,H,49,28,NA,2
+2018,11,24,Fla. Atlantic,Charlotte,H,24,27,NA,2
+2018,11,3,Fla. Atlantic,FIU,V,49,14,NA,2
+2018,10,26,Fla. Atlantic,Louisiana Tech,H,13,21,NA,2
+2018,10,20,Fla. Atlantic,Marshall,V,7,31,NA,2
+2018,9,30,Fla. Atlantic,Middle Tenn.,V,24,25,NA,2
+2018,11,16,Fla. Atlantic,North Texas,V,38,41,NA,2
+2018,8,31,Fla. Atlantic,Oklahoma,V,14,63,NA,2
+2018,10,6,Fla. Atlantic,Old Dominion,H,52,33,NA,2
+2018,9,22,Fla. Atlantic,UCF,V,36,56,NA,2
+2018,11,10,Fla. Atlantic,Western Ky.,H,34,15,NA,2
+2018,8,31,Florida,Charleston So.,H,53,6,NA,2
+2018,9,15,Florida,Colorado St.,H,48,10,NA,2
+2018,11,24,Florida,Florida St.,V,41,14,NA,2
+2018,10,27,Florida,Georgia,V,17,36,NA,2
+2018,11,17,Florida,Idaho,H,63,10,NA,2
+2018,9,9,Florida,Kentucky,H,16,27,NA,2
+2018,10,6,Florida,LSU,H,27,19,NA,2
+2018,9,29,Florida,Mississippi St.,V,13,6,NA,2
+2018,11,3,Florida,Missouri,H,17,38,NA,2
+2018,9,23,Florida,Tennessee,V,47,21,NA,2
+2018,10,13,Florida,Vanderbilt,V,37,27,NA,2
+2018,9,9,Florida A&M,Troy,V,7,59,NA,2
+2018,11,17,Florida St.,Boston College,H,22,21,NA,2
+2018,10,27,Florida St.,Clemson,H,10,59,NA,2
+2018,11,24,Florida St.,Florida,H,14,41,NA,2
+2018,9,29,Florida St.,Louisville,V,28,24,NA,2
+2018,10,6,Florida St.,Miami (FL),V,27,28,NA,2
+2018,11,3,Florida St.,North Carolina St.,V,28,47,NA,2
+2018,9,22,Florida St.,Northern Ill.,H,37,19,NA,2
+2018,11,11,Florida St.,Notre Dame,V,13,42,NA,2
+2018,9,9,Florida St.,Samford,H,36,26,NA,2
+2018,9,15,Florida St.,Syracuse,V,7,30,NA,2
+2018,8,31,Florida St.,Virginia Tech,H,3,24,NA,2
+2018,10,20,Florida St.,Wake Forest,H,38,17,NA,2
+2018,8,31,Fordham,Charlotte,V,10,34,NA,2
+2018,12,2,Fresno St.,Boise St.,V,19,16,1,2
+2018,11,10,Fresno St.,Boise St.,V,17,24,NA,2
+2018,10,28,Fresno St.,Hawaii,H,50,20,NA,2
+2018,8,31,Fresno St.,Idaho,H,79,13,NA,2
+2018,9,9,Fresno St.,Minnesota,V,14,21,NA,2
+2018,10,7,Fresno St.,Nevada,V,21,3,NA,2
+2018,10,21,Fresno St.,New Mexico,V,38,7,NA,2
+2018,11,25,Fresno St.,San Jose St.,H,31,13,NA,2
+2018,11,18,Fresno St.,South Dakota St.,H,23,14,NA,2
+2018,9,30,Fresno St.,Toledo,H,49,27,NA,2
+2018,9,16,Fresno St.,UCLA,V,38,14,NA,2
+2018,11,4,Fresno St.,UNLV,V,48,3,NA,2
+2018,10,14,Fresno St.,Wyoming,H,27,3,NA,2
+2018,8,31,Furman,Clemson,V,7,48,NA,2
+2018,10,26,Ga. Southern,Appalachian St.,H,34,14,NA,2
+2018,9,29,Ga. Southern,Arkansas St.,H,28,21,NA,2
+2018,9,15,Ga. Southern,Clemson,V,7,38,NA,2
+2018,11,17,Ga. Southern,Coastal Carolina,V,41,17,NA,2
+2018,11,24,Ga. Southern,Georgia St.,V,35,14,NA,2
+2018,11,3,Ga. Southern,La.-Monroe,V,25,44,NA,2
+2018,10,20,Ga. Southern,New Mexico St.,V,48,31,NA,2
+2018,10,6,Ga. Southern,South Ala.,H,48,13,NA,2
+2018,8,31,Ga. Southern,South Carolina St.,H,37,6,NA,2
+2018,10,12,Ga. Southern,Texas St.,V,15,13,NA,2
+2018,11,10,Ga. Southern,Troy,H,21,35,NA,2
+2018,9,22,Gardner-Webb,Appalachian St.,V,7,72,NA,2
+2018,12,1,Georgia,Alabama,H,28,35,NA,2
+2018,11,11,Georgia,Auburn,H,27,10,NA,2
+2018,8,31,Georgia,Austin Peay,H,45,0,NA,2
+2018,10,27,Georgia,Florida,H,36,17,NA,2
+2018,11,24,Georgia,Georgia Tech,H,45,21,NA,2
+2018,11,3,Georgia,Kentucky,V,34,17,NA,2
+2018,10,13,Georgia,LSU,V,16,36,NA,2
+2018,9,15,Georgia,Middle Tenn.,H,49,7,NA,2
+2018,9,22,Georgia,Missouri,V,43,29,NA,2
+2018,9,29,Georgia,Tennessee,H,38,12,NA,2
+2018,10,7,Georgia,Vanderbilt,H,41,13,NA,2
+2018,11,17,Georgia St.,Appalachian St.,V,17,45,NA,2
+2018,10,19,Georgia St.,Arkansas St.,V,35,51,NA,2
+2018,10,27,Georgia St.,Coastal Carolina,H,34,37,NA,2
+2018,11,24,Georgia St.,Ga. Southern,H,14,35,NA,2
+2018,8,31,Georgia St.,Kennesaw St.,H,24,20,NA,2
+2018,9,29,Georgia St.,La.-Monroe,H,46,14,NA,2
+2018,11,10,Georgia St.,Louisiana,V,22,36,NA,2
+2018,9,15,Georgia St.,Memphis,V,22,59,NA,2
+2018,9,8,Georgia St.,North Carolina St.,V,7,41,NA,2
+2018,11,3,Georgia St.,Texas St.,H,31,40,NA,2
+2018,10,5,Georgia St.,Troy,V,20,37,NA,2
+2018,9,22,Georgia St.,Western Mich.,H,15,34,NA,2
+2018,8,31,Georgia Tech,Alcorn,H,41,0,NA,2
+2018,9,29,Georgia Tech,Bowling Green,H,63,17,NA,2
+2018,9,22,Georgia Tech,Clemson,H,21,49,NA,2
+2018,10,13,Georgia Tech,Duke,H,14,28,NA,2
+2018,11,24,Georgia Tech,Georgia,V,21,45,NA,2
+2018,10,6,Georgia Tech,Louisville,V,66,31,NA,2
+2018,11,11,Georgia Tech,Miami (FL),H,27,21,NA,2
+2018,11,3,Georgia Tech,North Carolina,V,38,28,NA,2
+2018,9,15,Georgia Tech,Pittsburgh,V,19,24,NA,2
+2018,9,8,Georgia Tech,South Fla.,V,38,49,NA,2
+2018,11,17,Georgia Tech,Virginia,H,30,27,1,2
+2018,10,26,Georgia Tech,Virginia Tech,V,49,28,NA,2
+2018,8,31,Grambling,Louisiana,V,17,49,NA,2
+2018,9,15,Hawaii,Army West Point,V,21,28,NA,2
+2018,10,14,Hawaii,BYU,V,23,49,NA,2
+2018,8,26,Hawaii,Colorado St.,V,43,34,NA,2
+2018,9,23,Hawaii,Duquesne,H,42,21,NA,2
+2018,10,28,Hawaii,Fresno St.,V,20,50,NA,2
+2018,8,31,Hawaii,Navy,H,59,41,NA,2
+2018,10,21,Hawaii,Nevada,H,22,40,NA,2
+2018,9,9,Hawaii,Rice,H,43,29,NA,2
+2018,9,30,Hawaii,San Jose St.,V,44,41,5,2
+2018,11,25,Hawaii,South Dakota St.,V,31,30,1,2
+2018,11,18,Hawaii,UNLV,H,35,28,NA,2
+2018,11,4,Hawaii,Utah St.,H,17,56,NA,2
+2018,10,7,Hawaii,Wyoming,H,17,13,NA,2
+2018,9,8,Holy Cross,Boston College,V,14,62,NA,2
+2018,9,8,Houston,Arizona,H,45,18,NA,2
+2018,10,14,Houston,East Carolina,V,42,20,NA,2
+2018,11,23,Houston,Memphis,V,31,52,NA,2
+2018,10,20,Houston,Navy,V,49,36,NA,2
+2018,8,31,Houston,Rice,V,45,27,NA,2
+2018,11,3,Houston,SMU,V,31,45,NA,2
+2018,10,27,Houston,South Fla.,H,57,36,NA,2
+2018,11,11,Houston,Temple,H,49,59,NA,2
+2018,9,23,Houston,Texas Southern,H,70,14,NA,2
+2018,9,15,Houston,Texas Tech,V,49,63,NA,2
+2018,11,16,Houston,Tulane,H,48,17,NA,2
+2018,10,5,Houston,Tulsa,H,41,26,NA,2
+2018,9,30,Houston Baptist,SMU,V,27,63,NA,2
+2018,9,8,Howard,Kent St.,V,14,54,NA,2
+2018,8,31,Howard,Ohio,V,32,38,NA,2
+2018,11,17,Idaho,Florida,V,10,63,NA,2
+2018,8,31,Idaho,Fresno St.,V,13,79,NA,2
+2018,9,15,Idaho St.,California,V,23,45,NA,2
+2018,10,20,Idaho St.,Liberty,V,41,48,NA,2
+2018,11,17,Illinois,Iowa,H,0,63,NA,2
+2018,8,31,Illinois,Kent St.,H,31,24,NA,2
+2018,10,27,Illinois,Maryland,V,33,63,NA,2
+2018,11,3,Illinois,Minnesota,H,55,31,NA,2
+2018,11,10,Illinois,Nebraska,V,35,54,NA,2
+2018,11,24,Illinois,Northwestern,V,16,24,NA,2
+2018,9,22,Illinois,Penn St.,H,24,63,NA,2
+2018,10,13,Illinois,Purdue,H,7,46,NA,2
+2018,10,6,Illinois,Rutgers,V,38,17,NA,2
+2018,9,15,Illinois,South Fla.,H,19,25,NA,2
+2018,9,9,Illinois,Western Ill.,H,34,14,NA,2
+2018,10,20,Illinois,Wisconsin,V,20,49,NA,2
+2018,9,22,Illinois St.,Colorado St.,V,35,19,NA,2
+2018,8,31,Incarnate Word,New Mexico,V,30,62,NA,2
+2018,9,9,Incarnate Word,North Texas,V,16,58,NA,2
+2018,9,15,Indiana,Ball St.,H,38,10,NA,2
+2018,8,31,Indiana,FIU,V,38,28,NA,2
+2018,10,13,Indiana,Iowa,H,16,42,NA,2
+2018,11,10,Indiana,Maryland,H,34,32,NA,2
+2018,11,17,Indiana,Michigan,V,20,31,NA,2
+2018,9,23,Indiana,Michigan St.,H,21,35,NA,2
+2018,10,27,Indiana,Minnesota,V,31,38,NA,2
+2018,10,6,Indiana,Ohio St.,V,26,49,NA,2
+2018,10,20,Indiana,Penn St.,H,28,33,NA,2
+2018,11,24,Indiana,Purdue,H,21,28,NA,2
+2018,9,29,Indiana,Rutgers,V,24,17,NA,2
+2018,9,9,Indiana,Virginia,H,20,16,NA,2
+2018,9,9,Indiana St.,Louisville,V,7,31,NA,2
+2018,11,17,Iowa,Illinois,V,63,0,NA,2
+2018,10,13,Iowa,Indiana,V,42,16,NA,2
+2018,9,8,Iowa,Iowa St.,H,13,3,NA,2
+2018,10,20,Iowa,Maryland,H,23,0,NA,2
+2018,10,6,Iowa,Minnesota,V,48,31,NA,2
+2018,11,23,Iowa,Nebraska,H,31,28,NA,2
+2018,8,31,Iowa,Northern Ill.,H,33,7,NA,2
+2018,11,10,Iowa,Northwestern,H,10,14,NA,2
+2018,10,27,Iowa,Penn St.,V,24,30,NA,2
+2018,11,3,Iowa,Purdue,V,36,38,NA,2
+2018,9,16,Iowa,UNI,H,38,14,NA,2
+2018,9,23,Iowa,Wisconsin,H,17,28,NA,2
+2018,9,22,Iowa St.,Akron,H,26,13,NA,2
+2018,11,10,Iowa St.,Baylor,H,28,14,NA,2
+2018,12,1,Iowa St.,Drake,H,27,24,NA,2
+2018,9,8,Iowa St.,Iowa,V,3,13,NA,2
+2018,11,3,Iowa St.,Kansas,V,27,3,NA,2
+2018,11,25,Iowa St.,Kansas St.,H,42,38,NA,2
+2018,9,15,Iowa St.,Oklahoma,H,27,37,NA,2
+2018,10,6,Iowa St.,Oklahoma St.,V,48,42,NA,2
+2018,9,30,Iowa St.,TCU,V,14,17,NA,2
+2018,11,18,Iowa St.,Texas,V,10,24,NA,2
+2018,10,27,Iowa St.,Texas Tech,H,40,31,NA,2
+2018,10,14,Iowa St.,West Virginia,H,30,14,NA,2
+2018,8,31,Jackson St.,Southern Miss.,V,7,55,NA,2
+2018,8,31,James Madison,North Carolina St.,V,13,24,NA,2
+2018,9,22,Kansas,Baylor,V,7,26,NA,2
+2018,9,8,Kansas,Central Mich.,V,31,7,NA,2
+2018,11,3,Kansas,Iowa St.,H,3,27,NA,2
+2018,11,10,Kansas,Kansas St.,V,17,21,NA,2
+2018,8,31,Kansas,Nicholls St.,H,23,26,1,2
+2018,11,18,Kansas,Oklahoma,V,40,55,NA,2
+2018,9,29,Kansas,Oklahoma St.,H,28,48,NA,2
+2018,9,15,Kansas,Rutgers,H,55,14,NA,2
+2018,10,27,Kansas,TCU,H,27,26,NA,2
+2018,11,23,Kansas,Texas,H,17,24,NA,2
+2018,10,20,Kansas,Texas Tech,V,16,48,NA,2
+2018,10,6,Kansas,West Virginia,V,22,38,NA,2
+2018,10,6,Kansas St.,Baylor,V,34,37,NA,2
+2018,11,25,Kansas St.,Iowa St.,V,38,42,NA,2
+2018,11,10,Kansas St.,Kansas,H,21,17,NA,2
+2018,9,8,Kansas St.,Mississippi St.,H,10,31,NA,2
+2018,10,27,Kansas St.,Oklahoma,V,14,51,NA,2
+2018,10,13,Kansas St.,Oklahoma St.,H,31,12,NA,2
+2018,8,31,Kansas St.,South Dakota,H,27,24,NA,2
+2018,11,3,Kansas St.,TCU,V,13,14,NA,2
+2018,9,29,Kansas St.,Texas,H,14,19,NA,2
+2018,11,17,Kansas St.,Texas Tech,H,21,6,NA,2
+2018,9,15,Kansas St.,UTSA,H,41,17,NA,2
+2018,9,22,Kansas St.,West Virginia,V,6,35,NA,2
+2018,8,31,Kennesaw St.,Georgia St.,V,20,24,NA,2
+2018,10,20,Kent St.,Akron,H,23,24,1,2
+2018,9,29,Kent St.,Ball St.,V,24,52,NA,2
+2018,10,31,Kent St.,Bowling Green,V,35,28,NA,2
+2018,11,7,Kent St.,Buffalo,V,14,48,NA,2
+2018,11,23,Kent St.,Eastern Mich.,H,20,28,NA,2
+2018,9,8,Kent St.,Howard,H,54,14,NA,2
+2018,8,31,Kent St.,Illinois,V,24,31,NA,2
+2018,10,13,Kent St.,Miami (OH),V,6,31,NA,2
+2018,10,6,Kent St.,Ohio,H,26,27,NA,2
+2018,9,22,Kent St.,Ole Miss,V,17,38,NA,2
+2018,9,15,Kent St.,Penn St.,V,10,63,NA,2
+2018,11,15,Kent St.,Toledo,H,34,56,NA,2
+2018,8,31,Kentucky,Central Mich.,H,35,20,NA,2
+2018,9,9,Kentucky,Florida,V,27,16,NA,2
+2018,11,3,Kentucky,Georgia,H,17,34,NA,2
+2018,11,25,Kentucky,Louisville,V,56,10,NA,2
+2018,11,17,Kentucky,Middle Tenn.,H,34,23,NA,2
+2018,9,23,Kentucky,Mississippi St.,H,28,7,NA,2
+2018,10,27,Kentucky,Missouri,V,15,14,NA,2
+2018,9,15,Kentucky,Murray St.,H,48,10,NA,2
+2018,11,10,Kentucky,Tennessee,V,7,24,NA,2
+2018,10,7,Kentucky,Texas A&M,V,14,20,1,2
+2018,10,21,Kentucky,Vanderbilt,H,14,7,NA,2
+2018,11,17,La.-Monroe,Arkansas St.,V,17,31,NA,2
+2018,10,13,La.-Monroe,Coastal Carolina,V,45,20,NA,2
+2018,11,3,La.-Monroe,Ga. Southern,H,44,25,NA,2
+2018,9,29,La.-Monroe,Georgia St.,V,14,46,NA,2
+2018,11,24,La.-Monroe,Louisiana,H,28,31,NA,2
+2018,10,6,La.-Monroe,Ole Miss,V,21,70,NA,2
+2018,11,10,La.-Monroe,South Ala.,V,38,10,NA,2
+2018,8,31,La.-Monroe,Southeastern La.,H,34,31,NA,2
+2018,9,9,La.-Monroe,Southern Miss.,V,21,20,NA,2
+2018,9,16,La.-Monroe,Texas A&M,V,10,48,NA,2
+2018,10,21,La.-Monroe,Texas St.,H,20,14,NA,2
+2018,9,23,La.-Monroe,Troy,H,27,35,NA,2
+2018,11,10,Lafayette,Army West Point,V,13,31,NA,2
+2018,9,8,Lamar University,Texas Tech,V,0,77,NA,2
+2018,9,15,Lehigh,Navy,V,21,51,NA,2
+2018,9,8,Liberty,Army West Point,V,14,38,NA,2
+2018,11,17,Liberty,Auburn,V,0,53,NA,2
+2018,10,20,Liberty,Idaho St.,H,48,41,NA,2
+2018,9,29,Liberty,New Mexico,V,52,43,NA,2
+2018,10,7,Liberty,New Mexico St.,V,41,49,NA,2
+2018,11,24,Liberty,New Mexico St.,H,28,21,NA,2
+2018,12,1,Liberty,Norfolk St.,H,52,17,NA,2
+2018,9,22,Liberty,North Texas,H,7,47,NA,2
+2018,8,31,Liberty,Old Dominion,H,52,10,NA,2
+2018,10,13,Liberty,Troy,H,22,16,NA,2
+2018,11,10,Liberty,Virginia,V,24,45,NA,2
+2018,9,29,Louisiana,Alabama,V,14,56,NA,2
+2018,12,1,Louisiana,Appalachian St.,V,19,30,NA,2
+2018,10,20,Louisiana,Appalachian St.,V,17,27,NA,2
+2018,10,28,Louisiana,Arkansas St.,H,47,43,NA,2
+2018,9,23,Louisiana,Coastal Carolina,H,28,30,NA,2
+2018,11,10,Louisiana,Georgia St.,H,36,22,NA,2
+2018,8,31,Louisiana,Grambling,H,49,17,NA,2
+2018,11,24,Louisiana,La.-Monroe,V,31,28,NA,2
+2018,9,16,Louisiana,Mississippi St.,V,10,56,NA,2
+2018,10,13,Louisiana,New Mexico St.,H,66,38,NA,2
+2018,11,17,Louisiana,South Ala.,H,48,38,NA,2
+2018,10,7,Louisiana,Texas St.,V,42,27,NA,2
+2018,11,3,Louisiana,Troy,V,16,26,NA,2
+2018,10,26,Louisiana Tech,Fla. Atlantic,V,21,13,NA,2
+2018,9,23,Louisiana Tech,LSU,V,21,38,NA,2
+2018,11,3,Louisiana Tech,Mississippi St.,V,3,45,NA,2
+2018,9,30,Louisiana Tech,North Texas,V,29,27,NA,2
+2018,11,11,Louisiana Tech,Rice,H,28,13,NA,2
+2018,8,31,Louisiana Tech,South Ala.,V,30,26,NA,2
+2018,11,17,Louisiana Tech,Southern Miss.,V,20,21,NA,2
+2018,9,9,Louisiana Tech,Southern U.,H,54,17,NA,2
+2018,10,20,Louisiana Tech,UTEP,H,31,24,NA,2
+2018,10,14,Louisiana Tech,UTSA,V,31,3,NA,2
+2018,11,24,Louisiana Tech,Western Ky.,H,15,30,NA,2
+2018,8,31,Louisville,Alabama,V,14,51,NA,2
+2018,10,13,Louisville,Boston College,V,20,38,NA,2
+2018,11,3,Louisville,Clemson,V,16,77,NA,2
+2018,9,29,Louisville,Florida St.,H,24,28,NA,2
+2018,10,6,Louisville,Georgia Tech,H,31,66,NA,2
+2018,9,9,Louisville,Indiana St.,H,31,7,NA,2
+2018,11,25,Louisville,Kentucky,H,10,56,NA,2
+2018,11,17,Louisville,North Carolina St.,H,10,52,NA,2
+2018,11,10,Louisville,Syracuse,V,23,54,NA,2
+2018,9,22,Louisville,Virginia,V,3,27,NA,2
+2018,10,27,Louisville,Wake Forest,H,35,56,NA,2
+2018,9,16,Louisville,Western Ky.,H,20,17,NA,2
+2018,11,4,LSU,Alabama,H,0,29,NA,2
+2018,11,11,LSU,Arkansas,V,24,17,NA,2
+2018,9,15,LSU,Auburn,V,22,21,NA,2
+2018,10,6,LSU,Florida,V,19,27,NA,2
+2018,10,13,LSU,Georgia,H,36,16,NA,2
+2018,9,23,LSU,Louisiana Tech,H,38,21,NA,2
+2018,8,31,LSU,Miami (FL),H,33,17,NA,2
+2018,10,21,LSU,Mississippi St.,H,19,3,NA,2
+2018,9,30,LSU,Ole Miss,H,45,16,NA,2
+2018,11,18,LSU,Rice,H,42,10,NA,2
+2018,9,9,LSU,Southeastern La.,H,31,0,NA,2
+2018,11,25,LSU,Texas A&M,V,72,74,NA,2
+2018,9,22,Maine,Central Mich.,V,5,17,NA,2
+2018,9,9,Maine,Western Ky.,V,31,28,NA,2
+2018,11,10,Marshall,Charlotte,H,30,13,NA,2
+2018,9,8,Marshall,Eastern Ky.,H,32,16,NA,2
+2018,11,24,Marshall,FIU,V,28,25,NA,2
+2018,10,20,Marshall,Fla. Atlantic,H,31,7,NA,2
+2018,8,31,Marshall,Miami (OH),V,35,28,NA,2
+2018,10,6,Marshall,Middle Tenn.,H,24,34,NA,2
+2018,9,23,Marshall,North Carolina St.,H,20,37,NA,2
+2018,10,13,Marshall,Old Dominion,V,42,20,NA,2
+2018,11,3,Marshall,Southern Miss.,V,24,26,NA,2
+2018,11,17,Marshall,UTSA,H,23,0,NA,2
+2018,12,1,Marshall,Virginia Tech,V,20,41,NA,2
+2018,9,30,Marshall,Western Ky.,V,20,17,NA,2
+2018,9,8,Maryland,Bowling Green,V,45,14,NA,2
+2018,10,27,Maryland,Illinois,H,63,33,NA,2
+2018,11,10,Maryland,Indiana,V,32,34,NA,2
+2018,10,20,Maryland,Iowa,V,0,23,NA,2
+2018,10,6,Maryland,Michigan,V,21,42,NA,2
+2018,11,3,Maryland,Michigan St.,H,3,24,NA,2
+2018,9,22,Maryland,Minnesota,H,42,13,NA,2
+2018,11,17,Maryland,Ohio St.,H,51,52,1,2
+2018,11,24,Maryland,Penn St.,V,3,38,NA,2
+2018,10,13,Maryland,Rutgers,H,34,7,NA,2
+2018,9,15,Maryland,Temple,H,14,35,NA,2
+2018,8,31,Maryland,Texas,H,34,29,NA,2
+2018,9,22,McNeese,BYU,V,3,30,NA,2
+2018,11,3,Memphis,East Carolina,V,59,41,NA,2
+2018,9,15,Memphis,Georgia St.,H,59,22,NA,2
+2018,11,23,Memphis,Houston,H,52,31,NA,2
+2018,8,31,Memphis,Mercer,H,66,14,NA,2
+2018,10,20,Memphis,Missouri,V,33,65,NA,2
+2018,9,8,Memphis,Navy,V,21,22,NA,2
+2018,11,17,Memphis,SMU,V,28,18,NA,2
+2018,9,23,Memphis,South Ala.,H,52,35,NA,2
+2018,9,29,Memphis,Tulane,V,24,40,NA,2
+2018,11,10,Memphis,Tulsa,H,47,21,NA,2
+2018,10,13,Memphis,UCF,H,30,31,NA,2
+2018,12,1,Memphis,UCF,V,41,56,NA,2
+2018,10,7,Memphis,UConn,H,55,14,NA,2
+2018,8,31,Mercer,Memphis,V,14,66,NA,2
+2018,10,27,Miami (FL),Boston College,V,14,27,NA,2
+2018,11,3,Miami (FL),Duke,H,12,20,NA,2
+2018,9,22,Miami (FL),FIU,H,31,17,NA,2
+2018,10,6,Miami (FL),Florida St.,H,28,27,NA,2
+2018,11,11,Miami (FL),Georgia Tech,V,21,27,NA,2
+2018,8,31,Miami (FL),LSU,V,17,33,NA,2
+2018,9,28,Miami (FL),North Carolina,H,47,10,NA,2
+2018,11,24,Miami (FL),Pittsburgh,H,24,3,NA,2
+2018,9,8,Miami (FL),Savannah St.,H,77,0,NA,2
+2018,9,15,Miami (FL),Toledo,V,49,24,NA,2
+2018,10,14,Miami (FL),Virginia,V,13,16,NA,2
+2018,11,17,Miami (FL),Virginia Tech,V,38,14,NA,2
+2018,10,6,Miami (OH),Akron,V,41,17,NA,2
+2018,10,20,Miami (OH),Army West Point,V,30,31,2,2
+2018,11,21,Miami (OH),Ball St.,H,42,21,NA,2
+2018,9,22,Miami (OH),Bowling Green,V,38,23,NA,2
+2018,10,31,Miami (OH),Buffalo,V,42,51,NA,2
+2018,9,9,Miami (OH),Cincinnati,H,0,21,NA,2
+2018,10,13,Miami (OH),Kent St.,H,31,6,NA,2
+2018,8,31,Miami (OH),Marshall,H,28,35,NA,2
+2018,9,15,Miami (OH),Minnesota,V,3,26,NA,2
+2018,11,15,Miami (OH),Northern Ill.,V,13,7,NA,2
+2018,11,8,Miami (OH),Ohio,H,30,28,NA,2
+2018,9,29,Miami (OH),Western Mich.,H,39,40,NA,2
+2018,11,17,Michigan,Indiana,H,31,20,NA,2
+2018,10,6,Michigan,Maryland,H,42,21,NA,2
+2018,10,20,Michigan,Michigan St.,V,21,7,NA,2
+2018,9,22,Michigan,Nebraska,H,56,10,NA,2
+2018,9,29,Michigan,Northwestern,V,20,17,NA,2
+2018,8,31,Michigan,Notre Dame,V,17,24,NA,2
+2018,11,24,Michigan,Ohio St.,V,39,62,NA,2
+2018,11,3,Michigan,Penn St.,H,42,7,NA,2
+2018,11,10,Michigan,Rutgers,V,42,7,NA,2
+2018,9,15,Michigan,SMU,H,45,20,NA,2
+2018,9,8,Michigan,Western Mich.,H,49,3,NA,2
+2018,10,14,Michigan,Wisconsin,H,38,13,NA,2
+2018,9,9,Michigan St.,Arizona St.,V,13,16,NA,2
+2018,9,29,Michigan St.,Central Mich.,H,31,20,NA,2
+2018,9,23,Michigan St.,Indiana,V,35,21,NA,2
+2018,11,3,Michigan St.,Maryland,V,24,3,NA,2
+2018,10,20,Michigan St.,Michigan,H,7,21,NA,2
+2018,11,17,Michigan St.,Nebraska,V,6,9,NA,2
+2018,10,6,Michigan St.,Northwestern,H,19,29,NA,2
+2018,11,10,Michigan St.,Ohio St.,H,6,26,NA,2
+2018,10,13,Michigan St.,Penn St.,V,21,17,NA,2
+2018,10,27,Michigan St.,Purdue,H,23,13,NA,2
+2018,11,24,Michigan St.,Rutgers,H,14,10,NA,2
+2018,8,31,Michigan St.,Utah St.,H,38,31,NA,2
+2018,10,20,Middle Tenn.,Charlotte,H,21,13,NA,2
+2018,10,14,Middle Tenn.,FIU,V,21,24,NA,2
+2018,9,30,Middle Tenn.,Fla. Atlantic,H,25,24,NA,2
+2018,9,15,Middle Tenn.,Georgia,V,7,49,NA,2
+2018,11,17,Middle Tenn.,Kentucky,V,23,34,NA,2
+2018,10,6,Middle Tenn.,Marshall,V,34,24,NA,2
+2018,10,27,Middle Tenn.,Old Dominion,V,51,17,NA,2
+2018,9,9,Middle Tenn.,UT Martin,H,61,37,NA,2
+2018,11,10,Middle Tenn.,UTEP,V,48,32,NA,2
+2018,8,31,Middle Tenn.,Vanderbilt,V,7,35,NA,2
+2018,11,3,Middle Tenn.,Western Ky.,H,29,10,NA,2
+2018,9,9,Minnesota,Fresno St.,H,21,14,NA,2
+2018,11,3,Minnesota,Illinois,V,31,55,NA,2
+2018,10,27,Minnesota,Indiana,H,38,31,NA,2
+2018,10,6,Minnesota,Iowa,H,31,48,NA,2
+2018,9,22,Minnesota,Maryland,V,13,42,NA,2
+2018,9,15,Minnesota,Miami (OH),H,26,3,NA,2
+2018,10,20,Minnesota,Nebraska,V,28,53,NA,2
+2018,8,31,Minnesota,New Mexico St.,H,48,10,NA,2
+2018,11,17,Minnesota,Northwestern,H,14,24,NA,2
+2018,10,13,Minnesota,Ohio St.,V,14,30,NA,2
+2018,11,10,Minnesota,Purdue,H,41,10,NA,2
+2018,11,24,Minnesota,Wisconsin,V,37,15,NA,2
+2018,11,10,Mississippi St.,Alabama,V,0,24,NA,2
+2018,11,17,Mississippi St.,Arkansas,H,52,6,NA,2
+2018,10,7,Mississippi St.,Auburn,H,23,9,NA,2
+2018,9,29,Mississippi St.,Florida,H,6,13,NA,2
+2018,9,8,Mississippi St.,Kansas St.,V,31,10,NA,2
+2018,9,23,Mississippi St.,Kentucky,V,7,28,NA,2
+2018,9,16,Mississippi St.,Louisiana,H,56,10,NA,2
+2018,11,3,Mississippi St.,Louisiana Tech,H,45,3,NA,2
+2018,10,21,Mississippi St.,LSU,V,3,19,NA,2
+2018,11,23,Mississippi St.,Ole Miss,V,35,3,NA,2
+2018,8,31,Mississippi St.,SFA,H,63,6,NA,2
+2018,10,28,Mississippi St.,Texas A&M,H,28,13,NA,2
+2018,10,14,Missouri,Alabama,V,10,39,NA,2
+2018,11,23,Missouri,Arkansas,H,38,0,NA,2
+2018,11,3,Missouri,Florida,V,38,17,NA,2
+2018,9,22,Missouri,Georgia,H,29,43,NA,2
+2018,10,27,Missouri,Kentucky,H,14,15,NA,2
+2018,10,20,Missouri,Memphis,H,65,33,NA,2
+2018,9,16,Missouri,Purdue,V,40,37,NA,2
+2018,11,17,Missouri,Tennessee,V,50,17,NA,2
+2018,8,31,Missouri,UT Martin,H,51,14,NA,2
+2018,11,10,Missouri,Vanderbilt,H,33,28,NA,2
+2018,9,9,Missouri,Wyoming,H,40,13,NA,2
+2018,8,31,Missouri St.,Oklahoma St.,V,17,58,NA,2
+2018,8,31,Monmouth,Eastern Mich.,V,17,51,NA,2
+2018,9,8,Morgan St.,Akron,V,7,41,NA,2
+2018,9,15,Murray St.,Kentucky,V,10,48,NA,2
+2018,8,31,N.C. A&T,East Carolina,V,28,23,NA,2
+2018,9,22,N.C. Central,Duke,V,13,55,NA,2
+2018,10,6,Navy,Air Force,V,7,35,NA,2
+2018,12,8,Navy,Army West Point,V,10,17,NA,2
+2018,11,3,Navy,Cincinnati,V,0,42,NA,2
+2018,8,31,Navy,Hawaii,V,41,59,NA,2
+2018,10,20,Navy,Houston,H,36,49,NA,2
+2018,9,15,Navy,Lehigh,H,51,21,NA,2
+2018,9,8,Navy,Memphis,H,22,21,NA,2
+2018,10,28,Navy,Notre Dame,H,22,44,NA,2
+2018,9,22,Navy,SMU,V,30,31,1,2
+2018,10,13,Navy,Temple,H,17,24,NA,2
+2018,11,24,Navy,Tulane,V,28,29,NA,2
+2018,11,17,Navy,Tulsa,H,37,29,NA,2
+2018,11,10,Navy,UCF,V,24,35,NA,2
+2018,10,27,Nebraska,Bethune-Cookman,H,45,9,NA,2
+2018,9,8,Nebraska,Colorado,H,28,33,NA,2
+2018,11,10,Nebraska,Illinois,H,54,35,NA,2
+2018,11,23,Nebraska,Iowa,V,28,31,NA,2
+2018,9,22,Nebraska,Michigan,V,10,56,NA,2
+2018,11,17,Nebraska,Michigan St.,H,9,6,NA,2
+2018,10,20,Nebraska,Minnesota,H,53,28,NA,2
+2018,10,13,Nebraska,Northwestern,V,31,34,1,2
+2018,11,3,Nebraska,Ohio St.,V,31,36,NA,2
+2018,9,29,Nebraska,Purdue,H,28,42,NA,2
+2018,9,15,Nebraska,Troy,H,19,24,NA,2
+2018,10,7,Nebraska,Wisconsin,V,24,41,NA,2
+2018,9,29,Nevada,Air Force,V,28,25,NA,2
+2018,10,14,Nevada,Boise St.,H,27,31,NA,2
+2018,11,11,Nevada,Colorado St.,H,49,10,NA,2
+2018,10,7,Nevada,Fresno St.,H,3,21,NA,2
+2018,10,21,Nevada,Hawaii,V,40,22,NA,2
+2018,9,16,Nevada,Oregon St.,H,37,35,NA,2
+2018,8,31,Nevada,Portland St.,H,72,19,NA,2
+2018,11,17,Nevada,San Jose St.,V,21,12,NA,2
+2018,10,28,Nevada,South Dakota St.,H,28,24,NA,2
+2018,9,22,Nevada,Toledo,V,44,63,NA,2
+2018,11,25,Nevada,UNLV,V,29,34,NA,2
+2018,9,8,Nevada,Vanderbilt,V,10,41,NA,2
+2018,9,15,New Hampshire,Colorado,V,14,45,NA,2
+2018,11,10,New Mexico,Air Force,V,24,42,NA,2
+2018,11,17,New Mexico,Boise St.,H,14,45,NA,2
+2018,10,13,New Mexico,Colorado St.,V,18,20,NA,2
+2018,10,21,New Mexico,Fresno St.,H,7,38,NA,2
+2018,8,31,New Mexico,Incarnate Word,H,62,30,NA,2
+2018,9,29,New Mexico,Liberty,H,43,52,NA,2
+2018,9,16,New Mexico,New Mexico St.,V,42,25,NA,2
+2018,11,4,New Mexico,South Dakota St.,H,23,31,NA,2
+2018,10,6,New Mexico,UNLV,V,50,14,NA,2
+2018,10,27,New Mexico,Utah St.,V,19,61,NA,2
+2018,9,8,New Mexico,Wisconsin,V,14,45,NA,2
+2018,11,24,New Mexico,Wyoming,H,3,31,NA,2
+2018,11,3,New Mexico St.,Alcorn,H,52,42,NA,2
+2018,11,18,New Mexico St.,BYU,V,10,45,NA,2
+2018,10,20,New Mexico St.,Ga. Southern,H,31,48,NA,2
+2018,10,7,New Mexico St.,Liberty,H,49,41,NA,2
+2018,11,24,New Mexico St.,Liberty,V,21,28,NA,2
+2018,10,13,New Mexico St.,Louisiana,V,38,66,NA,2
+2018,8,31,New Mexico St.,Minnesota,V,10,48,NA,2
+2018,9,16,New Mexico St.,New Mexico,H,25,42,NA,2
+2018,10,28,New Mexico St.,Texas St.,V,20,27,NA,2
+2018,9,9,New Mexico St.,Utah St.,V,13,60,NA,2
+2018,9,23,New Mexico St.,UTEP,V,27,20,NA,2
+2018,8,26,New Mexico St.,Wyoming,H,7,29,NA,2
+2018,8,31,Nicholls St.,Kansas,V,26,23,1,2
+2018,9,9,Nicholls St.,Tulane,V,17,42,NA,2
+2018,12,1,Norfolk St.,Liberty,V,17,52,NA,2
+2018,8,31,North Carolina,California,V,17,24,NA,2
+2018,11,10,North Carolina,Duke,V,35,42,NA,2
+2018,9,8,North Carolina,East Carolina,V,19,41,NA,2
+2018,11,3,North Carolina,Georgia Tech,H,28,38,NA,2
+2018,9,28,North Carolina,Miami (FL),V,10,47,NA,2
+2018,11,24,North Carolina,North Carolina St.,H,28,34,1,2
+2018,9,22,North Carolina,Pittsburgh,H,38,35,NA,2
+2018,10,20,North Carolina,Syracuse,V,37,40,2,2
+2018,10,27,North Carolina,Virginia,V,21,31,NA,2
+2018,10,14,North Carolina,Virginia Tech,H,19,22,NA,2
+2018,11,17,North Carolina,Western Caro.,H,49,26,NA,2
+2018,10,6,North Carolina St.,Boston College,H,28,23,NA,2
+2018,10,20,North Carolina St.,Clemson,V,7,41,NA,2
+2018,12,1,North Carolina St.,East Carolina,H,58,3,NA,2
+2018,11,3,North Carolina St.,Florida St.,H,47,28,NA,2
+2018,9,8,North Carolina St.,Georgia St.,H,41,7,NA,2
+2018,8,31,North Carolina St.,James Madison,H,24,13,NA,2
+2018,11,17,North Carolina St.,Louisville,V,52,10,NA,2
+2018,9,23,North Carolina St.,Marshall,V,37,20,NA,2
+2018,11,24,North Carolina St.,North Carolina,V,34,28,1,2
+2018,10,28,North Carolina St.,Syracuse,V,41,51,NA,2
+2018,9,29,North Carolina St.,Virginia,H,35,21,NA,2
+2018,11,9,North Carolina St.,Wake Forest,H,23,27,NA,2
+2018,9,8,North Dakota,Washington,V,3,45,NA,2
+2018,9,15,North Texas,Arkansas,V,44,17,NA,2
+2018,11,16,North Texas,Fla. Atlantic,H,41,38,NA,2
+2018,9,9,North Texas,Incarnate Word,H,58,16,NA,2
+2018,9,22,North Texas,Liberty,V,47,7,NA,2
+2018,9,30,North Texas,Louisiana Tech,H,27,29,NA,2
+2018,11,10,North Texas,Old Dominion,V,31,34,NA,2
+2018,10,27,North Texas,Rice,H,41,17,NA,2
+2018,8,31,North Texas,SMU,H,46,23,NA,2
+2018,10,13,North Texas,Southern Miss.,H,30,7,NA,2
+2018,10,7,North Texas,UTEP,V,27,24,NA,2
+2018,11,25,North Texas,UTSA,V,24,21,NA,2
+2018,8,31,Northern Ariz.,UTEP,V,30,10,NA,2
+2018,11,1,Northern Ill.,Akron,V,36,26,NA,2
+2018,10,6,Northern Ill.,Ball St.,V,24,16,NA,2
+2018,12,1,Northern Ill.,Buffalo,V,30,29,NA,2
+2018,10,27,Northern Ill.,BYU,V,7,6,NA,2
+2018,9,15,Northern Ill.,Central Mich.,H,24,16,NA,2
+2018,9,29,Northern Ill.,Eastern Mich.,V,26,23,3,2
+2018,9,22,Northern Ill.,Florida St.,V,19,37,NA,2
+2018,8,31,Northern Ill.,Iowa,V,7,33,NA,2
+2018,11,15,Northern Ill.,Miami (OH),H,7,13,NA,2
+2018,10,13,Northern Ill.,Ohio,H,24,21,NA,2
+2018,11,8,Northern Ill.,Toledo,H,38,15,NA,2
+2018,9,9,Northern Ill.,Utah,H,6,17,NA,2
+2018,11,21,Northern Ill.,Western Mich.,V,21,28,NA,2
+2018,9,16,Northwestern,Akron,H,34,39,NA,2
+2018,9,8,Northwestern,Duke,H,7,21,NA,2
+2018,11,24,Northwestern,Illinois,H,24,16,NA,2
+2018,11,10,Northwestern,Iowa,V,14,10,NA,2
+2018,9,29,Northwestern,Michigan,H,17,20,NA,2
+2018,10,6,Northwestern,Michigan St.,V,29,19,NA,2
+2018,11,17,Northwestern,Minnesota,V,24,14,NA,2
+2018,10,13,Northwestern,Nebraska,H,34,31,1,2
+2018,11,3,Northwestern,Notre Dame,H,21,31,NA,2
+2018,12,2,Northwestern,Ohio St.,V,24,45,NA,2
+2018,8,31,Northwestern,Purdue,V,31,27,NA,2
+2018,10,20,Northwestern,Rutgers,V,18,15,NA,2
+2018,10,27,Northwestern,Wisconsin,H,31,17,NA,2
+2018,8,31,Northwestern St.,Texas A&M,V,7,59,NA,2
+2018,9,8,Notre Dame,Ball St.,H,24,16,NA,2
+2018,11,11,Notre Dame,Florida St.,H,42,13,NA,2
+2018,8,31,Notre Dame,Michigan,H,24,17,NA,2
+2018,10,28,Notre Dame,Navy,V,44,22,NA,2
+2018,11,3,Notre Dame,Northwestern,V,31,21,NA,2
+2018,10,13,Notre Dame,Pittsburgh,H,19,14,NA,2
+2018,11,25,Notre Dame,South Carolina,V,24,17,NA,2
+2018,9,30,Notre Dame,Stanford,H,38,17,NA,2
+2018,11,17,Notre Dame,Syracuse,H,36,3,NA,2
+2018,9,15,Notre Dame,Vanderbilt,H,22,17,NA,2
+2018,10,7,Notre Dame,Virginia Tech,V,45,23,NA,2
+2018,9,22,Notre Dame,Wake Forest,V,56,27,NA,2
+2018,11,23,Ohio,Akron,H,49,28,NA,2
+2018,10,26,Ohio,Ball St.,H,52,14,NA,2
+2018,10,20,Ohio,Bowling Green,H,49,14,NA,2
+2018,11,15,Ohio,Buffalo,H,52,17,NA,2
+2018,9,22,Ohio,Cincinnati,V,30,34,NA,2
+2018,8,31,Ohio,Howard,H,38,32,NA,2
+2018,10,6,Ohio,Kent St.,V,27,26,NA,2
+2018,11,8,Ohio,Miami (OH),V,28,30,NA,2
+2018,10,13,Ohio,Northern Ill.,V,21,24,NA,2
+2018,9,15,Ohio,Virginia,V,31,45,NA,2
+2018,11,1,Ohio,Western Mich.,V,59,14,NA,2
+2018,10,6,Ohio St.,Indiana,H,49,26,NA,2
+2018,11,17,Ohio St.,Maryland,V,52,51,1,2
+2018,11,24,Ohio St.,Michigan,H,62,39,NA,2
+2018,11,10,Ohio St.,Michigan St.,V,26,6,NA,2
+2018,10,13,Ohio St.,Minnesota,H,30,14,NA,2
+2018,11,3,Ohio St.,Nebraska,H,36,31,NA,2
+2018,12,2,Ohio St.,Northwestern,H,45,24,NA,2
+2018,8,31,Ohio St.,Oregon St.,H,77,31,NA,2
+2018,9,30,Ohio St.,Penn St.,V,27,26,NA,2
+2018,10,21,Ohio St.,Purdue,V,20,49,NA,2
+2018,9,8,Ohio St.,Rutgers,H,52,3,NA,2
+2018,9,16,Ohio St.,TCU,V,40,28,NA,2
+2018,9,22,Ohio St.,Tulane,H,49,6,NA,2
+2018,9,23,Oklahoma,Army West Point,H,28,21,1,2
+2018,9,29,Oklahoma,Baylor,H,66,33,NA,2
+2018,8,31,Oklahoma,Fla. Atlantic,H,63,14,NA,2
+2018,9,15,Oklahoma,Iowa St.,V,37,27,NA,2
+2018,11,18,Oklahoma,Kansas,H,55,40,NA,2
+2018,10,27,Oklahoma,Kansas St.,H,51,14,NA,2
+2018,11,10,Oklahoma,Oklahoma St.,H,48,47,NA,2
+2018,10,20,Oklahoma,TCU,V,52,27,NA,2
+2018,10,6,Oklahoma,Texas,H,45,48,NA,2
+2018,12,1,Oklahoma,Texas,H,39,27,NA,2
+2018,11,4,Oklahoma,Texas Tech,V,51,46,NA,2
+2018,9,8,Oklahoma,UCLA,H,49,21,NA,2
+2018,11,24,Oklahoma,West Virginia,V,59,56,NA,2
+2018,11,3,Oklahoma St.,Baylor,V,31,35,NA,2
+2018,9,15,Oklahoma St.,Boise St.,H,44,21,NA,2
+2018,10,6,Oklahoma St.,Iowa St.,H,42,48,NA,2
+2018,9,29,Oklahoma St.,Kansas,V,48,28,NA,2
+2018,10,13,Oklahoma St.,Kansas St.,V,12,31,NA,2
+2018,8,31,Oklahoma St.,Missouri St.,H,58,17,NA,2
+2018,11,10,Oklahoma St.,Oklahoma,V,47,48,NA,2
+2018,9,9,Oklahoma St.,South Ala.,H,55,13,NA,2
+2018,11,25,Oklahoma St.,TCU,V,24,31,NA,2
+2018,10,28,Oklahoma St.,Texas,H,38,35,NA,2
+2018,9,23,Oklahoma St.,Texas Tech,H,17,41,NA,2
+2018,11,17,Oklahoma St.,West Virginia,H,45,41,NA,2
+2018,9,13,Old Dominion,Charlotte,V,25,28,NA,2
+2018,9,29,Old Dominion,East Carolina,V,35,37,NA,2
+2018,9,9,Old Dominion,FIU,H,20,28,NA,2
+2018,10,6,Old Dominion,Fla. Atlantic,V,33,52,NA,2
+2018,8,31,Old Dominion,Liberty,V,10,52,NA,2
+2018,10,13,Old Dominion,Marshall,H,20,42,NA,2
+2018,10,27,Old Dominion,Middle Tenn.,H,17,51,NA,2
+2018,11,10,Old Dominion,North Texas,H,34,31,NA,2
+2018,11,24,Old Dominion,Rice,V,13,27,NA,2
+2018,9,22,Old Dominion,Virginia Tech,H,49,35,NA,2
+2018,11,17,Old Dominion,VMI,H,77,14,NA,2
+2018,10,21,Old Dominion,Western Ky.,V,37,34,NA,2
+2018,9,16,Ole Miss,Alabama,H,7,62,NA,2
+2018,10,14,Ole Miss,Arkansas,V,37,33,NA,2
+2018,10,20,Ole Miss,Auburn,H,16,31,NA,2
+2018,9,22,Ole Miss,Kent St.,H,38,17,NA,2
+2018,10,6,Ole Miss,La.-Monroe,H,70,21,NA,2
+2018,9,30,Ole Miss,LSU,V,16,45,NA,2
+2018,11,23,Ole Miss,Mississippi St.,H,3,35,NA,2
+2018,9,8,Ole Miss,Southern Ill.,H,76,41,NA,2
+2018,11,10,Ole Miss,Texas A&M,V,24,38,NA,2
+2018,8,31,Ole Miss,Texas Tech,V,47,27,NA,2
+2018,11,18,Ole Miss,Vanderbilt,V,29,36,1,2
+2018,10,28,Oregon,Arizona,V,15,44,NA,2
+2018,11,18,Oregon,Arizona St.,H,31,29,NA,2
+2018,8,31,Oregon,Bowling Green,H,58,24,NA,2
+2018,9,30,Oregon,California,V,42,24,NA,2
+2018,11,23,Oregon,Oregon St.,V,55,15,NA,2
+2018,9,8,Oregon,Portland St.,H,62,14,NA,2
+2018,9,15,Oregon,San Jose St.,H,35,22,NA,2
+2018,9,23,Oregon,Stanford,H,31,38,1,2
+2018,11,3,Oregon,UCLA,H,42,21,NA,2
+2018,11,10,Oregon,Utah,V,25,32,NA,2
+2018,10,13,Oregon,Washington,H,30,27,1,2
+2018,10,21,Oregon,Washington St.,V,20,34,NA,2
+2018,9,22,Oregon St.,Arizona,H,14,35,NA,2
+2018,9,30,Oregon St.,Arizona St.,V,24,52,NA,2
+2018,10,20,Oregon St.,California,H,7,49,NA,2
+2018,10,27,Oregon St.,Colorado,V,41,34,1,2
+2018,9,16,Oregon St.,Nevada,V,35,37,NA,2
+2018,8,31,Oregon St.,Ohio St.,V,31,77,NA,2
+2018,11,23,Oregon St.,Oregon,H,15,55,NA,2
+2018,11,4,Oregon St.,South Carolina,H,21,38,NA,2
+2018,9,9,Oregon St.,Southern Utah,H,48,25,NA,2
+2018,11,11,Oregon St.,Stanford,V,17,48,NA,2
+2018,11,17,Oregon St.,Washington,V,23,42,NA,2
+2018,10,7,Oregon St.,Washington St.,H,37,56,NA,2
+2018,8,31,Penn St.,Appalachian St.,H,45,38,1,2
+2018,9,22,Penn St.,Illinois,V,63,24,NA,2
+2018,10,20,Penn St.,Indiana,V,33,28,NA,2
+2018,10,27,Penn St.,Iowa,H,30,24,NA,2
+2018,9,15,Penn St.,Kent St.,H,63,10,NA,2
+2018,11,24,Penn St.,Maryland,H,38,3,NA,2
+2018,11,3,Penn St.,Michigan,V,7,42,NA,2
+2018,10,13,Penn St.,Michigan St.,H,17,21,NA,2
+2018,9,30,Penn St.,Ohio St.,H,26,27,NA,2
+2018,9,9,Penn St.,Pittsburgh,V,51,6,NA,2
+2018,11,17,Penn St.,Rutgers,V,20,7,NA,2
+2018,11,10,Penn St.,Wisconsin,H,22,10,NA,2
+2018,8,31,Pittsburgh,Albany (NY),H,33,7,NA,2
+2018,12,2,Pittsburgh,Clemson,H,10,42,NA,2
+2018,10,27,Pittsburgh,Duke,H,54,45,NA,2
+2018,9,15,Pittsburgh,Georgia Tech,H,24,19,NA,2
+2018,11,24,Pittsburgh,Miami (FL),V,3,24,NA,2
+2018,9,22,Pittsburgh,North Carolina,V,35,38,NA,2
+2018,10,13,Pittsburgh,Notre Dame,V,14,19,NA,2
+2018,9,9,Pittsburgh,Penn St.,H,6,51,NA,2
+2018,10,6,Pittsburgh,Syracuse,H,44,37,1,2
+2018,9,29,Pittsburgh,UCF,V,14,45,NA,2
+2018,11,2,Pittsburgh,Virginia,V,23,13,NA,2
+2018,11,10,Pittsburgh,Virginia Tech,H,52,22,NA,2
+2018,11,17,Pittsburgh,Wake Forest,V,34,13,NA,2
+2018,8,31,Portland St.,Nevada,V,19,72,NA,2
+2018,9,8,Portland St.,Oregon,V,14,62,NA,2
+2018,8,26,Prairie View,Rice,V,28,31,NA,2
+2018,9,16,Prairie View,UNLV,V,17,46,NA,2
+2018,9,22,Purdue,Boston College,H,30,13,NA,2
+2018,9,8,Purdue,Eastern Mich.,H,19,20,NA,2
+2018,10,13,Purdue,Illinois,V,46,7,NA,2
+2018,11,24,Purdue,Indiana,V,28,21,NA,2
+2018,11,3,Purdue,Iowa,H,38,36,NA,2
+2018,10,27,Purdue,Michigan St.,V,13,23,NA,2
+2018,11,10,Purdue,Minnesota,V,10,41,NA,2
+2018,9,16,Purdue,Missouri,H,37,40,NA,2
+2018,9,29,Purdue,Nebraska,V,42,28,NA,2
+2018,8,31,Purdue,Northwestern,H,27,31,NA,2
+2018,10,21,Purdue,Ohio St.,H,49,20,NA,2
+2018,11,17,Purdue,Wisconsin,H,44,47,3,2
+2018,9,15,Rhode Island,UConn,V,49,56,NA,2
+2018,10,21,Rice,FIU,V,17,36,NA,2
+2018,9,9,Rice,Hawaii,V,29,43,NA,2
+2018,8,31,Rice,Houston,H,27,45,NA,2
+2018,11,11,Rice,Louisiana Tech,V,13,28,NA,2
+2018,11,18,Rice,LSU,V,10,42,NA,2
+2018,10,27,Rice,North Texas,V,17,41,NA,2
+2018,11,24,Rice,Old Dominion,H,27,13,NA,2
+2018,8,26,Rice,Prairie View,H,31,28,NA,2
+2018,9,23,Rice,Southern Miss.,V,22,40,NA,2
+2018,11,3,Rice,UTEP,H,26,34,NA,2
+2018,10,7,Rice,UTSA,H,3,20,NA,2
+2018,9,29,Rice,Wake Forest,V,24,56,NA,2
+2018,8,31,Richmond,Virginia,V,13,42,NA,2
+2018,9,22,Rutgers,Buffalo,H,13,42,NA,2
+2018,10,6,Rutgers,Illinois,H,17,38,NA,2
+2018,9,29,Rutgers,Indiana,H,17,24,NA,2
+2018,9,15,Rutgers,Kansas,V,14,55,NA,2
+2018,10,13,Rutgers,Maryland,V,7,34,NA,2
+2018,11,10,Rutgers,Michigan,H,7,42,NA,2
+2018,11,24,Rutgers,Michigan St.,V,10,14,NA,2
+2018,10,20,Rutgers,Northwestern,H,15,18,NA,2
+2018,9,8,Rutgers,Ohio St.,V,3,52,NA,2
+2018,11,17,Rutgers,Penn St.,H,7,20,NA,2
+2018,8,31,Rutgers,Texas St.,H,35,7,NA,2
+2018,11,3,Rutgers,Wisconsin,V,17,31,NA,2
+2018,9,9,Sacramento St.,South Dakota St.,V,14,28,NA,2
+2018,9,9,Samford,Florida St.,V,26,36,NA,2
+2018,10,13,San Jose St.,Army West Point,H,3,52,NA,2
+2018,10,7,San Jose St.,Colorado St.,H,30,42,NA,2
+2018,11,25,San Jose St.,Fresno St.,V,13,31,NA,2
+2018,9,30,San Jose St.,Hawaii,H,41,44,5,2
+2018,11,17,San Jose St.,Nevada,H,12,21,NA,2
+2018,9,15,San Jose St.,Oregon,V,22,35,NA,2
+2018,10,21,San Jose St.,South Dakota St.,V,13,16,NA,2
+2018,8,31,San Jose St.,UC Davis,H,38,44,NA,2
+2018,10,27,San Jose St.,UNLV,H,50,37,NA,2
+2018,11,10,San Jose St.,Utah St.,V,24,62,NA,2
+2018,9,9,San Jose St.,Washington St.,V,0,31,NA,2
+2018,11,3,San Jose St.,Wyoming,V,9,24,NA,2
+2018,9,8,Savannah St.,Miami (FL),V,0,77,NA,2
+2018,8,31,SFA,Mississippi St.,V,6,63,NA,2
+2018,10,27,SMU,Cincinnati,H,20,26,1,2
+2018,11,3,SMU,Houston,H,45,31,NA,2
+2018,9,30,SMU,Houston Baptist,H,63,27,NA,2
+2018,11,17,SMU,Memphis,H,18,28,NA,2
+2018,9,15,SMU,Michigan,V,20,45,NA,2
+2018,9,22,SMU,Navy,H,31,30,1,2
+2018,8,31,SMU,North Texas,V,23,46,NA,2
+2018,9,8,SMU,TCU,H,12,42,NA,2
+2018,10,20,SMU,Tulane,V,27,23,NA,2
+2018,11,24,SMU,Tulsa,V,24,27,NA,2
+2018,10,7,SMU,UCF,V,20,48,NA,2
+2018,11,10,SMU,UConn,V,62,50,NA,2
+2018,10,13,South Ala.,Alabama St.,H,45,7,NA,2
+2018,9,29,South Ala.,Appalachian St.,V,7,52,NA,2
+2018,11,3,South Ala.,Arkansas St.,V,14,38,NA,2
+2018,11,23,South Ala.,Coastal Carolina,H,31,28,NA,2
+2018,10,6,South Ala.,Ga. Southern,V,13,48,NA,2
+2018,11,10,South Ala.,La.-Monroe,H,10,38,NA,2
+2018,11,17,South Ala.,Louisiana,V,38,48,NA,2
+2018,8,31,South Ala.,Louisiana Tech,H,26,30,NA,2
+2018,9,23,South Ala.,Memphis,V,35,52,NA,2
+2018,9,9,South Ala.,Oklahoma St.,V,13,55,NA,2
+2018,9,16,South Ala.,Texas St.,H,41,31,NA,2
+2018,10,24,South Ala.,Troy,H,17,38,NA,2
+2018,9,30,South Carolina,Arizona,V,24,20,NA,2
+2018,10,27,South Carolina,Arizona St.,H,35,38,NA,2
+2018,11,11,South Carolina,California,H,14,15,NA,2
+2018,10,14,South Carolina,Colorado,H,31,20,NA,2
+2018,11,25,South Carolina,Notre Dame,H,17,24,NA,2
+2018,11,4,South Carolina,Oregon St.,V,38,21,NA,2
+2018,9,9,South Carolina,Stanford,V,3,17,NA,2
+2018,9,16,South Carolina,Texas,V,14,37,NA,2
+2018,11,17,South Carolina,UCLA,V,27,34,NA,2
+2018,8,31,South Carolina,UNLV,H,43,21,NA,2
+2018,10,21,South Carolina,Utah,V,28,41,NA,2
+2018,9,22,South Carolina,Washington St.,H,39,36,NA,2
+2018,8,31,South Carolina St.,Ga. Southern,V,6,37,NA,2
+2018,9,8,South Carolina St.,UCF,V,0,38,NA,2
+2018,8,31,South Dakota,Kansas St.,V,24,27,NA,2
+2018,10,13,South Dakota St.,Air Force,H,21,17,NA,2
+2018,9,16,South Dakota St.,Arizona St.,H,28,21,NA,2
+2018,10,6,South Dakota St.,Boise St.,V,19,13,NA,2
+2018,9,23,South Dakota St.,Eastern Mich.,H,23,20,1,2
+2018,11,18,South Dakota St.,Fresno St.,V,14,23,NA,2
+2018,11,25,South Dakota St.,Hawaii,H,30,31,1,2
+2018,10,28,South Dakota St.,Nevada,V,24,28,NA,2
+2018,11,4,South Dakota St.,New Mexico,V,31,23,NA,2
+2018,9,9,South Dakota St.,Sacramento St.,H,28,14,NA,2
+2018,10,21,South Dakota St.,San Jose St.,H,16,13,NA,2
+2018,8,31,South Dakota St.,Stanford,V,10,31,NA,2
+2018,11,11,South Dakota St.,UNLV,H,24,27,NA,2
+2018,11,11,South Fla.,Cincinnati,V,23,35,NA,2
+2018,9,23,South Fla.,East Carolina,H,20,13,NA,2
+2018,8,31,South Fla.,Elon,H,34,14,NA,2
+2018,9,8,South Fla.,Georgia Tech,H,49,38,NA,2
+2018,10,27,South Fla.,Houston,V,36,57,NA,2
+2018,9,15,South Fla.,Illinois,V,25,19,NA,2
+2018,11,17,South Fla.,Temple,V,17,27,NA,2
+2018,11,3,South Fla.,Tulane,H,15,41,NA,2
+2018,10,13,South Fla.,Tulsa,V,25,24,NA,2
+2018,11,23,South Fla.,UCF,H,10,38,NA,2
+2018,10,21,South Fla.,UConn,H,38,30,NA,2
+2018,8,31,Southeast Mo. St.,Arkansas St.,V,21,48,NA,2
+2018,8,31,Southeastern La.,La.-Monroe,V,31,34,NA,2
+2018,9,9,Southeastern La.,LSU,V,0,31,NA,2
+2018,9,8,Southern Ill.,Ole Miss,V,41,76,NA,2
+2018,9,29,Southern Miss.,Auburn,V,13,24,NA,2
+2018,10,27,Southern Miss.,Charlotte,V,17,20,NA,2
+2018,8,31,Southern Miss.,Jackson St.,H,55,7,NA,2
+2018,9,9,Southern Miss.,La.-Monroe,H,20,21,NA,2
+2018,11,17,Southern Miss.,Louisiana Tech,H,21,20,NA,2
+2018,11,3,Southern Miss.,Marshall,H,26,24,NA,2
+2018,10,13,Southern Miss.,North Texas,V,7,30,NA,2
+2018,9,23,Southern Miss.,Rice,H,40,22,NA,2
+2018,11,24,Southern Miss.,UTEP,V,39,7,NA,2
+2018,10,21,Southern Miss.,UTSA,H,27,17,NA,2
+2018,9,9,Southern U.,Louisiana Tech,V,17,54,NA,2
+2018,8,31,Southern U.,TCU,V,7,55,NA,2
+2018,9,16,Southern Utah,Arizona,V,31,62,NA,2
+2018,9,9,Southern Utah,Oregon St.,V,25,48,NA,2
+2018,10,19,Stanford,Arizona St.,V,20,13,NA,2
+2018,12,1,Stanford,California,V,23,13,NA,2
+2018,9,30,Stanford,Notre Dame,V,17,38,NA,2
+2018,9,23,Stanford,Oregon,V,38,31,1,2
+2018,11,11,Stanford,Oregon St.,H,48,17,NA,2
+2018,9,9,Stanford,South Carolina,H,17,3,NA,2
+2018,8,31,Stanford,South Dakota St.,H,31,10,NA,2
+2018,9,15,Stanford,UC Davis,H,30,10,NA,2
+2018,11,24,Stanford,UCLA,V,49,42,NA,2
+2018,10,7,Stanford,Utah,H,21,40,NA,2
+2018,11,4,Stanford,Washington,V,23,27,NA,2
+2018,10,28,Stanford,Washington St.,H,38,41,NA,2
+2018,8,31,Stony Brook,Air Force,V,0,38,NA,2
+2018,11,24,Syracuse,Boston College,V,42,21,NA,2
+2018,9,29,Syracuse,Clemson,V,23,27,NA,2
+2018,9,15,Syracuse,Florida St.,H,30,7,NA,2
+2018,11,10,Syracuse,Louisville,H,54,23,NA,2
+2018,10,20,Syracuse,North Carolina,H,40,37,2,2
+2018,10,28,Syracuse,North Carolina St.,H,51,41,NA,2
+2018,11,17,Syracuse,Notre Dame,V,3,36,NA,2
+2018,10,6,Syracuse,Pittsburgh,V,37,44,1,2
+2018,9,22,Syracuse,UConn,H,51,21,NA,2
+2018,9,8,Syracuse,Wagner,H,62,10,NA,2
+2018,11,3,Syracuse,Wake Forest,V,41,24,NA,2
+2018,8,31,Syracuse,Western Mich.,V,55,42,NA,2
+2018,11,17,TCU,Baylor,V,16,9,NA,2
+2018,9,30,TCU,Iowa St.,H,17,14,NA,2
+2018,10,27,TCU,Kansas,V,26,27,NA,2
+2018,11,3,TCU,Kansas St.,H,14,13,NA,2
+2018,9,16,TCU,Ohio St.,H,28,40,NA,2
+2018,10,20,TCU,Oklahoma,H,27,52,NA,2
+2018,11,25,TCU,Oklahoma St.,H,31,24,NA,2
+2018,9,8,TCU,SMU,V,42,12,NA,2
+2018,8,31,TCU,Southern U.,H,55,7,NA,2
+2018,9,22,TCU,Texas,V,16,31,NA,2
+2018,10,12,TCU,Texas Tech,H,14,17,NA,2
+2018,11,10,TCU,West Virginia,V,10,47,NA,2
+2018,9,29,Temple,Boston College,V,35,45,NA,2
+2018,9,8,Temple,Buffalo,H,29,36,NA,2
+2018,10,20,Temple,Cincinnati,H,24,17,1,2
+2018,10,6,Temple,East Carolina,H,49,6,NA,2
+2018,11,11,Temple,Houston,V,59,49,NA,2
+2018,9,15,Temple,Maryland,V,35,14,NA,2
+2018,10,13,Temple,Navy,V,24,17,NA,2
+2018,11,17,Temple,South Fla.,H,27,17,NA,2
+2018,9,21,Temple,Tulsa,H,31,17,NA,2
+2018,11,1,Temple,UCF,V,40,52,NA,2
+2018,11,24,Temple,UConn,V,57,7,NA,2
+2018,8,31,Temple,Villanova,H,17,19,NA,2
+2018,10,20,Tennessee,Alabama,H,21,58,NA,2
+2018,10,13,Tennessee,Auburn,V,30,24,NA,2
+2018,11,3,Tennessee,Charlotte,H,14,3,NA,2
+2018,9,8,Tennessee,ETSU,H,59,3,NA,2
+2018,9,23,Tennessee,Florida,H,21,47,NA,2
+2018,9,29,Tennessee,Georgia,V,12,38,NA,2
+2018,11,10,Tennessee,Kentucky,H,24,7,NA,2
+2018,11,17,Tennessee,Missouri,H,17,50,NA,2
+2018,9,15,Tennessee,UTEP,H,24,0,NA,2
+2018,11,24,Tennessee,Vanderbilt,V,13,38,NA,2
+2018,8,31,Tennessee,West Virginia,H,14,40,NA,2
+2018,9,29,Tennessee St.,Vanderbilt,V,27,31,NA,2
+2018,9,14,Tennessee Tech,Utah St.,V,12,73,NA,2
+2018,10,13,Texas,Baylor,H,23,17,NA,2
+2018,11,18,Texas,Iowa St.,H,24,10,NA,2
+2018,11,23,Texas,Kansas,V,24,17,NA,2
+2018,9,29,Texas,Kansas St.,V,19,14,NA,2
+2018,8,31,Texas,Maryland,V,29,34,NA,2
+2018,10,6,Texas,Oklahoma,V,48,45,NA,2
+2018,12,1,Texas,Oklahoma,V,27,39,NA,2
+2018,10,28,Texas,Oklahoma St.,V,35,38,NA,2
+2018,9,16,Texas,South Carolina,H,37,14,NA,2
+2018,9,22,Texas,TCU,H,31,16,NA,2
+2018,11,11,Texas,Texas Tech,V,41,34,NA,2
+2018,9,9,Texas,Tulsa,H,28,21,NA,2
+2018,11,3,Texas,West Virginia,H,41,42,NA,2
+2018,9,22,Texas A&M,Alabama,V,23,45,NA,2
+2018,9,29,Texas A&M,Arkansas,H,24,17,NA,2
+2018,11,3,Texas A&M,Auburn,V,24,28,NA,2
+2018,9,9,Texas A&M,Clemson,H,26,28,NA,2
+2018,10,7,Texas A&M,Kentucky,H,20,14,1,2
+2018,9,16,Texas A&M,La.-Monroe,H,48,10,NA,2
+2018,11,25,Texas A&M,LSU,H,74,72,NA,2
+2018,10,28,Texas A&M,Mississippi St.,V,13,28,NA,2
+2018,8,31,Texas A&M,Northwestern St.,H,59,7,NA,2
+2018,11,10,Texas A&M,Ole Miss,H,38,24,NA,2
+2018,9,23,Texas Southern,Houston,V,14,70,NA,2
+2018,9,9,Texas Southern,Texas St.,V,20,36,NA,2
+2018,11,10,Texas St.,Appalachian St.,H,7,38,NA,2
+2018,11,24,Texas St.,Arkansas St.,H,7,33,NA,2
+2018,10,12,Texas St.,Ga. Southern,H,13,15,NA,2
+2018,11,3,Texas St.,Georgia St.,V,40,31,NA,2
+2018,10,21,Texas St.,La.-Monroe,V,14,20,NA,2
+2018,10,7,Texas St.,Louisiana,H,27,42,NA,2
+2018,10,28,Texas St.,New Mexico St.,H,27,20,NA,2
+2018,8,31,Texas St.,Rutgers,V,7,35,NA,2
+2018,9,16,Texas St.,South Ala.,V,31,41,NA,2
+2018,9,9,Texas St.,Texas Southern,H,36,20,NA,2
+2018,11,17,Texas St.,Troy,V,7,12,NA,2
+2018,9,23,Texas St.,UTSA,V,21,25,NA,2
+2018,11,24,Texas Tech,Baylor,H,24,35,NA,2
+2018,9,15,Texas Tech,Houston,H,63,49,NA,2
+2018,10,27,Texas Tech,Iowa St.,V,31,40,NA,2
+2018,10,20,Texas Tech,Kansas,H,48,16,NA,2
+2018,11,17,Texas Tech,Kansas St.,V,6,21,NA,2
+2018,9,8,Texas Tech,Lamar University,H,77,0,NA,2
+2018,11,4,Texas Tech,Oklahoma,H,46,51,NA,2
+2018,9,23,Texas Tech,Oklahoma St.,V,41,17,NA,2
+2018,8,31,Texas Tech,Ole Miss,H,27,47,NA,2
+2018,10,12,Texas Tech,TCU,V,17,14,NA,2
+2018,11,11,Texas Tech,Texas,H,34,41,NA,2
+2018,9,29,Texas Tech,West Virginia,H,34,42,NA,2
+2018,11,17,The Citadel,Alabama,V,17,50,NA,2
+2018,10,31,Toledo,Ball St.,H,45,13,NA,2
+2018,10,6,Toledo,Bowling Green,H,52,36,NA,2
+2018,10,20,Toledo,Buffalo,H,17,31,NA,2
+2018,11,23,Toledo,Central Mich.,H,51,13,NA,2
+2018,10,13,Toledo,Eastern Mich.,V,26,28,NA,2
+2018,9,30,Toledo,Fresno St.,V,27,49,NA,2
+2018,11,15,Toledo,Kent St.,V,56,34,NA,2
+2018,9,15,Toledo,Miami (FL),H,24,49,NA,2
+2018,9,22,Toledo,Nevada,H,63,44,NA,2
+2018,11,8,Toledo,Northern Ill.,V,15,38,NA,2
+2018,8,31,Toledo,VMI,H,66,3,NA,2
+2018,10,26,Toledo,Western Mich.,V,51,24,NA,2
+2018,9,8,Towson,Wake Forest,V,20,51,NA,2
+2018,11,24,Troy,Appalachian St.,V,10,21,NA,2
+2018,8,31,Troy,Boise St.,H,20,56,NA,2
+2018,9,29,Troy,Coastal Carolina,H,45,21,NA,2
+2018,9,9,Troy,Florida A&M,H,59,7,NA,2
+2018,11,10,Troy,Ga. Southern,V,35,21,NA,2
+2018,10,5,Troy,Georgia St.,H,37,20,NA,2
+2018,9,23,Troy,La.-Monroe,V,35,27,NA,2
+2018,10,13,Troy,Liberty,V,16,22,NA,2
+2018,11,3,Troy,Louisiana,H,26,16,NA,2
+2018,9,15,Troy,Nebraska,V,24,19,NA,2
+2018,10,24,Troy,South Ala.,V,38,17,NA,2
+2018,11,17,Troy,Texas St.,H,12,7,NA,2
+2018,10,6,Tulane,Cincinnati,V,21,37,NA,2
+2018,11,10,Tulane,East Carolina,H,24,18,NA,2
+2018,11,16,Tulane,Houston,V,17,48,NA,2
+2018,9,29,Tulane,Memphis,H,40,24,NA,2
+2018,11,24,Tulane,Navy,H,29,28,NA,2
+2018,9,9,Tulane,Nicholls St.,H,42,17,NA,2
+2018,9,22,Tulane,Ohio St.,V,6,49,NA,2
+2018,10,20,Tulane,SMU,H,23,27,NA,2
+2018,11,3,Tulane,South Fla.,V,41,15,NA,2
+2018,10,28,Tulane,Tulsa,V,24,17,NA,2
+2018,8,31,Tulane,Wake Forest,H,17,23,1,2
+2018,10,20,Tulsa,Arkansas,V,0,23,NA,2
+2018,9,16,Tulsa,Arkansas St.,H,20,29,NA,2
+2018,8,31,Tulsa,Central Ark.,H,38,27,NA,2
+2018,10,5,Tulsa,Houston,V,26,41,NA,2
+2018,11,10,Tulsa,Memphis,V,21,47,NA,2
+2018,11,17,Tulsa,Navy,V,29,37,NA,2
+2018,11,24,Tulsa,SMU,H,27,24,NA,2
+2018,10,13,Tulsa,South Fla.,H,24,25,NA,2
+2018,9,21,Tulsa,Temple,V,17,31,NA,2
+2018,9,9,Tulsa,Texas,V,21,28,NA,2
+2018,10,28,Tulsa,Tulane,H,17,24,NA,2
+2018,11,3,Tulsa,UConn,H,49,19,NA,2
+2018,8,31,UC Davis,San Jose St.,V,44,38,NA,2
+2018,9,15,UC Davis,Stanford,V,10,30,NA,2
+2018,11,18,UCF,Cincinnati,H,38,13,NA,2
+2018,10,21,UCF,East Carolina,V,37,10,NA,2
+2018,9,22,UCF,Fla. Atlantic,H,56,36,NA,2
+2018,10,13,UCF,Memphis,V,31,30,NA,2
+2018,12,1,UCF,Memphis,H,56,41,NA,2
+2018,11,10,UCF,Navy,H,35,24,NA,2
+2018,9,29,UCF,Pittsburgh,H,45,14,NA,2
+2018,10,7,UCF,SMU,H,48,20,NA,2
+2018,9,8,UCF,South Carolina St.,H,38,0,NA,2
+2018,11,23,UCF,South Fla.,V,38,10,NA,2
+2018,11,1,UCF,Temple,H,52,40,NA,2
+2018,8,31,UCF,UConn,V,56,17,NA,2
+2018,10,21,UCLA,Arizona,H,31,30,NA,2
+2018,11,10,UCLA,Arizona St.,V,28,31,NA,2
+2018,10,14,UCLA,California,V,37,7,NA,2
+2018,8,31,UCLA,Cincinnati,H,17,26,NA,2
+2018,9,29,UCLA,Colorado,V,16,38,NA,2
+2018,9,16,UCLA,Fresno St.,H,14,38,NA,2
+2018,9,8,UCLA,Oklahoma,V,21,49,NA,2
+2018,11,3,UCLA,Oregon,V,21,42,NA,2
+2018,11,17,UCLA,South Carolina,H,34,27,NA,2
+2018,11,24,UCLA,Stanford,H,42,49,NA,2
+2018,10,27,UCLA,Utah,H,10,41,NA,2
+2018,10,7,UCLA,Washington,H,24,31,NA,2
+2018,9,9,UConn,Boise St.,V,7,62,NA,2
+2018,9,29,UConn,Cincinnati,H,7,49,NA,2
+2018,11,18,UConn,East Carolina,V,21,55,NA,2
+2018,10,7,UConn,Memphis,V,14,55,NA,2
+2018,9,15,UConn,Rhode Island,H,56,49,NA,2
+2018,11,10,UConn,SMU,H,50,62,NA,2
+2018,10,21,UConn,South Fla.,V,30,38,NA,2
+2018,9,22,UConn,Syracuse,V,21,51,NA,2
+2018,11,24,UConn,Temple,H,7,57,NA,2
+2018,11,3,UConn,Tulsa,V,19,49,NA,2
+2018,8,31,UConn,UCF,H,17,56,NA,2
+2018,9,16,UNI,Iowa,V,14,38,NA,2
+2018,10,20,UNLV,Air Force,H,35,41,NA,2
+2018,9,23,UNLV,Arkansas St.,V,20,27,NA,2
+2018,11,4,UNLV,Fresno St.,H,3,48,NA,2
+2018,11,18,UNLV,Hawaii,V,28,35,NA,2
+2018,11,25,UNLV,Nevada,H,34,29,NA,2
+2018,10,6,UNLV,New Mexico,H,14,50,NA,2
+2018,9,16,UNLV,Prairie View,H,46,17,NA,2
+2018,10,27,UNLV,San Jose St.,V,37,50,NA,2
+2018,8,31,UNLV,South Carolina,V,21,43,NA,2
+2018,11,11,UNLV,South Dakota St.,V,27,24,NA,2
+2018,10,13,UNLV,Utah St.,V,28,59,NA,2
+2018,9,9,UNLV,UTEP,H,52,24,NA,2
+2018,9,9,UT Martin,Middle Tenn.,V,37,61,NA,2
+2018,8,31,UT Martin,Missouri,V,14,51,NA,2
+2018,10,13,Utah,Arizona,H,42,10,NA,2
+2018,11,3,Utah,Arizona St.,V,20,38,NA,2
+2018,11,25,Utah,BYU,H,35,27,NA,2
+2018,11,17,Utah,Colorado,V,30,7,NA,2
+2018,9,9,Utah,Northern Ill.,V,17,6,NA,2
+2018,11,10,Utah,Oregon,H,32,25,NA,2
+2018,10,21,Utah,South Carolina,H,41,28,NA,2
+2018,10,7,Utah,Stanford,V,40,21,NA,2
+2018,10,27,Utah,UCLA,V,41,10,NA,2
+2018,9,16,Utah,Washington,H,7,21,NA,2
+2018,12,1,Utah,Washington,V,3,10,NA,2
+2018,9,29,Utah,Washington St.,V,24,28,NA,2
+2018,8,31,Utah,Weber St.,H,41,10,NA,2
+2018,9,23,Utah St.,Air Force,H,42,32,NA,2
+2018,11,25,Utah St.,Boise St.,V,24,33,NA,2
+2018,10,6,Utah St.,BYU,V,45,20,NA,2
+2018,11,17,Utah St.,Colorado St.,V,29,24,NA,2
+2018,11,4,Utah St.,Hawaii,V,56,17,NA,2
+2018,8,31,Utah St.,Michigan St.,V,31,38,NA,2
+2018,10,27,Utah St.,New Mexico,H,61,19,NA,2
+2018,9,9,Utah St.,New Mexico St.,H,60,13,NA,2
+2018,11,10,Utah St.,San Jose St.,H,62,24,NA,2
+2018,9,14,Utah St.,Tennessee Tech,H,73,12,NA,2
+2018,10,13,Utah St.,UNLV,H,59,28,NA,2
+2018,10,20,Utah St.,Wyoming,V,24,16,NA,2
+2018,10,20,UTEP,Louisiana Tech,V,24,31,NA,2
+2018,11,10,UTEP,Middle Tenn.,H,32,48,NA,2
+2018,9,23,UTEP,New Mexico St.,H,20,27,NA,2
+2018,10,7,UTEP,North Texas,H,24,27,NA,2
+2018,8,31,UTEP,Northern Ariz.,H,10,30,NA,2
+2018,11,3,UTEP,Rice,V,34,26,NA,2
+2018,11,24,UTEP,Southern Miss.,H,7,39,NA,2
+2018,9,15,UTEP,Tennessee,V,0,24,NA,2
+2018,9,9,UTEP,UNLV,V,24,52,NA,2
+2018,9,30,UTEP,UTSA,V,21,30,NA,2
+2018,11,18,UTEP,Western Ky.,V,16,40,NA,2
+2018,8,31,UTSA,Arizona St.,V,7,49,NA,2
+2018,9,9,UTSA,Baylor,H,20,37,NA,2
+2018,11,11,UTSA,FIU,H,7,45,NA,2
+2018,9,15,UTSA,Kansas St.,V,17,41,NA,2
+2018,10,14,UTSA,Louisiana Tech,H,3,31,NA,2
+2018,11,17,UTSA,Marshall,V,0,23,NA,2
+2018,11,25,UTSA,North Texas,H,21,24,NA,2
+2018,10,7,UTSA,Rice,V,20,3,NA,2
+2018,10,21,UTSA,Southern Miss.,V,17,27,NA,2
+2018,9,23,UTSA,Texas St.,H,25,21,NA,2
+2018,9,30,UTSA,UTEP,H,30,21,NA,2
+2018,10,27,Vanderbilt,Arkansas,V,45,31,NA,2
+2018,10,13,Vanderbilt,Florida,H,27,37,NA,2
+2018,10,7,Vanderbilt,Georgia,V,13,41,NA,2
+2018,10,21,Vanderbilt,Kentucky,V,7,14,NA,2
+2018,8,31,Vanderbilt,Middle Tenn.,H,35,7,NA,2
+2018,11,10,Vanderbilt,Missouri,V,28,33,NA,2
+2018,9,8,Vanderbilt,Nevada,H,41,10,NA,2
+2018,9,15,Vanderbilt,Notre Dame,V,17,22,NA,2
+2018,11,18,Vanderbilt,Ole Miss,H,36,29,1,2
+2018,11,24,Vanderbilt,Tennessee,H,38,13,NA,2
+2018,9,29,Vanderbilt,Tennessee St.,H,31,27,NA,2
+2018,8,31,Villanova,Temple,V,19,17,NA,2
+2018,10,20,Virginia,Duke,V,28,14,NA,2
+2018,11,17,Virginia,Georgia Tech,V,27,30,1,2
+2018,9,9,Virginia,Indiana,V,16,20,NA,2
+2018,11,10,Virginia,Liberty,H,45,24,NA,2
+2018,9,22,Virginia,Louisville,H,27,3,NA,2
+2018,10,14,Virginia,Miami (FL),H,16,13,NA,2
+2018,10,27,Virginia,North Carolina,H,31,21,NA,2
+2018,9,29,Virginia,North Carolina St.,V,21,35,NA,2
+2018,9,15,Virginia,Ohio,H,45,31,NA,2
+2018,11,2,Virginia,Pittsburgh,H,13,23,NA,2
+2018,8,31,Virginia,Richmond,H,42,13,NA,2
+2018,11,23,Virginia,Virginia Tech,V,31,34,1,2
+2018,11,3,Virginia Tech,Boston College,H,21,31,NA,2
+2018,9,30,Virginia Tech,Duke,V,31,14,NA,2
+2018,8,31,Virginia Tech,Florida St.,V,24,3,NA,2
+2018,10,26,Virginia Tech,Georgia Tech,H,28,49,NA,2
+2018,12,1,Virginia Tech,Marshall,H,41,20,NA,2
+2018,11,17,Virginia Tech,Miami (FL),H,14,38,NA,2
+2018,10,14,Virginia Tech,North Carolina,V,22,19,NA,2
+2018,10,7,Virginia Tech,Notre Dame,H,23,45,NA,2
+2018,9,22,Virginia Tech,Old Dominion,V,35,49,NA,2
+2018,11,10,Virginia Tech,Pittsburgh,V,22,52,NA,2
+2018,11,23,Virginia Tech,Virginia,H,34,31,1,2
+2018,9,8,Virginia Tech,William & Mary,H,62,17,NA,2
+2018,11,17,VMI,Old Dominion,V,14,77,NA,2
+2018,8,31,VMI,Toledo,V,3,66,NA,2
+2018,9,8,Wagner,Syracuse,V,10,62,NA,2
+2018,9,13,Wake Forest,Boston College,H,34,41,NA,2
+2018,10,6,Wake Forest,Clemson,H,3,63,NA,2
+2018,11,24,Wake Forest,Duke,V,59,7,NA,2
+2018,10,20,Wake Forest,Florida St.,V,17,38,NA,2
+2018,10,27,Wake Forest,Louisville,V,56,35,NA,2
+2018,11,9,Wake Forest,North Carolina St.,V,27,23,NA,2
+2018,9,22,Wake Forest,Notre Dame,H,27,56,NA,2
+2018,11,17,Wake Forest,Pittsburgh,H,13,34,NA,2
+2018,9,29,Wake Forest,Rice,H,56,24,NA,2
+2018,11,3,Wake Forest,Syracuse,H,24,41,NA,2
+2018,9,8,Wake Forest,Towson,H,51,20,NA,2
+2018,8,31,Wake Forest,Tulane,V,23,17,1,2
+2018,9,23,Washington,Arizona St.,H,27,20,NA,2
+2018,8,31,Washington,Auburn,V,16,21,NA,2
+2018,9,30,Washington,BYU,H,35,7,NA,2
+2018,10,27,Washington,California,V,10,12,NA,2
+2018,10,20,Washington,Colorado,H,27,13,NA,2
+2018,9,8,Washington,North Dakota,H,45,3,NA,2
+2018,10,13,Washington,Oregon,V,27,30,1,2
+2018,11,17,Washington,Oregon St.,H,42,23,NA,2
+2018,11,4,Washington,Stanford,H,27,23,NA,2
+2018,10,7,Washington,UCLA,V,31,24,NA,2
+2018,9,16,Washington,Utah,V,21,7,NA,2
+2018,12,1,Washington,Utah,H,10,3,NA,2
+2018,11,24,Washington,Washington St.,V,28,15,NA,2
+2018,11,18,Washington St.,Arizona,H,69,28,NA,2
+2018,11,4,Washington St.,California,H,19,13,NA,2
+2018,11,10,Washington St.,Colorado,V,31,7,NA,2
+2018,9,16,Washington St.,Eastern Wash.,H,59,24,NA,2
+2018,10,21,Washington St.,Oregon,H,34,20,NA,2
+2018,10,7,Washington St.,Oregon St.,V,56,37,NA,2
+2018,9,9,Washington St.,San Jose St.,H,31,0,NA,2
+2018,9,22,Washington St.,South Carolina,V,36,39,NA,2
+2018,10,28,Washington St.,Stanford,V,41,38,NA,2
+2018,9,29,Washington St.,Utah,H,28,24,NA,2
+2018,11,24,Washington St.,Washington,H,15,28,NA,2
+2018,8,31,Washington St.,Wyoming,V,41,19,NA,2
+2018,8,31,Weber St.,Utah,V,10,41,NA,2
+2018,10,26,West Virginia,Baylor,H,58,14,NA,2
+2018,10,14,West Virginia,Iowa St.,V,14,30,NA,2
+2018,10,6,West Virginia,Kansas,H,38,22,NA,2
+2018,9,22,West Virginia,Kansas St.,H,35,6,NA,2
+2018,11,24,West Virginia,Oklahoma,H,56,59,NA,2
+2018,11,17,West Virginia,Oklahoma St.,V,41,45,NA,2
+2018,11,10,West Virginia,TCU,H,47,10,NA,2
+2018,8,31,West Virginia,Tennessee,V,40,14,NA,2
+2018,11,3,West Virginia,Texas,V,42,41,NA,2
+2018,9,29,West Virginia,Texas Tech,V,42,34,NA,2
+2018,9,8,West Virginia,Youngstown St.,H,52,17,NA,2
+2018,11,17,Western Caro.,North Carolina,V,26,49,NA,2
+2018,9,9,Western Ill.,Illinois,V,14,34,NA,2
+2018,9,22,Western Ky.,Ball St.,V,28,20,NA,2
+2018,10,13,Western Ky.,Charlotte,V,14,40,NA,2
+2018,10,28,Western Ky.,FIU,H,17,38,NA,2
+2018,11,10,Western Ky.,Fla. Atlantic,V,15,34,NA,2
+2018,11,24,Western Ky.,Louisiana Tech,V,30,15,NA,2
+2018,9,16,Western Ky.,Louisville,V,17,20,NA,2
+2018,9,9,Western Ky.,Maine,H,28,31,NA,2
+2018,9,30,Western Ky.,Marshall,H,17,20,NA,2
+2018,11,3,Western Ky.,Middle Tenn.,V,10,29,NA,2
+2018,10,21,Western Ky.,Old Dominion,H,34,37,NA,2
+2018,11,18,Western Ky.,UTEP,H,40,16,NA,2
+2018,8,31,Western Ky.,Wisconsin,V,3,34,NA,2
+2018,11,13,Western Mich.,Ball St.,V,41,42,1,2
+2018,10,13,Western Mich.,Bowling Green,V,42,35,NA,2
+2018,10,20,Western Mich.,Central Mich.,V,35,10,NA,2
+2018,9,16,Western Mich.,Delaware St.,H,68,0,NA,2
+2018,10,6,Western Mich.,Eastern Mich.,H,27,24,NA,2
+2018,9,22,Western Mich.,Georgia St.,V,34,15,NA,2
+2018,9,29,Western Mich.,Miami (OH),V,40,39,NA,2
+2018,9,8,Western Mich.,Michigan,V,3,49,NA,2
+2018,11,21,Western Mich.,Northern Ill.,H,28,21,NA,2
+2018,11,1,Western Mich.,Ohio,H,14,59,NA,2
+2018,8,31,Western Mich.,Syracuse,H,42,55,NA,2
+2018,10,26,Western Mich.,Toledo,H,24,51,NA,2
+2018,9,8,William & Mary,Virginia Tech,V,17,62,NA,2
+2018,9,15,Wisconsin,BYU,H,21,24,NA,2
+2018,10,20,Wisconsin,Illinois,H,49,20,NA,2
+2018,9,23,Wisconsin,Iowa,V,28,17,NA,2
+2018,10,14,Wisconsin,Michigan,V,13,38,NA,2
+2018,11,24,Wisconsin,Minnesota,H,15,37,NA,2
+2018,10,7,Wisconsin,Nebraska,H,41,24,NA,2
+2018,9,8,Wisconsin,New Mexico,H,45,14,NA,2
+2018,10,27,Wisconsin,Northwestern,V,17,31,NA,2
+2018,11,10,Wisconsin,Penn St.,V,10,22,NA,2
+2018,11,17,Wisconsin,Purdue,V,47,44,3,2
+2018,11,3,Wisconsin,Rutgers,H,31,17,NA,2
+2018,8,31,Wisconsin,Western Ky.,H,34,3,NA,2
+2018,9,15,Wofford,Wyoming,V,14,17,NA,2
+2018,11,17,Wyoming,Air Force,H,35,27,NA,2
+2018,9,30,Wyoming,Boise St.,H,14,34,NA,2
+2018,10,27,Wyoming,Colorado St.,V,34,21,NA,2
+2018,10,14,Wyoming,Fresno St.,V,3,27,NA,2
+2018,10,7,Wyoming,Hawaii,V,13,17,NA,2
+2018,9,9,Wyoming,Missouri,V,13,40,NA,2
+2018,11,24,Wyoming,New Mexico,V,31,3,NA,2
+2018,8,26,Wyoming,New Mexico St.,V,29,7,NA,2
+2018,11,3,Wyoming,San Jose St.,H,24,9,NA,2
+2018,10,20,Wyoming,Utah St.,H,16,24,NA,2
+2018,8,31,Wyoming,Washington St.,H,19,41,NA,2
+2018,9,15,Wyoming,Wofford,H,17,14,NA,2
+2018,9,8,Youngstown St.,West Virginia,V,17,52,NA,2
