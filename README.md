@@ -11,3 +11,6 @@ YUSAG model for both FBS and FCS rankings.
 In the spirit of trying to be helpful and contributing to the sports analytics community, the full details of the model are described in the [FCS notebook](https://github.com/mc-robinson/YUSAG_football_model/blob/master/YUSAG_FCS_football_linear_model.ipynb).
 
 Please feel free to send us questions/comments/suggestions by either [twitter](https://twitter.com/YaleSportsGroup) or email at matthew.robinson@yale.edu 
+
+Additions made by Vassilios Papapostolou aka hogyzen12, specifically furthering model to encapsulate 17/18 season and use for 19 season
+email billypapas12@gmail.com
